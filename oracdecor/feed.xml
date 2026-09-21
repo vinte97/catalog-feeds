@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-09-22T03:53:45+05:00">
+  <shop>
+    <name>Orac Decor</name>
+    <company>Orac Decor</company>
+    <url>https://oracdecor.ru</url>
+    <platform>BSM/Yandex/Market</platform>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">3D стеновые покрытия</category>
+      <category id="2">Плинтусы</category>
+      <category id="3">Клеи и инструменты</category>
+      <category id="4">Молдинги</category>
+      <category id="5">Карнизы</category>
+      <category id="6">Скрытое освещение</category>
+      <category id="7">Декоративные элементы</category>
+    </categories>
+    <offers>
+      <offer id="W109" available="true">
+        <url>https://oracdecor.ru/w109_decorative_element</url>
+        <price>7162</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w109_decorative_element-w109_decorative_element-image_1-w109_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W109</vendorCode>
+        <name>W109 ДОЛИНА/VALLEY</name>
+        <description>Долина/Valley является частью коллекции 3D Стеновые панели/3D Wall Covering. Не сдерживайте свою креативность, превратите интерьер в произведение искусства. Играйте с разными формами и цветовыми акцентами. Разработан дизайнером Орио Тонини.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 25 x ш 1,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">1.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">3581</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="SX163" available="true">
+        <url>https://oracdecor.ru/sx163_skirting</url>
+        <price>1295</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx163_skirting-sx163_skirting-image_1-sx163_skirting_mf.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX163</vendorCode>
+        <name>SX163 КВАДРАТ/SQUARE</name>
+        <description>Этот большой, простой плинтус — часть семейства КВАДРАТ/SQUARE. Вы можете использовать такой плинтус во всем доме, просто выберете подходящий размер.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 10,1 x ш 1,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">10.1</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">647.5</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="SX183" available="true">
+        <url>https://oracdecor.ru/sx183_skirting</url>
+        <price>1004</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx183_skirting-sx183_skirting-image_1-sx183_skirting_mf.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX183</vendorCode>
+        <name>SX183 КАСКАД/CASCADE</name>
+        <description>Этот многофункциональный плинтус с закругленным верхом предлагает бесконечные возможности для отделки помещения. Дополните дизайн помещения другими продуктами из семейства КАСКАД/CASCADE, чтобы придать целостность интерьеру.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 7,5 x ш 1,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">7.5</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">502</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="W114" available="true">
+        <url>https://oracdecor.ru/w114_decorative_element</url>
+        <price>8678</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w114_decorative_element-w114_decorative_element-image_1-w114_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W114</vendorCode>
+        <name>W114 ДОЛИНА/VALLEY XL</name>
+        <description>Панель W114 ДОЛИНА/VALLEY XL является новым дополнением к коллекции стеновых покрытий, разработанных дизайнером и архитектором Орио Тонини. Дизайн панели повторяет рельеф W109 ДОЛИНА/VALLEY, но в более выразительном и крупном формате. Обе панели прекрасно сочетаются друг с другом, позволяя создавать динамическую смену рельефного объема на стенах и подчеркивать цветовые контрасты.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 25 x ш 1,5 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">1.5</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">4339</param>
+      </offer>
+      <offer id="FDP700" available="true">
+        <url>https://oracdecor.ru/fdp700-klej-dlja-dekora-decofix</url>
+        <price>1895</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/_/7/_700.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>FDP700</vendorCode>
+        <name>FDP700 Клей для декора/DecoFix</name>
+        <description>Сверхсильный монтажный полимерный клей FDP700 объемом - 290ml &gt; в пластиковой тубе Предназначен для монтажа карнизов, молдингов и стеновых панелей, внутри и снаружи зданий и для монтажа в помещениях с повышенной влажностью. Быстро схватывается Безусадочный Белый Без запаха Подходит для наружного применения Способ применения: Поверхность должна быть чистой, сухой, очищенной от пыли и жира. Обильно нанесите клей на склеиваемую поверхность, плотно прижмите. Открытое время до формирования поверхностной пленки 10-20 минут, в зависимости от пористости основания, используемого инструмента, влажности и температуры в помещении. Излишки клея удалите мыльной водой в течение 10 минут после нанесения. Подождите 24 часа и покройте краской на водной основе. В случае, если клей был заморожен, необходимо выдержать его при комнатной температуре до полного размораживания. Температура должна быть доведена до 20±5⁰С. Запрещается принудительное размораживание с использованием отопительных приборов и горячей воды. Срок годности 12 месяцев с момента производства.</description>
+        <param name="Размеры">д 23 x в 6 x ш 6 см</param>
+        <param name="Длина, см">23</param>
+        <param name="Высота, см">6</param>
+        <param name="Ширина, см">6</param>
+        <param name="Единица цены">шт</param>
+      </offer>
+      <offer id="SX173" available="true">
+        <url>https://oracdecor.ru/sx173_skirting</url>
+        <price>1295</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx173_skirting-sx173_skirting-image_1-sx173_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX173</vendorCode>
+        <name>SX173 КОНТУР/CONTOUR</name>
+        <description>Элегантный классический плинтус из семейства КОНТУР/CONTOUR имеет минималистичный дизайн, украшен легкими завитками.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 10 x ш 1,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">10</param>
+        <param name="Ширина, см">1.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">647.5</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="W110" available="true">
+        <url>https://oracdecor.ru/w110_decorative_element</url>
+        <price>7162</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w110_decorative_element-w110_decorative_element-image_1-w110_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W110</vendorCode>
+        <name>W110 ХОЛМ/HILL</name>
+        <description>3D Стеновые панели/3D Wall Covering - Hill является частью коллекции 3D Стеновые панели/3D Wall Covering. Не сдерживайте свою креативность, превратите интерьер в произведение искусства. Играйте с разными формами и цветовыми акцентами. Разработан дизайнером Орио Тонини.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 25 x ш 1,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">1.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">3581</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="P8030" available="true">
+        <url>https://oracdecor.ru/p8030_panel_moulding</url>
+        <price>1570</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/8/p8030_panel_moulding-p8030_panel_moulding-image_1-p8030_p.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>P8030</vendorCode>
+        <name>P8030</name>
+        <description>Молдинг украшений мягкими завитками, которые прекрасно пишутся в интерьере. Элегантный дизайн придаст утонченный вид в любом месте. Этот молдинг идеально сочетается с угловыми элементами P8030C .</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 4,1 x ш 1,7 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">4.1</param>
+        <param name="Ширина, см">1.7</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">785</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="C338" available="true">
+        <url>https://oracdecor.ru/c338_cornice_moulding</url>
+        <price>7528</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c338_cornice_moulding-c338_cornice_moulding-image_1-c338_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C338</vendorCode>
+        <name>C338 БАРОККО/BA'ROCK</name>
+        <description>Эта самая большая модель (Кентербери) Canterbury, украшенная одинаковым линейным узором по верхнему и нижнему краям, выглядит величественно и подчеркнуто симметрично. Эта модель часто комбинируется с карнизами C338A или C338B и настенными молдингами P3020 (A). Примечания: Используйте DecoFix Power для крепления массивных карнизов для штор.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 18,2 x ш 18,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">18.2</param>
+        <param name="Ширина, см">18.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">3764</param>
+        <param name="Метки">Новая Классика</param>
+      </offer>
+      <offer id="W111" available="true">
+        <url>https://oracdecor.ru/w111_decorative_element</url>
+        <price>7984</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w111_decorative_element-w111_decorative_element-image_1-w111_3d.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W111</vendorCode>
+        <name>W111 ЛИНИЯ/BAR</name>
+        <description>W111 ЛИНИЯ/BAR – это графичное дополнение к нашим панелям ЗИГЗАГ/ZIGZAG, ДОЛИНА/VALLEY и ХОЛМ/HILL. Идеально сочетается с профилями CX190 и SX194, дает бесконечные возможности для дизайна и быстрой, простой установки. Покройте им всю стену от потолка до пола, чтобы мгновенно создать вау-эффект в любой комнате или пространстве.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 25 x ш 2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">3992</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="SX157" available="true">
+        <url>https://oracdecor.ru/sx157_skirting</url>
+        <price>749</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx157_skirting-sx157_skirting-image_1-sx157_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX157</vendorCode>
+        <name>SX157 КВАДРАТ/SQUARE</name>
+        <description>Наш самый простой плинтус является частью семейства КВАДРАТ/SQUARE. Вы можете использовать такой плинтус во всем доме, просто выберете подходящий размер.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 6,6 x ш 1,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">6.6</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">374.5</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="SX118" available="true">
+        <url>https://oracdecor.ru/sx118_skirting</url>
+        <price>1830</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx118_skirting-sx118_skirting-image_1-sx118_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX118</vendorCode>
+        <name>SX118 КОНТУР/CONTOUR</name>
+        <description>Этот классический плинтус является частью семейства КОНТУР/CONTOUR. Для создания завершенного интерьера всего дома мы предлагаем модели одного дизайна в различных размерах.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 13,9 x ш 1,8 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">13.9</param>
+        <param name="Ширина, см">1.8</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">915</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="C991" available="true">
+        <url>https://oracdecor.ru/c991_cornice_moulding</url>
+        <price>6594</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/9/c991_cornice_moulding-c991_cornice_moulding-image_1-c991_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C991</vendorCode>
+        <name>C991</name>
+        <description>Современный карниз с широкими возможностями применения. Здесь мы разместили самую длинную сторону на потолке, чтобы визуально расширить пространство. Разработка дизайнера Ульфа Морица. Примечания: Используйте DecoFix Power .</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 11 x ш 14 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">11</param>
+        <param name="Ширина, см">14</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">3297</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="C396" available="true">
+        <url>https://oracdecor.ru/c396_uplighter</url>
+        <price>7071</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c396_uplighter-c396_uplighter-image_1-c396_il.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C396</vendorCode>
+        <name>C396 СТУПЕНИ/STEPS</name>
+        <description>Этот строгий и современный профиль из серии Ступени/ Steps также может использоваться для перекрытия светодиодов. Модель имеет срезанный угол сверху и легкий, благодаря чему возникла тонкая линия тени. Разработан дизайнером Орио Тонини. Замечания по установке: Используйте алюминиевую ленту на внутренней стороне профиля или алюминиевый профиль для светодиодов, чтобы свет не просвечивал сквозь профиль.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 18,5 x ш 6,1 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">18.5</param>
+        <param name="Ширина, см">6.1</param>
+        <param name="Единица цены">шт</param>
+        <param name="Метки">Модерн</param>
+      </offer>
+      <offer id="SX184" available="true">
+        <url>https://oracdecor.ru/sx184_skirting</url>
+        <price>1295</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx184_skirting-sx184_skirting-image_1-sx184_skirting_mf.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX184</vendorCode>
+        <name>SX184 КАСКАД/CASCADE</name>
+        <description>Этот многофункциональный плинтус с закругленным верхом предлагает бесконечные возможности для отделки помещения. Дополните дизайн помещения другими продуктами из семейства КАСКАД/CASCADE, чтобы придать целостность интерьеру.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 11 x ш 1,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">11</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">647.5</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="SX180" available="true">
+        <url>https://oracdecor.ru/sx180_skirting</url>
+        <price>1877</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx180_skirting-sx180_skirting-image_1-sx180_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX180</vendorCode>
+        <name>SX180 ВЫСОКИЙ ШТРИХ/HIGH LINE</name>
+        <description>Чистота форм и превосходные пропорции позволяют плинтусам Высокий Штрих/High Line создавать идеальные переходы от стен к потолку. Вне зависимости от стиля вашего интерьера.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 12 x ш 1,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">12</param>
+        <param name="Ширина, см">1.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">938.5</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="WX205-2600" available="true">
+        <url>https://oracdecor.ru/wx205-2600-trek-track</url>
+        <price>4741</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/x/wx205-2600_decorative_element-wx205-2600_decorative_element-image_1-wx205_small_3d.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>WX205-2600</vendorCode>
+        <name>WX205-2600 ТРЕК/TRACK</name>
+        <description>Линейные панели WX205 - это основа для вашего творчества. Прямоугольные и рифленые линии представлены в двух вариантах, тк панель можно использовать с двух сторон. Выбор за вами! RIPPLE и TRACK - это новейшие 3D панели из дюрополимера от Orac, расширяют возможности ваших стен. Хорошее решение для создания защитного барьера стены для помещений с высокой проходимостью. Прогрунтована только сторона А. Для стороны B используйте два слоя финишной краски или сначала нанесите грунтовку, а потом финишную краску. Используйте эту версию 2м60 для покрытия всей высоты потолка за один проход. Для всех остальных применений используйте версию 2 м.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 260 x в 25 x ш 1,3 см</param>
+        <param name="Длина, см">260</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1823.46</param>
+      </offer>
+      <offer id="CX192" available="true">
+        <url>https://oracdecor.ru/cx192_border</url>
+        <price>2138</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/x/cx192_border-cx192_border-image_1-cx192_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>CX192</vendorCode>
+        <name>CX192</name>
+        <description>Этот карниз со скруглённым обломом (гуськом) и большим удлиненным основанием - идеальное завершение любого пространства. Карниз CX192 создает изящный переход между стеной и потолком, и добавляет изысканности Вашему интерьеру. Варианты этого профиля меньшего размера - CX141 и CX176 .</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 12 x ш 6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">12</param>
+        <param name="Ширина, см">6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1069</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="FX250" available="true">
+        <url>https://oracdecor.ru/fx250-klej-dlja-dekora-decofix</url>
+        <price>2380</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/2/0/2022-05-03-15-11-41-print-00002_1_3.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>FX250</vendorCode>
+        <name>FX250 Стыковочный клей DecoFix</name>
+        <description>Стыковочный клей на полиуретановой основе для соединительных швов лепного декора 310 мл, расход &gt; 80 м Срок годности клея 12 месяцев с даты производства, указанной на упаковке Избыток клея предпочтительно удалять до затвердевания (макс 30 мин и повтор каждые 2-3 часа при необходимости) Излишки и пятна клея следует удалять с помощью ацетона или растворителя Лепной декор можно красить через 24 часа Чем выше влажность, тем короче время высыхания Работа разрешена при температуре от -5°C до +45°C Для Durofoam®: используйте клей для соединения DecoFix Pro Plus / DecoFix Power Клей наносится на все склеиваемые поверхности изделия (по всей длине, по всей ширине). Чтобы проверить, используете ли вы достаточное количество клея, воспользуйтесь калькулятором клея .</description>
+        <param name="Размеры">д 23 x в 6 x ш 6 см</param>
+        <param name="Длина, см">23</param>
+        <param name="Высота, см">6</param>
+        <param name="Ширина, см">6</param>
+        <param name="Единица цены">шт</param>
+      </offer>
+      <offer id="C321" available="true">
+        <url>https://oracdecor.ru/c321_border</url>
+        <price>2793</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c321_border-c321_border-image_1-c321_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C321</vendorCode>
+        <name>C321 ВЕЛИЧИЕ/NOBLESSE</name>
+        <description>Классическая модель Котсуолд (Cotswold) с линейным рисунком. Этот хит продаж можно разместить двумя способами: плоской стороной к стене или потолку.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 9,9 x ш 5 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">9.9</param>
+        <param name="Ширина, см">5</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1396.5</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="C217" available="true">
+        <url>https://oracdecor.ru/c217_cornice_moulding</url>
+        <price>4612</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/2/c217_cornice_moulding-c217_cornice_moulding-image_1-c217_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C217</vendorCode>
+        <name>C217</name>
+        <description>Идеально симметричная модель Кентербери (Canterbury) украшена одинаковым линейным узором по верхнему и нижнему краю. Этот хит продаж представлен также в версии меньшего ( C213 ) и большего размера ( C338 ).</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 10,3 x ш 15,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">10.3</param>
+        <param name="Ширина, см">15.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">2306</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="SX105" available="true">
+        <url>https://oracdecor.ru/sx105_skirting</url>
+        <price>1150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx105_skirting-sx105_skirting-image_1-sx105_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX105</vendorCode>
+        <name>SX105</name>
+        <description>Современный плинтус с бороздками. Неброский дизайн для деликатного перехода от пола к стене.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 11 x ш 1,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">11</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">575</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="PX175" available="true">
+        <url>https://oracdecor.ru/px175</url>
+        <price>660</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/x/px175_panel_moulding-px175_panel_moulding-image_1-px175_panel_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>PX175</vendorCode>
+        <name>PX175</name>
+        <description>Благодаря классическому настенному молдингу с изящными изгибами вы сможете придать интерьеру особый шик. Украсьте ваш интерьер другими продуктами семейства HERITAGE.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 5 x ш 1,7 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">5</param>
+        <param name="Ширина, см">1.7</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">330</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="FDP550" available="true">
+        <url>https://oracdecor.ru/fdp550-klej-dlja-dekora-decofix</url>
+        <price>774</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/a/5/a5863319-5712-11f0-b8d6-00155d040c0d.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>FDP550</vendorCode>
+        <name>FDP550 Клей для декора/DecoFix</name>
+        <description>Акриловый монтажный клей на водной основе FDP550 объемом - 310ml в пластиковой тубе предназначен для монтажа декоративной лепнины и других архитектурных элементов из Дюрополимера и Дюрофома. Для внутренних работ и применения на пористых поверхностях. Быстро схватывается Белый Безопасный. Не содержит растворителей Удобный в использовании Совместим с лакокрасочными материалами Способ применения: Вся поверхность должна быть чистой, сухой и свободной от пыли. Предварительно удалить краску и другие настенные покрытия. Обильно нанести монтажный клей на поверхность изделия с помощью пистолета или шпателя, зафиксировать изделие, плотно придавить до полного склеивания. Открытое время до формирования поверхностной пленки 10-20 минут, в зависимости от пористости основания, используемого инструмента, влажности и температуры в помещении. Полное склеивание достигается в период от 48 до 72 часов. Не рекомендуется наносить лакокрасочный материал до полного затвердевания клея (мин. 24 часа). В случае, если клей был заморожен, необходимо выдержать его при комнатной температуре до полного размораживания. Температура должна быть доведена до 20+5°С. Запрещается принудительное размораживание с использованием отопительных приборов и горячей воды. Излишки клея до затвердевания удаляются с поверхности с помощью воды. Срок годности: 18 мес.</description>
+        <param name="Размеры">д 23 x в 6 x ш 6 см</param>
+        <param name="Длина, см">23</param>
+        <param name="Высота, см">6</param>
+        <param name="Ширина, см">6</param>
+        <param name="Единица цены">шт</param>
+      </offer>
+      <offer id="PX103" available="true">
+        <url>https://oracdecor.ru/px103_panel_moulding</url>
+        <price>327</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/x/px103_panel_moulding-px103_panel_moulding-image_1-px103_panel_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>PX103</vendorCode>
+        <name>PX103</name>
+        <description>Классический настенный молдинг со спокойными завитками. Может быть использован для отделки нижней части плинтуса.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 2,5 x ш 1,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">2.5</param>
+        <param name="Ширина, см">1.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">163.5</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="W108" available="true">
+        <url>https://oracdecor.ru/w108_decorative_element</url>
+        <price>7162</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w108_decorative_element-w108_decorative_element-image_1-w108_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W108</vendorCode>
+        <name>W108 ЗИГЗАГ/ZIGZAG</name>
+        <description>Зигзаг/Zigzag является частью коллекции 3D Стеновые панели/3D Wall Covering. Не сдерживайте свою креативность, превратите интерьер в произведение искусства. Играйте с разными формами и цветовыми акцентами. Разработан дизайнером Орио Тонини.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 25 x ш 1,8 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">1.8</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">3581</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="C391" available="true">
+        <url>https://oracdecor.ru/c391_cornice_moulding</url>
+        <price>5768</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c391_cornice_moulding-c391_cornice_moulding-image_1-c391_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C391</vendorCode>
+        <name>C391 СТУПЕНИ/STEPS</name>
+        <description>Строгий и современный профиль из серии Ступени/Steps. Здесь мы разместили самую длинную сторону карниза на потолке, чтобы визуально расширить помещение. Модель имеет срезанный угол сверху и снизу, благодаря чему создается тонкая линия тени. Разработан дизайнером Орио Тонини.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 6 x ш 16 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">6</param>
+        <param name="Ширина, см">16</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">2884</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="C339" available="true">
+        <url>https://oracdecor.ru/c339_border</url>
+        <price>4794</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c339_border-c339_border-image_1-c339_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C339</vendorCode>
+        <name>C339 ВЕЛИЧИЕ/NOBLESSE</name>
+        <description>Классический карниз (Котсуолд) Cotswold отличается линейным дизайном, который впишется практически в любой интерьер.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 14,1 x ш 6,4 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">14.1</param>
+        <param name="Ширина, см">6.4</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">2397</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="WX210-2600" available="true">
+        <url>https://oracdecor.ru/wx210-2600-svirel-reed</url>
+        <price>4741</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/x/wx210-2600_decorative_element-wx210-2600_decorative_element-image_1-wx210_3d.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>WX210-2600</vendorCode>
+        <name>WX210-2600 СВИРЕЛЬ/REED</name>
+        <description>WX210 Свирель/Reed предоставляет бескрайние творческие возможности. Горизонтальная установка этих панелей создает ощущение легкого движения, будто тростник колышется на легком ветру. При вертикальной установке они приобретают изысканный рост, воспроизводя ритм высокого тростника. Совмещение панелей легко осуществить благодаря стыкующимся краям, что обеспечивает быстроту установки и сохранение непрерывного, плавного узора на стене - вот такая игра в формах и ритме, представленная WX210 Свирель/Reed.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 260 x в 25,5 x ш 1,2 см</param>
+        <param name="Длина, см">260</param>
+        <param name="Высота, см">25.5</param>
+        <param name="Ширина, см">1.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1823.46</param>
+      </offer>
+      <offer id="SX162" available="true">
+        <url>https://oracdecor.ru/sx162_skirting</url>
+        <price>732</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx162_skirting-sx162_skirting-image_1-sx162_skirting_mf.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX162</vendorCode>
+        <name>SX162 КВАДРАТ/SQUARE</name>
+        <description>Плинтус SX162 - Наш самый простой плинтус является частью семейства КВАДРАТ/SQUARE. Вы можете использовать такой плинтус во всем доме, просто выберите подходящий размер.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 4 x ш 1 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">4</param>
+        <param name="Ширина, см">1</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">366</param>
+        <param name="Метки">Модерн</param>
+      </offer>
+      <offer id="P8020" available="true">
+        <url>https://oracdecor.ru/p8020_panel_moulding</url>
+        <price>1914</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/8/p8020_panel_moulding-p8020_panel_moulding-image_1-p8020_p.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>P8020</vendorCode>
+        <name>P8020</name>
+        <description>Молдинг украшен мягкими завитками, которые прекрасно впишутся в интерьер. Элегантный дизайн придаст утонченный вид любому помещению.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 6 x ш 2,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">6</param>
+        <param name="Ширина, см">2.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">957</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="W212" available="true">
+        <url>https://oracdecor.ru/w212_decorative_element</url>
+        <price>7162</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/2/w212_decorative_element-w212_decorative_element-image_1-w212_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W212</vendorCode>
+        <name>W212 ДУГА ДОЛИНЫ/VALLEY LOOP</name>
+        <description>W212 ДУГА ДОЛИНЫ/VALLEY LOOP - очаровательное дополнение к семейству VALLEY с его изюминкой в стиле нео-ар-деко и роскошными петлями, которые переносят нас в гламур эпохи ар-деко. Вместе с ДОЛИНА/VALLEY и ДОЛИНА XL/VALLEY XL вы можете создавать изысканные решения с элегантными пропорциями, готовые оживить стены и цвета. Для придания дополнительного шика используйте вместе с PX209 ЛЕНТА/RIBBON. Дизайнер Орио Тонини.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 25 x ш 1,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">1.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">3581</param>
+      </offer>
+      <offer id="C304" available="true">
+        <url>https://oracdecor.ru/c304_border</url>
+        <price>5245</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c304_border-c304_border-image_1-c304_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C304</vendorCode>
+        <name>C304</name>
+        <description>Традиционный карниз с ребристым рисунком. Этот профиль, представленный как в классическом, так и в современном исполнении, добавит шарма вашему интерьеру.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 12,2 x ш 7,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">12.2</param>
+        <param name="Ширина, см">7.2</param>
+        <param name="Единица цены">шт</param>
+      </offer>
+      <offer id="C392" available="true">
+        <url>https://oracdecor.ru/c392-stupeni-steps</url>
+        <price>8462</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c392_border-c392_border-image_1-c392_c_border.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C392</vendorCode>
+        <name>C392 СТУПЕНИ/STEPS</name>
+        <description>Строгий и современный профиль из серии Ступени/Steps. Модель имеет срезанный угол сверху и снизу, благодаря чему создается тонкая линия тени. Разработан дизайнером Орио Тонини.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 19 x ш 10 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">19</param>
+        <param name="Ширина, см">10</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">4231</param>
+        <param name="Метки">Модерн</param>
+      </offer>
+      <offer id="SX137" available="true">
+        <url>https://oracdecor.ru/sx137_skirting</url>
+        <price>1284</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx137_skirting-sx137_skirting-image_1-sx137_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX137</vendorCode>
+        <name>SX137</name>
+        <description>Среднеразмерный закругленный профиль для изысканной отделки стен.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 9,9 x ш 1,5 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">9.9</param>
+        <param name="Ширина, см">1.5</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">642</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="SX156" available="true">
+        <url>https://oracdecor.ru/sx156_skirting</url>
+        <price>3728</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx156_skirting-sx156_skirting-image_1-sx156_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX156</vendorCode>
+        <name>SX156 ВЕРШИНЫ/HIGH HEELS</name>
+        <description>Этот высокий плинтус украсит переходы от стен к полу и поможет скрыть небольшие повреждения на поверхностях. Модель разработана дизайнером Ксавье Донком.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 20,2 x ш 1,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">20.2</param>
+        <param name="Ширина, см">1.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1864</param>
+        <param name="Метки">Новая Классика</param>
+      </offer>
+      <offer id="CX106" available="true">
+        <url>https://oracdecor.ru/cx106_cornice_moulding</url>
+        <price>2256</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/x/cx106_cornice_moulding-cx106_cornice_moulding-image_1-cx106_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>CX106</vendorCode>
+        <name>CX106</name>
+        <description>Элегантный карниз для создания незаметного перехода между стеной и потолком. Этот хит продаж подходит к разным стилям интерьера.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 11,8 x ш 11,7 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">11.8</param>
+        <param name="Ширина, см">11.7</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1128</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="SX191" available="true">
+        <url>https://oracdecor.ru/sx191_skirting</url>
+        <price>4895</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx191_skirting-sx191_skirting-image_1-sx191_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX191</vendorCode>
+        <name>SX191 ВЫСОКИЙ ПОДЪЕМ/HIGH RISE</name>
+        <description>SX191 - это элегантный плинтус высотой 21 см (!) с мелкими декоративными элементами. Создайте статичный образ и добавьте в свой интерьер величие настоящей классики.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 21 x ш 2,1 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">21</param>
+        <param name="Ширина, см">2.1</param>
+        <param name="Единица цены">шт</param>
+        <param name="Метки">Новая Классика</param>
+      </offer>
+      <offer id="PX120" available="true">
+        <url>https://oracdecor.ru/px120_panel_moulding</url>
+        <price>568</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/x/px120_panel_moulding-px120_panel_moulding-image_1-px120_panel_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>PX120</vendorCode>
+        <name>PX120</name>
+        <description>Классический настенный молдинг со спокойными завитками. Может быть использован для отделки нижней части плинтуса.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 4 x ш 1,9 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">4</param>
+        <param name="Ширина, см">1.9</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">284</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="WX205" available="true">
+        <url>https://oracdecor.ru/wx205_decorative_element</url>
+        <price>3647</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/x/wx205_decorative_element-wx205_decorative_element-image_1-wx205_small_3d.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>WX205</vendorCode>
+        <name>WX205 ТРЕК/TRACK</name>
+        <description>Линейные панели WX205 - это основа для вашего творчества. Прямоугольные и рифленые линии представлены в двух вариантах, тк панель можно использовать с двух сторон. Выбор за вами! ПЕРЕЛИВЫ/RIPPLE и ТРЕК/TRACK - это новейшие 3D панели из дюрополимера от Orac, расширяют возможности ваших стен. Хорошее решение для создания защитного барьера стены для помещений с высокой проходимостью. Прогрунтована только сторона А. Для стороны B используйте два слоя финишной краски или сначала нанесите грунтовку, а потом финишную краску.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 25 x ш 1,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1823.5</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="WX210" available="true">
+        <url>https://oracdecor.ru/wx210_decorative_element</url>
+        <price>3647</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/x/wx210_decorative_element-wx210_decorative_element-image_1-wx210_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>WX210</vendorCode>
+        <name>WX210 СВИРЕЛЬ/REED</name>
+        <description>WX210 Свирель/Reed предоставляет бескрайние творческие возможности. Горизонтальная установка этих панелей создает ощущение легкого движения, будто тростник колышется на легком ветру. При вертикальной установке они приобретают изысканный рост, воспроизводя ритм высокого тростника. Совмещение панелей легко осуществить благодаря стыкующимся краям, что обеспечивает быстроту установки и сохранение непрерывного, плавного узора на стене - вот такая игра в формах и ритме, представленная WX210 Свирель/Reed.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 25,5 x ш 1,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25.5</param>
+        <param name="Ширина, см">1.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1823.5</param>
+      </offer>
+      <offer id="C340" available="true">
+        <url>https://oracdecor.ru/c340-velichie-noblesse</url>
+        <price>10091</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c340_cornice_moulding-c340_cornice_moulding-image_1-c340_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C340</vendorCode>
+        <name>C340 ВЕЛИЧИЕ/NOBLESSE</name>
+        <description>Дизайн этой большой модели (Котсуолд) Cotswold позволяет разместить карниз двумя способами. Здесь мы разместили самую длинную сторону карниза на потолке, чтобы зрительно расширить помещение.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 13,5 x ш 25,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">13.5</param>
+        <param name="Ширина, см">25.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Метки">Новая Классика</param>
+      </offer>
+      <offer id="C394" available="true">
+        <url>https://oracdecor.ru/c394_uplighter</url>
+        <price>4518</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c394_uplighter-c394_uplighter-image_1-c394_il.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C394</vendorCode>
+        <name>C394 СТУПЕНИ/STEPS</name>
+        <description>Этот строгий и современный профиль из серии Ступени/ Steps также может использоваться для перекрытия светодиодов. Модель имеет срезанный угол сверху и легкий, благодаря чему возникла тонкая линия тени. Разработан дизайнером Орио Тонини. Замечания по установке: Используйте алюминиевую ленту на внутренней стороне профиля или алюминиевый профиль для светодиодов, чтобы свет не просвечивал сквозь профиль.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 9,5 x ш 3,1 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">9.5</param>
+        <param name="Ширина, см">3.1</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">2259</param>
+        <param name="Метки">Модерн</param>
+      </offer>
+      <offer id="SX172" available="true">
+        <url>https://oracdecor.ru/sx172</url>
+        <price>1236</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx172_skirting-sx172_skirting-image_1-sx172_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX172</vendorCode>
+        <name>SX172</name>
+        <description>Этот элегантный классический плинтус прекрасно подходит к любому интерьеру. Создавайте уникальные интерьеры, сочетая эту модель с другими нашими профилями в похожем стиле.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 8,5 x ш 1,4 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">8.5</param>
+        <param name="Ширина, см">1.4</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">618</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="CX127" available="true">
+        <url>https://oracdecor.ru/cx127_cornice_moulding</url>
+        <price>2041</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/x/cx127_cornice_moulding-cx127_cornice_moulding-image_1-cx127_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>CX127</vendorCode>
+        <name>CX127</name>
+        <description>Нестареющий карниз, который легко сочетается с различными стилями интерьера.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 9,4 x ш 9,4 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">9.4</param>
+        <param name="Ширина, см">9.4</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1020.5</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="SX187" available="true">
+        <url>https://oracdecor.ru/sx187_cornice_moulding</url>
+        <price>1277</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx187_cornice_moulding-sx187_cornice_moulding-image_1-sx187_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX187</vendorCode>
+        <name>SX187 ВЫСОКИЙ ШТРИХ/HIGH LINE</name>
+        <description>Чистота форм, идеальные пропорции позволяют самым маленьким карнизам Высокий Штрих/High Line создавать идеальные переходы от стен к потолку. Вне зависимости от стиля вашего интерьера.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 7,5 x ш 1,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">7.5</param>
+        <param name="Ширина, см">1.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">638.5</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="CX197" available="true">
+        <url>https://oracdecor.ru/cx197_cornice_moulding</url>
+        <price>2400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/x/cx197_cornice_moulding-cx197_cornice_moulding-image_1-cx197_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>CX197</vendorCode>
+        <name>CX197 U-СТУПЕНИ/U-STEPS</name>
+        <description>Спроектированные по подобию легендарной модели CX190 новые модели декора U-СТУПЕНИ/U-STEPS меняют представление о возможностях плоских поверхностей. Полноценные потолочные карнизы, молдинги, стилеобразующие элементы шторных карнизов, профили для верхней или нижней подсветки – вариативность применения U-СТУПЕНИ/U-STEPS достойна восхищения. Разработан дизайнером Орио Тонини.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 5 x ш 9,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">5</param>
+        <param name="Ширина, см">9.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1200</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="SX165" available="true">
+        <url>https://oracdecor.ru/sx165_skirting</url>
+        <price>1176</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx165_skirting-sx165_skirting-image_1-sx165_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX165</vendorCode>
+        <name>SX165 КОНТУР/CONTOUR</name>
+        <description>Элегантный классический плинтус из семейства КОНТУР/CONTOUR имеет минималистичный дизайн, украшен легкими завитками.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 6,9 x ш 1,1 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">6.9</param>
+        <param name="Ширина, см">1.1</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">588</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="CX176" available="true">
+        <url>https://oracdecor.ru/cx176_border</url>
+        <price>1249</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/x/cx176_border-cx176_border-image_1-cx176_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>CX176</vendorCode>
+        <name>CX176</name>
+        <description>Этот величественный карниз Котсуолд/Cotswold станет идеальным решением для любой комнаты. Элегантный переход между стеной и потолком: модель CX176 придаст вашему интерьеру неповторимый шарм.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 8 x ш 4 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">8</param>
+        <param name="Ширина, см">4</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">624.5</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="C990" available="true">
+        <url>https://oracdecor.ru/c990-beskonechnost-infinity</url>
+        <price>8816</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/9/c990_cornice_moulding-c990_cornice_moulding-image_1-c990_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C990</vendorCode>
+        <name>C990 БЕСКОНЕЧНОСТЬ/INFINITY</name>
+        <description>Этот большой, асимметричный и C-образный карниз выполнен в стилистике старых загородных домов Франции. Здесь мы разместили самую длинную сторону карниза на потолке, чтобы визуально расширить помещение. Модель разработана дизайнером Ксавье Донком. Примечания: Используйте DecoFix Power .</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 15,9 x ш 21,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">15.9</param>
+        <param name="Ширина, см">21.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">4408</param>
+        <param name="Метки">Модерн</param>
+      </offer>
+      <offer id="C353" available="true">
+        <url>https://oracdecor.ru/c353_cornice_moulding</url>
+        <price>4942</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c353_cornice_moulding-c353_cornice_moulding-image_1-c353_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C353</vendorCode>
+        <name>C353</name>
+        <description>Плоский карниз, протянутый через потолок, создает «плавающий» эффект за счет утопленной линии тени. Модель разработана дизайнером Жаком Верграхтом.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 3 x ш 16,5 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">3</param>
+        <param name="Ширина, см">16.5</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">2471</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="C307" available="true">
+        <url>https://oracdecor.ru/c307_cornice_moulding</url>
+        <price>9014</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c307_cornice_moulding-c307_cornice_moulding-image_1-c307_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C307</vendorCode>
+        <name>C307</name>
+        <description>Эта классическая модель — одна из наиболее крупных в нашем ассортименте. Скомбинируйте этот профиль с подходящим декоративным блоком C307A, чтобы ваш интерьер приобрел вид царских апартаментов. Примечания: Используйте экстра сильный DecoFix Power для крепления к стене для массивных карнизов для штор.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 19,5 x ш 19,5 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">19.5</param>
+        <param name="Ширина, см">19.5</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">4507</param>
+      </offer>
+      <offer id="W119" available="true">
+        <url>https://oracdecor.ru/w119_decorative_element</url>
+        <price>8836</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w119_decorative_element-w119_decorative_element-image_1-w119_3d_180.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W119</vendorCode>
+        <name>W119 ЛИНИЯ МИКС/BAR MIX</name>
+        <description>W119 ЛИНИЯ МИКС/BAR MIX - ключевой элемент линейного дизайна стен и новый член семьи ЛИНИЯ/BAR. Управляемая неровность, прекрасно сочетается с ЛИНИЯ/BAR и ЛИНИЯ МИКС/BAR XL для создания уникального и интригующего интерьера. Сочетание с CX190 и SX194 позволяет получить бесконечный линейный узор, готовый оживить стены и цвета. Дизайн разработан Орио Тонини.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 25 x ш 2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">4418</param>
+      </offer>
+      <offer id="SX163F" available="true">
+        <url>https://oracdecor.ru/sx163f_cornice_moulding</url>
+        <price>6686</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx163f_cornice_moulding-sx163f_cornice_moulding-image_1-sx163_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX163F</vendorCode>
+        <name>SX163F КВАДРАТ/SQUARE</name>
+        <description>Гибкая версия SX163. Наш самый простой карниз является частью семейства КВАДРАТ/SQUARE. Круглые стены или изогнутые поверхности не представляют никакой трудности для гибких аналогов. Примечания: Используйте DecoFix Power. Для крепления к стене должны использоваться шурупы. Радиус изгиба: R min = 35 см</description>
+        <param name="Материал">Flex</param>
+        <param name="Размеры">д 200 x в 10,1 x ш 1,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">10.1</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">3343</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="C324" available="true">
+        <url>https://oracdecor.ru/c324_border</url>
+        <price>3841</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c324_border-c324_border-image_1-c324_border_2000x2000.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C324</vendorCode>
+        <name>C324 ОТУАР/AUTOIRE</name>
+        <description>Наш фрагментированный карниз C324 со светодиодной опцией уникален по своему дизайну и сочетается с другими профилями нашей серии (Отуар) Autoire ( W120 , W121 , P4025 ).</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 8,3 x ш 3,4 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">8.3</param>
+        <param name="Ширина, см">3.4</param>
+        <param name="Единица цены">шт</param>
+        <param name="Метки">Новая Классика</param>
+      </offer>
+      <offer id="SX194" available="true">
+        <url>https://oracdecor.ru/sx194_skirting</url>
+        <price>403</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx194_skirting-sx194_skirting-image_1-sx194_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX194</vendorCode>
+        <name>SX194 КВАДРАТ/SQUARE</name>
+        <description>Плинтус - SX194 – это наш самый маленький и простой профиль, входит в состав семейства КВАДРАТ/SQUARE. Этот многофункциональный профиль может быть использован как молдинг, завершающий стеновые панели, или как плинтус, чтобы создать изысканный переход от стены к полу.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 2 x ш 1 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">2</param>
+        <param name="Ширина, см">1</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">201.5</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="DX174-2300" available="true">
+        <url>https://oracdecor.ru/dx174-2300_decorative_element</url>
+        <price>1833</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/d/x/dx174-2300_decorative_element-dx174-2300_decorative_element-image_1-dx174-2300_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>DX174-2300</vendorCode>
+        <name>DX174-2300</name>
+        <description>Классическая дверная рама с изящными изгибами придаст помещению особый шик. Украсьте ваш интерьер другими продуктами семейства НАСЛЕДИЕ/HERITAGE.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 230 x в 6 x ш 2,2 см</param>
+        <param name="Длина, см">230</param>
+        <param name="Высота, см">6</param>
+        <param name="Ширина, см">2.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">796.96</param>
+        <param name="Метки">Новая Классика</param>
+      </offer>
+      <offer id="SX168" available="true">
+        <url>https://oracdecor.ru/sx168_skirting</url>
+        <price>2937</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx168_skirting-sx168_skirting-image_1-sx168_skirting_mf.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX168</vendorCode>
+        <name>SX168 КВАДРАТ/SQUARE</name>
+        <description>Этот простой плинтус является самым большим из семейства КВАДРАТ/SQUARE. Вы можете использовать такой плинтус во всем доме, просто выберете подходящий размер.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 15,1 x ш 1,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">15.1</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1468.5</param>
+        <param name="Метки">Модерн</param>
+      </offer>
+      <offer id="CX196" available="true">
+        <url>https://oracdecor.ru/cx196_cornice_moulding</url>
+        <price>2400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/x/cx196_cornice_moulding-cx196_cornice_moulding-image_1-cx196_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>CX196</vendorCode>
+        <name>CX196 U-СТУПЕНИ/U-STEPS</name>
+        <description>Спроектированные по подобию легендарной модели CX190 новые модели декора U-СТУПЕНИ/U-STEPS меняют представление о возможностях плоских поверхностей. Полноценные потолочные карнизы, молдинги, стилеобразующие элементы шторных карнизов, профили для верхней или нижней подсветки – вариативность применения U-СТУПЕНИ/U-STEPS достойна восхищения. Разработан дизайнером Орио Тонини.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 11,3 x ш 4 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">11.3</param>
+        <param name="Ширина, см">4</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1200</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="C240" available="true">
+        <url>https://oracdecor.ru/c240_cornice_moulding</url>
+        <price>2800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/2/c240_cornice_moulding-c240_cornice_moulding-image_1-c240_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C240</vendorCode>
+        <name>C240</name>
+        <description>Простой полый карниз, вдохновленный стилем 30-х годов. Идеально подходит для деликатной и аккуратной отделки стыков между стенами и потолком.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 8 x ш 8 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">8</param>
+        <param name="Ширина, см">8</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1400</param>
+      </offer>
+      <offer id="C336" available="true">
+        <url>https://oracdecor.ru/c336_cornice_moulding</url>
+        <price>15656</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c336_cornice_moulding-c336_cornice_moulding-image_1-c336_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C336</vendorCode>
+        <name>C336 БАРОККО/BA'ROCK</name>
+        <description>Классический карниз XL, предназначенный для просторных помещений. Готовы ли вы громко заявить о себе? Примечания: Используйте экстра сильный DecoFix Power для крепления массивных карнизов для штор.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 27,1 x ш 26,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">27.1</param>
+        <param name="Ширина, см">26.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">7828</param>
+        <param name="Метки">Новая Классика</param>
+      </offer>
+      <offer id="SX182" available="true">
+        <url>https://oracdecor.ru/sx182_skirting</url>
+        <price>938</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx182_skirting-sx182_skirting-image_1-sx182_skirting_mf.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX182</vendorCode>
+        <name>SX182 КАСКАД/CASCADE</name>
+        <description>Этот многофункциональный плинтус с закругленным верхом предлагает бесконечные возможности для отделки помещения. Дополните дизайн помещения другими продуктами из семейства КАСКАД/CASCADE, чтобы придать целостность интерьеру.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 5 x ш 1,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">5</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">469</param>
+        <param name="Метки">Модерн</param>
+      </offer>
+      <offer id="C902" available="true">
+        <url>https://oracdecor.ru/c902_cornice_moulding</url>
+        <price>3785</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/9/c902_cornice_moulding-c902_cornice_moulding-image_1-c902_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C902</vendorCode>
+        <name>C902</name>
+        <description>Небольшой карниз, навеянный формой Оволо. Плинтус для любого интерьера. Примечания: Используйте DecoFix Power .</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 10,3 x ш 10,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">10.3</param>
+        <param name="Ширина, см">10.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1892.5</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="CX190" available="true">
+        <url>https://oracdecor.ru/cx190_skirting</url>
+        <price>867</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/x/cx190_skirting-cx190_skirting-image_1-cx190_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>CX190</vendorCode>
+        <name>CX190 U-ПРОФИЛЬ/U-PROFILE</name>
+        <description>Тонкий и ударостойкий U-образный профиль. Удобное решение для того, чтобы скрыть кабели на стенах и потолках. Разработан дизайнером Орио Тонини.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 2 x ш 3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">2</param>
+        <param name="Ширина, см">3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">433.5</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="C343" available="true">
+        <url>https://oracdecor.ru/c343_cornice_moulding</url>
+        <price>13793</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c343_cornice_moulding-c343_cornice_moulding-image_1-c343_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C343</vendorCode>
+        <name>C343 НАСЛЕДИЕ/HERITAGE XL</name>
+        <description>Второй «отпрыск» семейства НАСЛЕДИЕ/HERITAGE. Великолепный классический карниз, вдохновленный стилем английских загородных домов. Примечания: Используйте экстра сильный DecoFix Power для крепления массивных карнизов для штор.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 19 x ш 25 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">19</param>
+        <param name="Ширина, см">25</param>
+        <param name="Единица цены">шт</param>
+        <param name="Метки">Новая Классика</param>
+      </offer>
+      <offer id="SX193" available="true">
+        <url>https://oracdecor.ru/sx193_skirting</url>
+        <price>5640</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx193_skirting-sx193_skirting-image_1-sx193_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX193</vendorCode>
+        <name>SX193 ОТУАР/AUTOIRE</name>
+        <description>Плинтус - SX193 – это профиль, являющийся частью семейства ОТУАР/AUTOIRE. Этот величественный плинтус высотой 25 см идеально вписывается в классический интерьер и гарантирует элегантный переход между стеной и полом.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 25 x ш 2,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">2.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">2820</param>
+      </offer>
+      <offer id="PX201" available="true">
+        <url>https://oracdecor.ru/px201_panel_moulding</url>
+        <price>408</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/x/px201_panel_moulding-px201_panel_moulding-image_1-px201_panel_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>PX201</vendorCode>
+        <name>PX201</name>
+        <description>Меньшая версия PX175. Благодаря классическому настенному молдингу с изящными изгибами вы сможете придать интерьеру особый шик. Украсьте ваш интерьер другими продуктами семейства НАСЛЕДИЕ/HERITAGE.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 2,5 x ш 0,9 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">2.5</param>
+        <param name="Ширина, см">0.9</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">204</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="DX119-2300" available="true">
+        <url>https://oracdecor.ru/dx119-2300_decorative_element</url>
+        <price>2072</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/d/x/dx119-2300_decorative_element-dx119-2300_decorative_element-image_1-dx119-2300_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>DX119-2300</vendorCode>
+        <name>DX119-2300</name>
+        <description>Многофункциональное классическое дверное обрамление. Благодаря строгому линейному рисунку это обрамление можно использовать в интерьерах различных стилей.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 230 x в 9,2 x ш 2,2 см</param>
+        <param name="Длина, см">230</param>
+        <param name="Высота, см">9.2</param>
+        <param name="Ширина, см">2.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">900.87</param>
+      </offer>
+      <offer id="C901" available="true">
+        <url>https://oracdecor.ru/c901</url>
+        <price>6598</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/9/c901_cornice_moulding-c901_cornice_moulding-image_1-c901_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C901</vendorCode>
+        <name>C901</name>
+        <description>Большой карниз, навеянный формой Оволо. Плинтус для любого интерьера. Примечания: Используйте экстра сильный DecoFix Power для крепления тяжелых молдингов, высоких профилей для скрытого освещения, а также массивных карнизов для штор.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 14,8 x ш 12,4 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">14.8</param>
+        <param name="Ширина, см">12.4</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">3299</param>
+      </offer>
+      <offer id="C213" available="true">
+        <url>https://oracdecor.ru/c213_cornice_moulding</url>
+        <price>2462</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/2/c213_cornice_moulding-c213_cornice_moulding-image_1-c213_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C213</vendorCode>
+        <name>C213</name>
+        <description>Модель Кентербери (Canterbury) обладает идеальной симметрией благодаря одинаковому линейному узору на верхнем и нижнем крае. Варианты большего размера: C217 и C338 — в течение многих лет остаются хитами продаж.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 8 x ш 8 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">8</param>
+        <param name="Ширина, см">8</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1231</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="C390" available="true">
+        <url>https://oracdecor.ru/c390_cornice_moulding</url>
+        <price>4280</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c390_cornice_moulding-c390_cornice_moulding-image_1-c390_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C390</vendorCode>
+        <name>C390 СТУПЕНИ/STEPS</name>
+        <description>Строгий и современный профиль из серии Ступени/Steps. Модель имеет срезанный угол сверху и снизу, благодаря чему создается тонкая линия тени. Разработан дизайнером Орио Тонини.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 6 x ш 10 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">6</param>
+        <param name="Ширина, см">10</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">2140</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="C395" available="true">
+        <url>https://oracdecor.ru/c395_uplighter</url>
+        <price>5946</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c395_uplighter-c395_uplighter-image_1-c395_il.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C395</vendorCode>
+        <name>C395 СТУПЕНИ/STEPS</name>
+        <description>Этот строгий и современный профиль из серии Ступени/ Steps также может использоваться для перекрытия светодиодов. Модель имеет срезанный угол сверху и легкий, благодаря чему возникла тонкая линия тени. Разработан дизайнером Орио Тонини. Замечания по установке: Используйте алюминиевую ленту на внутренней стороне профиля или алюминиевый профиль для светодиодов, чтобы свет не просвечивал сквозь профиль.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 15,5 x ш 3,1 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">15.5</param>
+        <param name="Ширина, см">3.1</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">2973</param>
+        <param name="Метки">Модерн</param>
+      </offer>
+      <offer id="C333" available="true">
+        <url>https://oracdecor.ru/c333_cornice_moulding</url>
+        <price>3785</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c333_cornice_moulding-c333_cornice_moulding-image_1-c333_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C333</vendorCode>
+        <name>C333</name>
+        <description>Элегантный классический карниз напоминает гусиную шею.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 12,2 x ш 11,1 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">12.2</param>
+        <param name="Ширина, см">11.1</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1892.5</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="C393" available="true">
+        <url>https://oracdecor.ru/c393_cornice_moulding</url>
+        <price>9803</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c393_cornice_moulding-c393_cornice_moulding-image_1-c393_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C393</vendorCode>
+        <name>C393 СТУПЕНИ/STEPS</name>
+        <description>Строгий и современный профиль, ставший основой для серии Ступени/Steps. Здесь мы разместили самую длинную сторону карниза на потолке, чтобы визуально расширить помещение. Модель имеет срезанный угол сверху и снизу, благодаря чему создается тонкая линия тени. Разработан дизайнером Орио Тонини.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 15 x ш 21 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">15</param>
+        <param name="Ширина, см">21</param>
+        <param name="Единица цены">шт</param>
+        <param name="Метки">Временно недоступен | Модерн | Временно недоступен</param>
+      </offer>
+      <offer id="W115" available="true">
+        <url>https://oracdecor.ru/w115_decorative_element</url>
+        <price>8836</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w115_decorative_element-w115_decorative_element-image_1-w115_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W115</vendorCode>
+        <name>W115 СКЛОН/SLOPE</name>
+        <description>Панель W115 СКЛОН/SLOPE - игра света и тени на стене, созданная уникальной формой и поверхностью. Орио Тонини воплотил в жизнь идею игривых, но прочных квадратных блоков. Этот продукт не просто декор – он настоящее искусство, преображающее стену в художественную галерею. Каждый элемент несет в себе уникальность и становится неотъемлемой частью вашего уникального дизайна.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 25 x ш 2,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">2.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">4418</param>
+      </offer>
+      <offer id="CX126" available="true">
+        <url>https://oracdecor.ru/cx126_cornice_moulding</url>
+        <price>1832</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/x/cx126_cornice_moulding-cx126_cornice_moulding-image_1-cx126_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>CX126</vendorCode>
+        <name>CX126</name>
+        <description>Довольно простой карниз с тонкими краями, которые идеально примыкают к стене и потолку. Этот хит продаж впишется в любой интерьер.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 8,7 x ш 8,7 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">8.7</param>
+        <param name="Ширина, см">8.7</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">916</param>
+        <param name="Метки">Модерн</param>
+      </offer>
+      <offer id="W109F" available="true">
+        <url>https://oracdecor.ru/w109f_decorative_element</url>
+        <price>16172</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w109f_decorative_element-w109f_decorative_element-image_1-w109f_3d.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W109F</vendorCode>
+        <name>W109F ДОЛИНА/VALLEY</name>
+        <description>Гибкая версия W109, панель Долина/Valley одна из самых интересных среди 3D стеновых панелей. Не сдерживайте свою креативность, превратите интерьер в произведение искусства, играйте с разными формами и цветовыми акцентами. Чтобы покрыть 1 кв. м. вам понадобятся 2 панели. Разработан дизайнером Орио Тонини. Радиус изгиба: R min = 30 см, R** min = 40 см</description>
+        <param name="Материал">Flex</param>
+        <param name="Размеры">д 200 x в 25 x ш 1,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">1.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">8086</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="C354" available="true">
+        <url>https://oracdecor.ru/c354_cornice_moulding</url>
+        <price>6400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c354_cornice_moulding-c354_cornice_moulding-image_1-c354_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C354</vendorCode>
+        <name>C354</name>
+        <description>Плоский карниз, протянутый через потолок, создает «плавающий» эффект за счет утопленной линии тени. Модель разработана дизайнером Жаком Верграхтом.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 4 x ш 21,5 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">4</param>
+        <param name="Ширина, см">21.5</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">3200</param>
+        <param name="Метки">Модерн</param>
+      </offer>
+      <offer id="C341" available="true">
+        <url>https://oracdecor.ru/c341_cornice_moulding</url>
+        <price>4942</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c341_cornice_moulding-c341_cornice_moulding-image_1-c341_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C341</vendorCode>
+        <name>C341 НАСЛЕДИЕ/HERITAGE M</name>
+        <description>Самый маленький «отпрыск» семейства (НАСЛЕДИЕ) HERITAGE. Великолепный классический карниз, вдохновленный стилем английских загородных домов.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 8,8 x ш 12,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">8.8</param>
+        <param name="Ширина, см">12.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">2471</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="P9900" available="true">
+        <url>https://oracdecor.ru/p9900_panel_moulding</url>
+        <price>2298</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/9/p9900_panel_moulding-p9900_panel_moulding-image_1-p9900_panel_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>P9900</vendorCode>
+        <name>P9900</name>
+        <description>Этот «ступенчатый» профиль позволяет придать объем плоским карнизам. Может быть установлен как на стене, так и на потолке.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 8 x ш 1 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">8</param>
+        <param name="Ширина, см">1</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1149</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="C323" available="true">
+        <url>https://oracdecor.ru/c323_border</url>
+        <price>4015</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c323_border-c323_border-image_1-c323_border_2000x2000.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C323</vendorCode>
+        <name>C323</name>
+        <description>Этот элегантный светодиодный профиль C323 - прекрасное решение для искусного интегрирования непрямого освещения в классический интерьер.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 5,5 x ш 4,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">5.5</param>
+        <param name="Ширина, см">4.2</param>
+        <param name="Единица цены">шт</param>
+      </offer>
+      <offer id="C220" available="true">
+        <url>https://oracdecor.ru/c220_cornice_moulding</url>
+        <price>2959</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/2/c220_cornice_moulding-c220_cornice_moulding-image_1-c220_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C220</vendorCode>
+        <name>C220</name>
+        <description>Классический прямой карниз, протянутый через потолок. Многолетний хит продаж, который преобразит ваш интерьер.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 7,6 x ш 11,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">7.6</param>
+        <param name="Ширина, см">11.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1479.5</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="SX104" available="true">
+        <url>https://oracdecor.ru/sx104_skirting</url>
+        <price>1733</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx104_skirting-sx104_skirting-image_1-sx104_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX104</vendorCode>
+        <name>SX104</name>
+        <description>Современный плинтус с линейным дизайном. Благодаря неброскому дизайну этот плинтус может применяться для отделки самых разных интерьеров.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 14,8 x ш 1,7 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">14.8</param>
+        <param name="Ширина, см">1.7</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">866.5</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="W216" available="true">
+        <url>https://oracdecor.ru/w216_decorative_element</url>
+        <price>8836</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/2/w216_decorative_element-w216_decorative_element-image_1-w216_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W216</vendorCode>
+        <name>W216 МАТРИКС/MATRIX</name>
+        <description>Фрагментарный дизайн Матрикс/Matrix - это забавный кивок в сторону брутализма, который одновременно отдает дань уважения нашим изделиям W108 Зигзаг/Zigzag и W110 Холм/Hill, поскольку ребристые текстуры являются их миниатюрами. Это изделие является технологическим чудом благодаря разной длине и глубине элементов и линий. Дизайн разработан Орио Тонини.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 25 x ш 1,6 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">1.6</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">4418</param>
+      </offer>
+      <offer id="P4020" available="true">
+        <url>https://oracdecor.ru/p4020_panel_moulding</url>
+        <price>2132</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/4/p4020_panel_moulding-p4020_panel_moulding-image_1-p4020_panel_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>P4020</vendorCode>
+        <name>P4020</name>
+        <description>Мягкие завитки этого дизайна придадут особую ноту любому интерьеру, независимо от его стиля. Комбинируйте его с моделью P4020A для создания элегантной настенной рамы.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 5 x ш 2,9 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">5</param>
+        <param name="Ширина, см">2.9</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1066</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="C342" available="true">
+        <url>https://oracdecor.ru/c342_cornice_moulding</url>
+        <price>8844</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/3/c342_cornice_moulding-c342_cornice_moulding-image_1-c342_c.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>C342</vendorCode>
+        <name>C342 НАСЛЕДИЕ/HERITAGE L</name>
+        <description>Второй в семействе НАСЛЕДИЕ/HERITAGE. Великолепный классический карниз, вдохновленный стилем английских загородных домов. Примечания: Используйте экстра сильный DecoFix Power для установки массивных карнизов для штор.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 14 x ш 19 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">14</param>
+        <param name="Ширина, см">19</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">4422</param>
+        <param name="Метки">Новая Классика</param>
+      </offer>
+      <offer id="SX138" available="true">
+        <url>https://oracdecor.ru/sx138_skirting</url>
+        <price>2168</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx138_skirting-sx138_skirting-image_1-sx138_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX138</vendorCode>
+        <name>SX138</name>
+        <description>Высокий закругленный профиль для классической отделки стен.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 13,8 x ш 1,5 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">13.8</param>
+        <param name="Ширина, см">1.5</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">1084</param>
+        <param name="Метки">Новая Классика | Бестселлер</param>
+      </offer>
+      <offer id="W117" available="true">
+        <url>https://oracdecor.ru/w117_decorative_element</url>
+        <price>15850</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w117_decorative_element-w117_decorative_element-image_1-w117_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W117</vendorCode>
+        <name>W117 СКЛОН/SLOPE</name>
+        <description>Панель W117 СКЛОН/SLOPE - многогранна: уникальная форма, уникальный формат, уникальная поверхность. Орио Тонини разработал завораживающую игру света и тени, которая создает эффект трансформации на стене. Удивительный, но прочный квадратный элемент дизайна для вашего интерьера.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 100 x в 100 x ш 2,3 см</param>
+        <param name="Длина, см">100</param>
+        <param name="Высота, см">100</param>
+        <param name="Ширина, см">2.3</param>
+        <param name="Единица цены">шт</param>
+      </offer>
+      <offer id="CB512N" available="true">
+        <url>https://oracdecor.ru/cb512n_cornice_moulding</url>
+        <price>958</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/c/b/cb512n_cornice_moulding-cb512n_cornice_moulding-image_1-cb512n_cornice_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>CB512N</vendorCode>
+        <name>CB512N</name>
+        <description>Классический карниз с линейным дизайном верхней и нижней части.</description>
+        <param name="Материал">Durofoam®</param>
+        <param name="Размеры">д 200 x в 9 x ш 9 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">9</param>
+        <param name="Ширина, см">9</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">479</param>
+      </offer>
+      <offer id="SX155" available="true">
+        <url>https://oracdecor.ru/sx155_skirting</url>
+        <price>1441</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/s/x/sx155_skirting-sx155_skirting-image_1-sx155_skirting.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>SX155</vendorCode>
+        <name>SX155</name>
+        <description>Этот неброский классический плинтус с линейным дизайном прекрасно впишется в любой интерьер. Модель разработана дизайнером Ксавье Донком.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 10,8 x ш 2,5 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">10.8</param>
+        <param name="Ширина, см">2.5</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">720.5</param>
+        <param name="Метки">Модерн | Бестселлер</param>
+      </offer>
+      <offer id="W108F" available="true">
+        <url>https://oracdecor.ru/w108f_decorative_element</url>
+        <price>14973</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w108f_decorative_element-w108f_decorative_element-image_1-w108f_3d.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W108F</vendorCode>
+        <name>W108F ЗИГЗАГ/ZIGZAG</name>
+        <description>Гибкая версия W108, панель Зигзаг/Zigzag одна из самых популярных среди 3D стеновых панелей. Не сдерживайте свою креативность, превратите интерьер в произведение искусства, играйте с разными формами и цветовыми акцентами. Чтобы покрыть 1 кв. м. вам понадобятся 2 панели. Разработан дизайнером Орио Тонини. Радиус изгиба: R min = 30 см, R** min = 40 см</description>
+        <param name="Материал">Flex</param>
+        <param name="Размеры">д 200 x в 25 x ш 1,8 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">1.8</param>
+        <param name="Единица цены">шт</param>
+        <param name="Метки">Бестселлер</param>
+      </offer>
+      <offer id="P9050" available="true">
+        <url>https://oracdecor.ru/p9050_panel_moulding</url>
+        <price>1979</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/9/p9050_panel_moulding-p9050_panel_moulding-image_1-p9050_panel_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>P9050</vendorCode>
+        <name>P9050</name>
+        <description>Небольшой настенный молдинг с линейным дизайном для изысканной отделки.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 2,5 x ш 1,3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">2.5</param>
+        <param name="Ширина, см">1.3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">989.5</param>
+      </offer>
+      <offer id="P8050" available="true">
+        <url>https://oracdecor.ru/p8050_panel_moulding</url>
+        <price>5198</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/8/p8050_panel_moulding-p8050_panel_moulding-image_1-p8050_panel_moulding.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>P8050</vendorCode>
+        <name>P8050</name>
+        <description>Классический настенный молдинг с мягкими формами и линиями придаст интерьеру особую величавость.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 12 x ш 3 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">12</param>
+        <param name="Ширина, см">3</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">2599</param>
+        <param name="Метки">Новая Классика</param>
+      </offer>
+      <offer id="PX117" available="true">
+        <url>https://oracdecor.ru/px117_panel_moulding</url>
+        <price>685</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/p/x/px117_panel_moulding-px117_panel_moulding-image_1-px117_p.jpg</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>PX117</vendorCode>
+        <name>PX117</name>
+        <description>Простой настенный молдинг с линейным узором и зубчатым дизайном.</description>
+        <param name="Материал">Duropolymer®</param>
+        <param name="Размеры">д 200 x в 3,5 x ш 1,5 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">3.5</param>
+        <param name="Ширина, см">1.5</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">342.5</param>
+      </offer>
+      <offer id="W113" available="true">
+        <url>https://oracdecor.ru/w113_decorative_element</url>
+        <price>8004</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://oracdecor.ru/media/catalog/product/cache/eed16570d8607962df66f49469d90f62/w/1/w113_decorative_element-w113_decorative_element-image_1-w113_decorative_element.png</picture>
+        <vendor>Orac</vendor>
+        <vendorCode>W113</vendorCode>
+        <name>W113 КАМЕНЬ/COBBLE</name>
+        <description>Уникальное свойство панелей W112 и W113 – это рифлёная текстура поверхности. Располагая профили ближе или дальше, вы создадите интригующий эффект света и тени, который мгновенно преобразит любой интерьер. Идеально сочетается с профилями CX190 и SX194 и дает бесконечные возможности для дизайна, при этом легко устанавливается.</description>
+        <param name="Материал">Purotouch®</param>
+        <param name="Размеры">д 200 x в 25 x ш 2,2 см</param>
+        <param name="Длина, см">200</param>
+        <param name="Высота, см">25</param>
+        <param name="Ширина, см">2.2</param>
+        <param name="Единица цены">шт</param>
+        <param name="Цена за метр">4002</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

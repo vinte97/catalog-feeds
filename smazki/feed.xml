@@ -1,0 +1,2082 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-09-22T03:53:45+05:00">
+  <shop>
+    <name>Смазка.ру</name>
+    <company>Смазка.ру</company>
+    <url>https://smazka.ru.com</url>
+    <platform>BSM/Yandex/Market</platform>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Масла</category>
+      <category id="2">Пластичные смазки AGRO</category>
+      <category id="3">Пластичные смазки</category>
+      <category id="4">Пластичные смазки OG</category>
+      <category id="5">СОЖ Лабрия</category>
+    </categories>
+    <offers>
+      <offer id="9801" available="true">
+        <url>https://smazka.ru.com/production/10w40-ci4.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/10w40+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9801</vendorCode>
+        <name>ВМПАВТО 10W-40 — Канистра 20л</name>
+        <description>Масло моторное ВМПАВТО 10W-40 CI-4/SL E4/E7 - синтетическое моторное масло для дизельных двигателей коммерческого транспорта, соответствующих требованиям от Euro I до Euro V. Характеристики: Класс по SAE: 10W-40; Класс по API: CI-4 / SL; Индекс вязкости: 161; Тип базовых масел: Синтетические (VHVI + AN); Температура застывания: минус 37°С; Температура вспышки: плюс 237°С. Фасовка: Канистра 20л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9802" available="true">
+        <url>https://smazka.ru.com/production/10w40-ci4.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/10w40+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9802</vendorCode>
+        <name>ВМПАВТО 10W-40 — Бочка 60л</name>
+        <description>Масло моторное ВМПАВТО 10W-40 CI-4/SL E4/E7 - синтетическое моторное масло для дизельных двигателей коммерческого транспорта, соответствующих требованиям от Euro I до Euro V. Характеристики: Класс по SAE: 10W-40; Класс по API: CI-4 / SL; Индекс вязкости: 161; Тип базовых масел: Синтетические (VHVI + AN); Температура застывания: минус 37°С; Температура вспышки: плюс 237°С. Фасовка: Бочка 60л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9803" available="true">
+        <url>https://smazka.ru.com/production/10w40-ci4.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/10w40+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9803</vendorCode>
+        <name>ВМПАВТО 10W-40 — Бочка 200л</name>
+        <description>Масло моторное ВМПАВТО 10W-40 CI-4/SL E4/E7 - синтетическое моторное масло для дизельных двигателей коммерческого транспорта, соответствующих требованиям от Euro I до Euro V. Характеристики: Класс по SAE: 10W-40; Класс по API: CI-4 / SL; Индекс вязкости: 161; Тип базовых масел: Синтетические (VHVI + AN); Температура застывания: минус 37°С; Температура вспышки: плюс 237°С. Фасовка: Бочка 200л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9711" available="true">
+        <url>https://smazka.ru.com/production/75w90.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/75w90+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9711</vendorCode>
+        <name>ВМПАВТО 75W-90 — Канистра 1л</name>
+        <description>Масло трансмиссионное ВМПАВТО 75W-90 GL-5 - синтетическое трансмиссионное масло для редукторов, дифференциалов, раздаточных коробок, мостов легковых и грузовых автомобилей, внедорожников и другой техники, для которой требуются масла с допусками GL-5, Scania 1:0. Характеристики: Класс по SAE: 75W-90; Класс по API: GL-5; Индекс вязкости: 159; Тип базовых масел: Синтетические (PAO + ESTER); Температура застывания: минус 60°С; Температура вспышки: плюс 190°С. Фасовка: Канистра 1л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9712" available="true">
+        <url>https://smazka.ru.com/production/75w90.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/75w90+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9712</vendorCode>
+        <name>ВМПАВТО 75W-90 — Канистра 4л</name>
+        <description>Масло трансмиссионное ВМПАВТО 75W-90 GL-5 - синтетическое трансмиссионное масло для редукторов, дифференциалов, раздаточных коробок, мостов легковых и грузовых автомобилей, внедорожников и другой техники, для которой требуются масла с допусками GL-5, Scania 1:0. Характеристики: Класс по SAE: 75W-90; Класс по API: GL-5; Индекс вязкости: 159; Тип базовых масел: Синтетические (PAO + ESTER); Температура застывания: минус 60°С; Температура вспышки: плюс 190°С. Фасовка: Канистра 4л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9713" available="true">
+        <url>https://smazka.ru.com/production/75w90.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/75w90+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9713</vendorCode>
+        <name>ВМПАВТО 75W-90 — Канистра 20л</name>
+        <description>Масло трансмиссионное ВМПАВТО 75W-90 GL-5 - синтетическое трансмиссионное масло для редукторов, дифференциалов, раздаточных коробок, мостов легковых и грузовых автомобилей, внедорожников и другой техники, для которой требуются масла с допусками GL-5, Scania 1:0. Характеристики: Класс по SAE: 75W-90; Класс по API: GL-5; Индекс вязкости: 159; Тип базовых масел: Синтетические (PAO + ESTER); Температура застывания: минус 60°С; Температура вспышки: плюс 190°С. Фасовка: Канистра 20л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9714" available="true">
+        <url>https://smazka.ru.com/production/75w90.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/75w90+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9714</vendorCode>
+        <name>ВМПАВТО 75W-90 — Бочка 60л</name>
+        <description>Масло трансмиссионное ВМПАВТО 75W-90 GL-5 - синтетическое трансмиссионное масло для редукторов, дифференциалов, раздаточных коробок, мостов легковых и грузовых автомобилей, внедорожников и другой техники, для которой требуются масла с допусками GL-5, Scania 1:0. Характеристики: Класс по SAE: 75W-90; Класс по API: GL-5; Индекс вязкости: 159; Тип базовых масел: Синтетические (PAO + ESTER); Температура застывания: минус 60°С; Температура вспышки: плюс 190°С. Фасовка: Бочка 60л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9715" available="true">
+        <url>https://smazka.ru.com/production/75w90.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/75w90+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9715</vendorCode>
+        <name>ВМПАВТО 75W-90 — Бочка 205л</name>
+        <description>Масло трансмиссионное ВМПАВТО 75W-90 GL-5 - синтетическое трансмиссионное масло для редукторов, дифференциалов, раздаточных коробок, мостов легковых и грузовых автомобилей, внедорожников и другой техники, для которой требуются масла с допусками GL-5, Scania 1:0. Характеристики: Класс по SAE: 75W-90; Класс по API: GL-5; Индекс вязкости: 159; Тип базовых масел: Синтетические (PAO + ESTER); Температура застывания: минус 60°С; Температура вспышки: плюс 190°С. Фасовка: Бочка 205л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9701" available="true">
+        <url>https://smazka.ru.com/production/75w140.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/75w140+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9701</vendorCode>
+        <name>ВМПАВТО 75W-140 — Канистра 1л</name>
+        <description>Масло трансмиссионное ВМПАВТО 75W-140 GL-5 - синтетическое трансмиссионное масло для редукторов, дифференциалов, раздаточных коробок, мостов легковых и грузовых автомобилей, внедорожников и другой техники, для которой требуются масла с допусками GL-5, Scania STO 1:0, Scania STO 2:0A. Характеристики: Класс по SAE: 75W-140; Класс по API: GL-5; Индекс вязкости: 168; Тип базовых масел: Синтетические (PAO + ESTER); Температура застывания: минус 45°С; Температура вспышки: плюс 192°С. Фасовка: Канистра 1л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9702" available="true">
+        <url>https://smazka.ru.com/production/75w140.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/75w140+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9702</vendorCode>
+        <name>ВМПАВТО 75W-140 — Канистра 4л</name>
+        <description>Масло трансмиссионное ВМПАВТО 75W-140 GL-5 - синтетическое трансмиссионное масло для редукторов, дифференциалов, раздаточных коробок, мостов легковых и грузовых автомобилей, внедорожников и другой техники, для которой требуются масла с допусками GL-5, Scania STO 1:0, Scania STO 2:0A. Характеристики: Класс по SAE: 75W-140; Класс по API: GL-5; Индекс вязкости: 168; Тип базовых масел: Синтетические (PAO + ESTER); Температура застывания: минус 45°С; Температура вспышки: плюс 192°С. Фасовка: Канистра 4л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9703" available="true">
+        <url>https://smazka.ru.com/production/75w140.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/75w140+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9703</vendorCode>
+        <name>ВМПАВТО 75W-140 — Канистра 20л</name>
+        <description>Масло трансмиссионное ВМПАВТО 75W-140 GL-5 - синтетическое трансмиссионное масло для редукторов, дифференциалов, раздаточных коробок, мостов легковых и грузовых автомобилей, внедорожников и другой техники, для которой требуются масла с допусками GL-5, Scania STO 1:0, Scania STO 2:0A. Характеристики: Класс по SAE: 75W-140; Класс по API: GL-5; Индекс вязкости: 168; Тип базовых масел: Синтетические (PAO + ESTER); Температура застывания: минус 45°С; Температура вспышки: плюс 192°С. Фасовка: Канистра 20л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9704" available="true">
+        <url>https://smazka.ru.com/production/75w140.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/75w140+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9704</vendorCode>
+        <name>ВМПАВТО 75W-140 — Бочка 60л</name>
+        <description>Масло трансмиссионное ВМПАВТО 75W-140 GL-5 - синтетическое трансмиссионное масло для редукторов, дифференциалов, раздаточных коробок, мостов легковых и грузовых автомобилей, внедорожников и другой техники, для которой требуются масла с допусками GL-5, Scania STO 1:0, Scania STO 2:0A. Характеристики: Класс по SAE: 75W-140; Класс по API: GL-5; Индекс вязкости: 168; Тип базовых масел: Синтетические (PAO + ESTER); Температура застывания: минус 45°С; Температура вспышки: плюс 192°С. Фасовка: Бочка 60л. Цена: По запросу.</description>
+      </offer>
+      <offer id="9705" available="true">
+        <url>https://smazka.ru.com/production/75w140.html</url>
+        <categoryId>1</categoryId>
+        <picture>https://smazka.ru.com/images/75w140+.webp</picture>
+        <vendor>ВМПАВТО</vendor>
+        <vendorCode>9705</vendorCode>
+        <name>ВМПАВТО 75W-140 — Бочка 205л</name>
+        <description>Масло трансмиссионное ВМПАВТО 75W-140 GL-5 - синтетическое трансмиссионное масло для редукторов, дифференциалов, раздаточных коробок, мостов легковых и грузовых автомобилей, внедорожников и другой техники, для которой требуются масла с допусками GL-5, Scania STO 1:0, Scania STO 2:0A. Характеристики: Класс по SAE: 75W-140; Класс по API: GL-5; Индекс вязкости: 168; Тип базовых масел: Синтетические (PAO + ESTER); Температура застывания: минус 45°С; Температура вспышки: плюс 192°С. Фасовка: Бочка 205л. Цена: По запросу.</description>
+      </offer>
+      <offer id="1160" available="true">
+        <url>https://smazka.ru.com/production/mc-agro-ep-2.html</url>
+        <categoryId>2</categoryId>
+        <picture>https://smazka.ru.com/images/agro_ep2+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1160</vendorCode>
+        <name>МС AGRO EP-2 — Картридж 400 мл</name>
+        <description>МС AGRO EP-2 – водостойкая EP-2 смазка для сельскохозяйственной и внедорожной техники с отличными противозадирными и противоизносными свойствами. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 600 - 800; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1158" available="true">
+        <url>https://smazka.ru.com/production/mc-agro-ep-2.html</url>
+        <categoryId>2</categoryId>
+        <picture>https://smazka.ru.com/images/agro_ep2+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1158</vendorCode>
+        <name>МС AGRO EP-2 — Ведро 18 кг</name>
+        <description>МС AGRO EP-2 – водостойкая EP-2 смазка для сельскохозяйственной и внедорожной техники с отличными противозадирными и противоизносными свойствами. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 600 - 800; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1157" available="true">
+        <url>https://smazka.ru.com/production/mc-agro-ep-3.html</url>
+        <categoryId>2</categoryId>
+        <picture>https://smazka.ru.com/images/agro_lx_220+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1157</vendorCode>
+        <name>МС AGRO EP-3 — Картридж 400 мл</name>
+        <description>МС AGRO EP-3 – многоцелевая тугоплавкая смазка на основе минерального базового масла и литиевого комплексного загустителя. Характеристики: Класс консистенции: NLGI 3; Узлы применения: Компоненты шасси, навесное оборудование; Вязкость базового масла: 160 - 200; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1154" available="true">
+        <url>https://smazka.ru.com/production/mc-agro-hd-3.html</url>
+        <categoryId>2</categoryId>
+        <picture>https://smazka.ru.com/images/agro_hd3+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1154</vendorCode>
+        <name>МС AGRO HD-3 — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 3; Узлы применения: Компоненты шасси, навесное оборудование; Вязкость базового масла: 160 - 200; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1149" available="true">
+        <url>https://smazka.ru.com/production/mc-agro-hd-3.html</url>
+        <categoryId>2</categoryId>
+        <picture>https://smazka.ru.com/images/agro_hd3+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1149</vendorCode>
+        <name>МС AGRO HD-3 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 3; Узлы применения: Компоненты шасси, навесное оборудование; Вязкость базового масла: 160 - 200; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1166" available="true">
+        <url>https://smazka.ru.com/production/mc-agro-lx-220.html</url>
+        <categoryId>2</categoryId>
+        <picture>https://smazka.ru.com/images/agro_lx_220+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1166</vendorCode>
+        <name>МС AGRO LX 220 — Картридж 400 мл</name>
+        <description>МС AGRO LX 220 – многоцелевая тугоплавкая смазка для сельскохозяйственной и внедорожной техники с повышенными антиокислительными свойствами. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Компоненты шасси, навесное оборудование; Вязкость базового масла: 200-220; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1164" available="true">
+        <url>https://smazka.ru.com/production/mc-agro-lx-220.html</url>
+        <categoryId>2</categoryId>
+        <picture>https://smazka.ru.com/images/agro_lx_220+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1164</vendorCode>
+        <name>МС AGRO LX 220 — Ведро 18 кг</name>
+        <description>МС AGRO LX 220 – многоцелевая тугоплавкая смазка для сельскохозяйственной и внедорожной техники с повышенными антиокислительными свойствами. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Компоненты шасси, навесное оборудование; Вязкость базового масла: 200-220; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1105" available="true">
+        <url>https://smazka.ru.com/production/mc1000.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1105</vendorCode>
+        <name>МС 1000 — Картридж 420 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Ступичные подишпники; Вязкость базового масла: 60 - 80; Тип базовых масел: Минеральное; Тип загустителя: Литиевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Картридж 420 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1108" available="true">
+        <url>https://smazka.ru.com/production/mc1000.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1108</vendorCode>
+        <name>МС 1000 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Ступичные подишпники; Вязкость базового масла: 60 - 80; Тип базовых масел: Минеральное; Тип загустителя: Литиевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1109" available="true">
+        <url>https://smazka.ru.com/production/mc1000.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1109</vendorCode>
+        <name>МС 1000 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Ступичные подишпники; Вязкость базового масла: 60 - 80; Тип базовых масел: Минеральное; Тип загустителя: Литиевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1131" available="true">
+        <url>https://smazka.ru.com/production/mc1000cls-0.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000+1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1131</vendorCode>
+        <name>МС 1000 CLS 0 — Ведро 17 кг</name>
+        <description>Cерия пластичных смазок МС 1000 CLS для применения в нагруженных узлах и автоматических централизованных системах смазывания. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Нагруженные узлы, системы АЦСС; Вязкость базового масла: 13,5 - 16,5 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 50 до плюс 60°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1132" available="true">
+        <url>https://smazka.ru.com/production/mc1000cls-0.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000+1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1132</vendorCode>
+        <name>МС 1000 CLS 0 — Бочка 170 кг</name>
+        <description>Cерия пластичных смазок МС 1000 CLS для применения в нагруженных узлах и автоматических централизованных системах смазывания. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Нагруженные узлы, системы АЦСС; Вязкость базового масла: 13,5 - 16,5 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 50 до плюс 60°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1140" available="true">
+        <url>https://smazka.ru.com/production/mc1000cls-1.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000cls-1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1140</vendorCode>
+        <name>МС 1000 CLS 1 — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные узлы, системы АЦСС; Вязкость базового масла: 160 - 200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1141" available="true">
+        <url>https://smazka.ru.com/production/mc1000cls-1.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000cls-1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1141</vendorCode>
+        <name>МС 1000 CLS 1 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные узлы, системы АЦСС; Вязкость базового масла: 160 - 200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1142" available="true">
+        <url>https://smazka.ru.com/production/mc1000cls-1.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000cls-1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1142</vendorCode>
+        <name>МС 1000 CLS 1 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные узлы, системы АЦСС; Вязкость базового масла: 160 - 200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1143" available="true">
+        <url>https://smazka.ru.com/production/mc1000cls-1-moly.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000cls-1-moly.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1143</vendorCode>
+        <name>МС 1000 CLS 1 MOLY 5% — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные узлы, системы АЦСС; Вязкость базового масла: 160 - 200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1180" available="true">
+        <url>https://smazka.ru.com/production/mc1000cls-1-moly.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000cls-1-moly.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1180</vendorCode>
+        <name>МС 1000 CLS 1 MOLY 5% — Бочка 180 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные узлы, системы АЦСС; Вязкость базового масла: 160 - 200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Бочка 180 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1150" available="true">
+        <url>https://smazka.ru.com/production/mc1000cls-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000cls-2.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1150</vendorCode>
+        <name>МС 1000 CLS 2 — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, системы АЦСС; Вязкость базового масла: 50 - 70 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1151" available="true">
+        <url>https://smazka.ru.com/production/mc1000cls-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000cls-2.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1151</vendorCode>
+        <name>МС 1000 CLS 2 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, системы АЦСС; Вязкость базового масла: 50 - 70 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1152" available="true">
+        <url>https://smazka.ru.com/production/mc1000cls-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1000cls-2.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1152</vendorCode>
+        <name>МС 1000 CLS 2 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, системы АЦСС; Вязкость базового масла: 50 - 70 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1264" available="true">
+        <url>https://smazka.ru.com/production/mc1400-00g.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400-00g+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1264</vendorCode>
+        <name>МС 1400-00 G — Ведро 16 кг</name>
+        <description>МС 1400-00 G пластичная смазка для редукторов и роботизированных передач конвейерного оборудования. Характеристики: Класс консистенции: NLGI 00; Узлы применения: редукторы и шарниры промышленных роботов; Вязкость базового масла: 25 - 25 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Литиевый; Рабочие температуры: от минус 60 до плюс 120°С. Фасовка: Ведро 16 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1201" available="true">
+        <url>https://smazka.ru.com/production/mc1400nord.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400nord.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1201</vendorCode>
+        <name>МС 1400 NORD — Картридж 400 мл</name>
+        <description>Пластичные смазки серии NORD разработаны специально для применения в условиях экстремально низких температур. Смазки обеспечивают превосходную прокачиваемость в системах АЦСС. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Системы АЦСС; Вязкость базового масла: 20 - 25 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Литиевый; Рабочие температуры: от минус 60 до плюс 120°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1202" available="true">
+        <url>https://smazka.ru.com/production/mc1400nord.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400nord.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1202</vendorCode>
+        <name>МС 1400 NORD — Ведро 8 кг</name>
+        <description>Пластичные смазки серии NORD разработаны специально для применения в условиях экстремально низких температур. Смазки обеспечивают превосходную прокачиваемость в системах АЦСС. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Системы АЦСС; Вязкость базового масла: 20 - 25 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Литиевый; Рабочие температуры: от минус 60 до плюс 120°С. Фасовка: Ведро 8 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1203" available="true">
+        <url>https://smazka.ru.com/production/mc1400nord.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400nord.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1203</vendorCode>
+        <name>МС 1400 NORD — Ведро 17 кг</name>
+        <description>Пластичные смазки серии NORD разработаны специально для применения в условиях экстремально низких температур. Смазки обеспечивают превосходную прокачиваемость в системах АЦСС. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Системы АЦСС; Вязкость базового масла: 20 - 25 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Литиевый; Рабочие температуры: от минус 60 до плюс 120°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1204" available="true">
+        <url>https://smazka.ru.com/production/mc1400nord.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400nord.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1204</vendorCode>
+        <name>МС 1400 NORD — Бочка 160 кг</name>
+        <description>Пластичные смазки серии NORD разработаны специально для применения в условиях экстремально низких температур. Смазки обеспечивают превосходную прокачиваемость в системах АЦСС. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Системы АЦСС; Вязкость базового масла: 20 - 25 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Литиевый; Рабочие температуры: от минус 60 до плюс 120°С. Фасовка: Бочка 160 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1211" available="true">
+        <url>https://smazka.ru.com/production/mc1410nord.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1410nord.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1211</vendorCode>
+        <name>МС 1410 NORD — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Системы АЦСС; Вязкость базового масла: 30 - 35 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Литиевый; Рабочие температуры: от минус 50 до плюс 120°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1212" available="true">
+        <url>https://smazka.ru.com/production/mc1410nord.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1410nord.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1212</vendorCode>
+        <name>МС 1410 NORD — Ведро 8 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Системы АЦСС; Вязкость базового масла: 30 - 35 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Литиевый; Рабочие температуры: от минус 50 до плюс 120°С. Фасовка: Ведро 8 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1213" available="true">
+        <url>https://smazka.ru.com/production/mc1410nord.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1410nord.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1213</vendorCode>
+        <name>МС 1410 NORD — Ведро 17 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Системы АЦСС; Вязкость базового масла: 30 - 35 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Литиевый; Рабочие температуры: от минус 50 до плюс 120°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1214" available="true">
+        <url>https://smazka.ru.com/production/mc1410nord.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc1410nord.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1214</vendorCode>
+        <name>МС 1410 NORD — Бочка 160 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Системы АЦСС; Вязкость базового масла: 30 - 35 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Литиевый; Рабочие температуры: от минус 50 до плюс 120°С. Фасовка: Бочка 160 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1221" available="true">
+        <url>https://smazka.ru.com/production/mc1400ogw.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400ogw.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1221</vendorCode>
+        <name>МС 1400 OGW — Ведро 17 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 0; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 900 - 1100 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Кальциевый; Рабочие температуры: от минус 50 до плюс 60°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1222" available="true">
+        <url>https://smazka.ru.com/production/mc1400ogw.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400ogw.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1222</vendorCode>
+        <name>МС 1400 OGW — Бочка 160 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 0; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 900 - 1100 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Кальциевый; Рабочие температуры: от минус 50 до плюс 60°С. Фасовка: Бочка 160 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1231" available="true">
+        <url>https://smazka.ru.com/production/mc1410ogs.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1410ogs.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1231</vendorCode>
+        <name>МС 1410 OGS — Ведро 17 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 0; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 1800 - 2200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 30 до плюс 100°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1232" available="true">
+        <url>https://smazka.ru.com/production/mc1410ogs.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1410ogs.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1232</vendorCode>
+        <name>МС 1410 OGS — Бочка 160 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 0; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 1800 - 2200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 30 до плюс 100°С. Фасовка: Бочка 160 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1233" available="true">
+        <url>https://smazka.ru.com/production/mc1410ogs.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1410ogs.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1233</vendorCode>
+        <name>МС 1410 OGS 00 — Ведро 17 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 00; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 1800 - 2200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 30 до плюс 100°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1181" available="true">
+        <url>https://smazka.ru.com/production/mc1410ogs.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1410ogs.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1181</vendorCode>
+        <name>МС 1410 OGS 00 — Бочка 160 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 00; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 1800 - 2200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 30 до плюс 100°С. Фасовка: Бочка 160 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1241" available="true">
+        <url>https://smazka.ru.com/production/mc1420ogh.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1420ogh.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1241</vendorCode>
+        <name>МС 1420 OGH — Ведро 17 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 3800 - 4200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиевый; Рабочие температуры: от минус 10 до плюс 120°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1242" available="true">
+        <url>https://smazka.ru.com/production/mc1420ogh.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1420ogh.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1242</vendorCode>
+        <name>МС 1420 OGH — Бочка 160 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 3800 - 4200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиевый; Рабочие температуры: от минус 10 до плюс 120°С. Фасовка: Бочка 160 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1371" available="true">
+        <url>https://smazka.ru.com/production/mc-alumix-1000-00-000.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400ogw.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1371</vendorCode>
+        <name>МС Alumix 1000 OG 00/000 — Ведро 17 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 00/000; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 900 - 1100 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный алюминиевый; Рабочие температуры: от минус 50 до плюс 150°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1370" available="true">
+        <url>https://smazka.ru.com/production/mc-alumix-1000-00-000.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400ogw.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1370</vendorCode>
+        <name>МС Alumix 1000 OG 00/000 — Бочка 160 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 00/000; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 900 - 1100 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный алюминиевый; Рабочие температуры: от минус 50 до плюс 150°С. Фасовка: Бочка 160 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1310" available="true">
+        <url>https://smazka.ru.com/production/mc-alumix-1500-0-00.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400ogw.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1310</vendorCode>
+        <name>МС Alumix 1500 OG 0/00 — Ведро 17 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 0/00; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 1400 - 1600 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный алюминиевый; Рабочие температуры: от минус 30 до плюс 160°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1300" available="true">
+        <url>https://smazka.ru.com/production/mc-alumix-1500-0-00.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400ogw.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1300</vendorCode>
+        <name>МС Alumix 1500 OG 0/00 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 0/00; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 1400 - 1600 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный алюминиевый; Рабочие температуры: от минус 30 до плюс 160°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1372" available="true">
+        <url>https://smazka.ru.com/production/mc-alumix-2500-0.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1400ogw.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1372</vendorCode>
+        <name>МС Alumix 1500 OG 0 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 0; Узлы применения: Открытые зубчатые передачи, системы АЦСС; Вязкость базового масла: 1400 - 1600 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный алюминиевый; Рабочие температуры: от минус 30 до плюс 160°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1304" available="true">
+        <url>https://smazka.ru.com/production/mc1510-blue.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1510.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1304</vendorCode>
+        <name>МС 1510 BLUE — Картридж 420 мл</name>
+        <description>МС 1510 BLUE - высокотемпературная пластичная смазка с высокими антиокислительными свойствами. Смазка рекомендована для применения в компонентах шасси, подшипниках ступиц легковых и грузовых автомобилей. Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Ступичные подипники, компоненты шасси; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 420 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1307" available="true">
+        <url>https://smazka.ru.com/production/mc1510-blue.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1510.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1307</vendorCode>
+        <name>МС 1510 BLUE — Ведро 18 кг</name>
+        <description>МС 1510 BLUE - высокотемпературная пластичная смазка с высокими антиокислительными свойствами. Смазка рекомендована для применения в компонентах шасси, подшипниках ступиц легковых и грузовых автомобилей. Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Ступичные подипники, компоненты шасси; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1308" available="true">
+        <url>https://smazka.ru.com/production/mc1510-blue.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1510.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1308</vendorCode>
+        <name>МС 1510 BLUE — Бочка 170 кг</name>
+        <description>МС 1510 BLUE - высокотемпературная пластичная смазка с высокими антиокислительными свойствами. Смазка рекомендована для применения в компонентах шасси, подшипниках ступиц легковых и грузовых автомобилей. Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Ступичные подипники, компоненты шасси; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1407" available="true">
+        <url>https://smazka.ru.com/production/mc1520.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1520.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1407</vendorCode>
+        <name>МС 1520 RUBIN — Картридж 400 мл</name>
+        <description>МС 1520 RUBIN - водостойкая EP-2 пластичная смазка для нагруженных шаровых опор, роликовых подшипников, подшипников колес, шасси, и прочих узлов транспортных средств, узлов промышленных машин и механизмов. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Компоненты шасси, промышленное оборудование; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1404" available="true">
+        <url>https://smazka.ru.com/production/mc1520.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1520.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1404</vendorCode>
+        <name>МС 1520 RUBIN — Ведро 18 кг</name>
+        <description>МС 1520 RUBIN - водостойкая EP-2 пластичная смазка для нагруженных шаровых опор, роликовых подшипников, подшипников колес, шасси, и прочих узлов транспортных средств, узлов промышленных машин и механизмов. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Компоненты шасси, промышленное оборудование; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1405" available="true">
+        <url>https://smazka.ru.com/production/mc1520.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1520.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1405</vendorCode>
+        <name>МС 1520 RUBIN — Бочка 170 кг</name>
+        <description>МС 1520 RUBIN - водостойкая EP-2 пластичная смазка для нагруженных шаровых опор, роликовых подшипников, подшипников колес, шасси, и прочих узлов транспортных средств, узлов промышленных машин и механизмов. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Компоненты шасси, промышленное оборудование; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1601" available="true">
+        <url>https://smazka.ru.com/production/mc1610magma.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1610magma.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1601</vendorCode>
+        <name>МС 1610 MAGMA — Картридж 400 мл</name>
+        <description>МС 1610 MAGMA - высокотемпературная смазка для подшипников качения и скольжения, работающих при высоких температурах. Для узлов трения, где требуется применение неплавящихся смазок. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Промышленное оборудование; Вязкость базового масла: 220 - 250 сСт; Тип базовых масел: Минеральное; Тип загустителя: Бентонитовый; Рабочие температуры: от минус 10 до плюс 200°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1604" available="true">
+        <url>https://smazka.ru.com/production/mc1610magma.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc1610magma.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1604</vendorCode>
+        <name>МС 1610 MAGMA — Ведро 17 кг</name>
+        <description>МС 1610 MAGMA - высокотемпературная смазка для подшипников качения и скольжения, работающих при высоких температурах. Для узлов трения, где требуется применение неплавящихся смазок. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Промышленное оборудование; Вязкость базового масла: 220 - 250 сСт; Тип базовых масел: Минеральное; Тип загустителя: Бентонитовый; Рабочие температуры: от минус 10 до плюс 200°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1032" available="true">
+        <url>https://smazka.ru.com/production/mc4115-00.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-00+1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1032</vendorCode>
+        <name>МС 4115-00/000 — Ведро 18 кг</name>
+        <description>МС 4115-00/000 - жидкая многоцелевая смазка для использования в лубрикаторах и централизованных системах подачи смазки. Характеристики: Класс консистенции: NLGI 00/000; Узлы применения: Зубчатые и цепные передачи, системы АЦСС; Вязкость базового масла: 40 - 60 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1033" available="true">
+        <url>https://smazka.ru.com/production/mc4115-00.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-00+1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1033</vendorCode>
+        <name>МС 4115-00/000 — Бочка 170 кг</name>
+        <description>МС 4115-00/000 - жидкая многоцелевая смазка для использования в лубрикаторах и централизованных системах подачи смазки. Характеристики: Класс консистенции: NLGI 00/000; Узлы применения: Зубчатые и цепные передачи, системы АЦСС; Вязкость базового масла: 40 - 60 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1035" available="true">
+        <url>https://smazka.ru.com/production/mc4115-0.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-0.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1035</vendorCode>
+        <name>МС 4115-0 — Ведро 18 кг</name>
+        <description>МС 4115-0 - полужидкая многоцелевая смазка для использования в лубрикаторах и централизованных системах подачи смазки. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Промышленное оборудование, системы АЦСС; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1036" available="true">
+        <url>https://smazka.ru.com/production/mc4115-0.html</url>
+        <categoryId>4</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-0.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1036</vendorCode>
+        <name>МС 4115-0 — Бочка 170 кг</name>
+        <description>МС 4115-0 - полужидкая многоцелевая смазка для использования в лубрикаторах и централизованных системах подачи смазки. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Промышленное оборудование, системы АЦСС; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1037" available="true">
+        <url>https://smazka.ru.com/production/mc4115-1.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1037</vendorCode>
+        <name>МС 4115-1 — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Промышленное оборудование, системы АЦСС; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1038" available="true">
+        <url>https://smazka.ru.com/production/mc4115-1.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1038</vendorCode>
+        <name>МС 4115-1 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Промышленное оборудование, системы АЦСС; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1039" available="true">
+        <url>https://smazka.ru.com/production/mc4115-1.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1039</vendorCode>
+        <name>МС 4115-1 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Промышленное оборудование, системы АЦСС; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1040" available="true">
+        <url>https://smazka.ru.com/production/mc4115-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1040</vendorCode>
+        <name>МС 4115-2 — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Подшипники скольжения и качения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1041" available="true">
+        <url>https://smazka.ru.com/production/mc4115-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1041</vendorCode>
+        <name>МС 4115-2 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Подшипники скольжения и качения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1042" available="true">
+        <url>https://smazka.ru.com/production/mc4115-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1042</vendorCode>
+        <name>МС 4115-2 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Подшипники скольжения и качения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1043" available="true">
+        <url>https://smazka.ru.com/production/mc4115-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1043</vendorCode>
+        <name>МС 4115-2Р — Картридж 400 мл</name>
+        <description>МС 4115-2Р - многоцелевая SUPER EP-2 смазка. Подходит для применения в нагруженных узлах дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1044" available="true">
+        <url>https://smazka.ru.com/production/mc4115-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1044</vendorCode>
+        <name>МС 4115-2Р — Ведро 18 кг</name>
+        <description>МС 4115-2Р - многоцелевая SUPER EP-2 смазка. Подходит для применения в нагруженных узлах дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1045" available="true">
+        <url>https://smazka.ru.com/production/mc4115-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4115-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1045</vendorCode>
+        <name>МС 4115-2Р — Бочка 170 кг</name>
+        <description>МС 4115-2Р - многоцелевая SUPER EP-2 смазка. Подходит для применения в нагруженных узлах дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8030" available="true">
+        <url>https://smazka.ru.com/production/mc4213-3.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4213+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8030</vendorCode>
+        <name>МС 4213-3 — Ведро 18 кг</name>
+        <description>МС 4213-3 - EP-3 смазка многоцелевого назначения. Подходит для применения в узлах дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 3; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 65- 75 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8024" available="true">
+        <url>https://smazka.ru.com/production/mc4215-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4215-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8024</vendorCode>
+        <name>МС 4215-2 — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Втулочно-пальциевые соединения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="8025" available="true">
+        <url>https://smazka.ru.com/production/mc4215-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4215-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8025</vendorCode>
+        <name>МС 4215-2 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Втулочно-пальциевые соединения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1183" available="true">
+        <url>https://smazka.ru.com/production/mc4215-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4215-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1183</vendorCode>
+        <name>МС 4215-2 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Втулочно-пальциевые соединения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8028" available="true">
+        <url>https://smazka.ru.com/production/mc4215-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4215-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8028</vendorCode>
+        <name>МС 4215-2Р — Картридж 400 мл</name>
+        <description>МС 4215-2Р - водостойкая SUPER EP-2 смазка. Подходит для применения в нагруженных узлах дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="8029" available="true">
+        <url>https://smazka.ru.com/production/mc4215-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4215-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8029</vendorCode>
+        <name>МС 4215-2Р — Ведро 18 кг</name>
+        <description>МС 4215-2Р - водостойкая SUPER EP-2 смазка. Подходит для применения в нагруженных узлах дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1046" available="true">
+        <url>https://smazka.ru.com/production/mc4217-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4217-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1046</vendorCode>
+        <name>МС 4217-2 — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Втулочно-пальциевые соединения; Вязкость базового масла: 700 - 900 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1047" available="true">
+        <url>https://smazka.ru.com/production/mc4217-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4217-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1047</vendorCode>
+        <name>МС 4217-2 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Втулочно-пальциевые соединения; Вязкость базового масла: 700 - 900 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1048" available="true">
+        <url>https://smazka.ru.com/production/mc4217-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4217-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1048</vendorCode>
+        <name>МС 4217-2 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Втулочно-пальциевые соединения; Вязкость базового масла: 700 - 900 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1053" available="true">
+        <url>https://smazka.ru.com/production/mc4217-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4217-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1053</vendorCode>
+        <name>МС 4217-2Р — Картридж 400 мл</name>
+        <description>МС 4215-2Р - водостойкая SUPER EP-2 смазка. Подходит для применения в нагруженных узлах дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 700 - 900 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1054" available="true">
+        <url>https://smazka.ru.com/production/mc4217-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4217-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1054</vendorCode>
+        <name>МС 4217-2Р — Ведро 18 кг</name>
+        <description>МС 4215-2Р - водостойкая SUPER EP-2 смазка. Подходит для применения в нагруженных узлах дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 700 - 900 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1605" available="true">
+        <url>https://smazka.ru.com/production/mc4716-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4716-2_1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1605</vendorCode>
+        <name>МС 4716-2 — Ведро 18 кг</name>
+        <description>MC MAGMA 460-2 (МС 4716-2) - высокотемпературная смазка для тяжелых условий эксплуатации. Предназначена для смазывания термонагруженных подшипников качения и скольжения, осей вращения тяжелого промышленного оборудования. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, оси вращения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Минеральное; Тип загустителя: Бентонитовый; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8528" available="true">
+        <url>https://smazka.ru.com/production/mc4717-00.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4717-00_1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8528</vendorCode>
+        <name>МС 4717-0/00 — Ведро 18 кг</name>
+        <description>МС 4717-0/00 - cмазка предназначена для применения на открытых зубчатых передачах и стальных канатах таких видов техники, как: одноковшовые экскаваторы типа драглайн или механическая лопата, зубчатые венцы и приводы дробильно-размольного, обжигового и агломерационного оборудования. Характеристики: Класс консистенции: NLGI 0/00; Узлы применения: Стальные канаты, тросы, поверхности скольжения; Вязкость базового масла: 900 - 1000 сСт; Тип базовых масел: Минеральное; Тип загустителя: Бентонитовый; Рабочие температуры: от минус 30 до плюс 200°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1607" available="true">
+        <url>https://smazka.ru.com/production/mc4722-1-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4213-3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1607</vendorCode>
+        <name>МС MAGMA SYNT 32-1/2 — Ведро 16 кг</name>
+        <description>МС MAGMA SYNT 32-1/2 (МС 4722-1/2) - высокотемпературная смазка на основе синтетического базового масла и бентонитового загустителя. Смазка устойчива к окислению и испарению, в сочетании с антифрикционными и антикоррозионными присадками, предотвращающими преждевременный выход из строя подшипников, способствует снижению эксплуатационных расходов. Продукт обеспечивает надежную защиту узлов при более высоких рабочих температурах, чем смазки на основе мыльных загустителей. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Подшипники качения и скольжения; Вязкость базового масла:… Цена: По запросу.</description>
+      </offer>
+      <offer id="1330" available="true">
+        <url>https://smazka.ru.com/production/mc5115-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5115-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1330</vendorCode>
+        <name>МС 5115-2 — Картридж 400 мл</name>
+        <description>МС 5115-2 - высокотемпературная синяя ЕР-2 литиевая комплексная смазка. Смазка рекомендована для применения в компонентах шасси, подшипниках ступиц грузовых автомобилей. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Ступичные подшипники, компоненты шасси; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1331" available="true">
+        <url>https://smazka.ru.com/production/mc5115-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5115-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1331</vendorCode>
+        <name>МС 5115-2 — Ведро 18 кг</name>
+        <description>МС 5115-2 - высокотемпературная синяя ЕР-2 литиевая комплексная смазка. Смазка рекомендована для применения в компонентах шасси, подшипниках ступиц грузовых автомобилей. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Ступичные подшипники, компоненты шасси; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1332" available="true">
+        <url>https://smazka.ru.com/production/mc5115-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5115-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1332</vendorCode>
+        <name>МС 5115-2 — Бочка 170 кг</name>
+        <description>МС 5115-2 - высокотемпературная синяя ЕР-2 литиевая комплексная смазка. Смазка рекомендована для применения в компонентах шасси, подшипниках ступиц грузовых автомобилей. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Ступичные подшипники, компоненты шасси; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1334" available="true">
+        <url>https://smazka.ru.com/production/mc5115-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5115-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1334</vendorCode>
+        <name>МС 5115-2 RED — Картридж 400 мл</name>
+        <description>МС 5115-2 RED - высокотемпературная красная ЕР-2 литиевая комплексная смазка. Смазка рекомендована для применения в компонентах шасси, подшипниках ступиц грузовых автомобилей. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Ступичные подшипники, компоненты шасси; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1349" available="true">
+        <url>https://smazka.ru.com/production/mc5115-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5115-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1349</vendorCode>
+        <name>МС 5115-2 RED — Ведро 18 кг</name>
+        <description>МС 5115-2 RED - высокотемпературная красная ЕР-2 литиевая комплексная смазка. Смазка рекомендована для применения в компонентах шасси, подшипниках ступиц грузовых автомобилей. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Ступичные подшипники, компоненты шасси; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1348" available="true">
+        <url>https://smazka.ru.com/production/mc5115-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5115-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1348</vendorCode>
+        <name>МС 5115-2 RED — Бочка 170 кг</name>
+        <description>МС 5115-2 RED - высокотемпературная красная ЕР-2 литиевая комплексная смазка. Смазка рекомендована для применения в компонентах шасси, подшипниках ступиц грузовых автомобилей. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Ступичные подшипники, компоненты шасси; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1350" available="true">
+        <url>https://smazka.ru.com/production/mc5115-2hd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4213-3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1350</vendorCode>
+        <name>МС 5115-2 HD — Картридж 400 мл</name>
+        <description>МС 5115-2 HD смазка для применения в нагруженных подшипниках сельско-хозяйственной и дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники, втулочно-пальциевые соединения; Вязкость базового масла: 220 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1351" available="true">
+        <url>https://smazka.ru.com/production/mc5115-2hd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4213-3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1351</vendorCode>
+        <name>МС 5115-2 HD — Ведро 18 кг</name>
+        <description>МС 5115-2 HD смазка для применения в нагруженных подшипниках сельско-хозяйственной и дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники, втулочно-пальциевые соединения; Вязкость базового масла: 220 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1352" available="true">
+        <url>https://smazka.ru.com/production/mc5115-2hd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4213-3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1352</vendorCode>
+        <name>МС 5115-2 HD — Бочка 170 кг</name>
+        <description>МС 5115-2 HD смазка для применения в нагруженных подшипниках сельско-хозяйственной и дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники, втулочно-пальциевые соединения; Вязкость базового масла: 220 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8312" available="true">
+        <url>https://smazka.ru.com/production/mc5115-3.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5115-3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8312</vendorCode>
+        <name>МС 5115-3 — Ведро 18 кг</name>
+        <description>МС 5115-3 - высокотемпературная ЕР-2 литиевая комплексная смазка. Подходит для применения в нагруженных узлах дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 3; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 170 -190 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8313" available="true">
+        <url>https://smazka.ru.com/production/mc5115-3hd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4213-3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8313</vendorCode>
+        <name>МС 5115-3 HD — Картридж 400 мл</name>
+        <description>МС 5115-3 HD смазка для применения в нагруженных подшипниках сельско-хозяйственной и дорожно-строительной техники. Характеристики: Класс консистенции: NLGI 3; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 220 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1341" available="true">
+        <url>https://smazka.ru.com/production/mc5117-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5117-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1341</vendorCode>
+        <name>МС 5117-2 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 10 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1342" available="true">
+        <url>https://smazka.ru.com/production/mc5117-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5117-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1342</vendorCode>
+        <name>МС 5117-2 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 10 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1345" available="true">
+        <url>https://smazka.ru.com/production/mc5117-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5117-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1345</vendorCode>
+        <name>МС 5117-2Р — Картридж 400 мл</name>
+        <description>МС 5117-2Р - SUPER EP-2 смазка для применения в нагруженных узлах дорожно-строительной и горнодобывающей техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 10 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1346" available="true">
+        <url>https://smazka.ru.com/production/mc5117-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5117-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1346</vendorCode>
+        <name>МС 5117-2Р — Ведро 18 кг</name>
+        <description>МС 5117-2Р - SUPER EP-2 смазка для применения в нагруженных узлах дорожно-строительной и горнодобывающей техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 10 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1347" available="true">
+        <url>https://smazka.ru.com/production/mc5117-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5117-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1347</vendorCode>
+        <name>МС 5117-2Р — Бочка 170 кг</name>
+        <description>МС 5117-2Р - SUPER EP-2 смазка для применения в нагруженных узлах дорожно-строительной и горнодобывающей техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 10 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1363" available="true">
+        <url>https://smazka.ru.com/production/mc5123-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5123-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1363</vendorCode>
+        <name>МС 5123-2 PLASMA — Стик-пакет 50 г</name>
+        <description>МС 5123-2 - синтетическая (ПАО) EP-2 смазка для скоростных подшипников и электродвигателей. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 180°С. Фасовка: Стик-пакет 50 г. Цена: По запросу.</description>
+      </offer>
+      <offer id="1360" available="true">
+        <url>https://smazka.ru.com/production/mc5123-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5123-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1360</vendorCode>
+        <name>МС 5123-2 PLASMA — Картридж 400 мл</name>
+        <description>МС 5123-2 - синтетическая (ПАО) EP-2 смазка для скоростных подшипников и электродвигателей. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1361" available="true">
+        <url>https://smazka.ru.com/production/mc5123-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5123-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1361</vendorCode>
+        <name>МС 5123-2 PLASMA — Ведро 16 кг</name>
+        <description>МС 5123-2 - синтетическая (ПАО) EP-2 смазка для скоростных подшипников и электродвигателей. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 180°С. Фасовка: Ведро 16 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1362" available="true">
+        <url>https://smazka.ru.com/production/mc5123-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc5123-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1362</vendorCode>
+        <name>МС 5123-2 PLASMA — Бочка 170 кг</name>
+        <description>МС 5123-2 - синтетическая (ПАО) EP-2 смазка для скоростных подшипников и электродвигателей. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1367" available="true">
+        <url>https://smazka.ru.com/production/mc-alumix-220-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/cas220+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1367</vendorCode>
+        <name>МС Alumix 220-2 — Картридж 400 мл</name>
+        <description>МС Alumix 220-2 - смазка на основе минерального базового масла и комплексного алюминиевого загустителя. Содержит в составе комплекс высокоэффективных присадок. Смазка отличается высокой водостойкостью и адгезией к поверхностям трения. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 200 - 220 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный алюминиевый; Рабочие температуры: от минус 30 до плюс 160°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1369" available="true">
+        <url>https://smazka.ru.com/production/mc-alumix-220-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/cas220+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1369</vendorCode>
+        <name>МС Alumix 220-2 — Ведро 18 кг</name>
+        <description>МС Alumix 220-2 - смазка на основе минерального базового масла и комплексного алюминиевого загустителя. Содержит в составе комплекс высокоэффективных присадок. Смазка отличается высокой водостойкостью и адгезией к поверхностям трения. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 200 - 220 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный алюминиевый; Рабочие температуры: от минус 30 до плюс 160°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1225" available="true">
+        <url>https://smazka.ru.com/production/cas220-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/cas220+.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1225</vendorCode>
+        <name>МС CaS-X 220-2 — Картридж 400 мл</name>
+        <description>МС CaS-X 220-2 (МС 5415-2) - многоцелевая пластичная смазка на основе высокоочищенного минерального базового масла, загущенного комплексом сульфоната кальция. Продукт предназначен для применения в нагруженных подшипниках и узлах автомобильной, дорожно-строительной и сельскохозяйственной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 200 - 220 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный сульфонат кальция; Рабочие температуры: от минус 30 до плюс 200°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1224" available="true">
+        <url>https://smazka.ru.com/production/cas220-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/cas220+.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1224</vendorCode>
+        <name>МС CaS-X 220-2 — Ведро 18 кг</name>
+        <description>МС CaS-X 220-2 (МС 5415-2) - многоцелевая пластичная смазка на основе высокоочищенного минерального базового масла, загущенного комплексом сульфоната кальция. Продукт предназначен для применения в нагруженных подшипниках и узлах автомобильной, дорожно-строительной и сельскохозяйственной техники. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 200 - 220 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный сульфонат кальция; Рабочие температуры: от минус 30 до плюс 200°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1167" available="true">
+        <url>https://smazka.ru.com/production/cas460-12.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-cas+2.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1167</vendorCode>
+        <name>МС CaS-X 460-1/2 — Картридж 400 мл</name>
+        <description>МС CaS-X 460-1/2 (МС 5416-1/2) - высокотемпературная смазка на основе высокоочищенного минерального базового масла высокой вязкости, загущенного комплексом сульфоната кальция. Предназначена для применения в нагруженных подшипниках и узлах металлургического оборудования, централизованных системах смазывания машин непрерывного литья, прокатных станов, подшипников рольгангов. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный сульфонат… Цена: По запросу.</description>
+      </offer>
+      <offer id="1168" available="true">
+        <url>https://smazka.ru.com/production/cas460-12.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-cas+2.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1168</vendorCode>
+        <name>МС CaS-X 460-1/2 — Ведро 18 кг</name>
+        <description>МС CaS-X 460-1/2 (МС 5416-1/2) - высокотемпературная смазка на основе высокоочищенного минерального базового масла высокой вязкости, загущенного комплексом сульфоната кальция. Предназначена для применения в нагруженных подшипниках и узлах металлургического оборудования, централизованных системах смазывания машин непрерывного литья, прокатных станов, подшипников рольгангов. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный сульфонат… Цена: По запросу.</description>
+      </offer>
+      <offer id="1169" available="true">
+        <url>https://smazka.ru.com/production/cas460-12.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-cas+2.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1169</vendorCode>
+        <name>МС CaS-X 460-1/2 — Бочка 170 кг</name>
+        <description>МС CaS-X 460-1/2 (МС 5416-1/2) - высокотемпературная смазка на основе высокоочищенного минерального базового масла высокой вязкости, загущенного комплексом сульфоната кальция. Предназначена для применения в нагруженных подшипниках и узлах металлургического оборудования, централизованных системах смазывания машин непрерывного литья, прокатных станов, подшипников рольгангов. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный сульфонат… Цена: По запросу.</description>
+      </offer>
+      <offer id="1059" available="true">
+        <url>https://smazka.ru.com/production/mc-plm100.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-plm100+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1059</vendorCode>
+        <name>МС PLM 100-2/3 — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 90 - 110 сСт; Тип базовых масел: Минеральное; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1098" available="true">
+        <url>https://smazka.ru.com/production/mc-plm100.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-plm100+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1098</vendorCode>
+        <name>МС PLM 100-2/3 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 90 - 110 сСт; Тип базовых масел: Минеральное; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1271" available="true">
+        <url>https://smazka.ru.com/production/mc-plm220.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/agro_lx_220+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1271</vendorCode>
+        <name>МС PLM 220-2 — Картридж 400 мл</name>
+        <description>МС PLM 220-2 – многоцелевая высокотемпературная смазка на основе полимочевинного загустителя. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 200 - 240 сСт; Тип базовых масел: Минеральное; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1259" available="true">
+        <url>https://smazka.ru.com/production/mc-plm220.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/agro_lx_220+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1259</vendorCode>
+        <name>МС PLM 220-2 — Ведро 18 кг</name>
+        <description>МС PLM 220-2 – многоцелевая высокотемпературная смазка на основе полимочевинного загустителя. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 200 - 240 сСт; Тип базовых масел: Минеральное; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1050" available="true">
+        <url>https://smazka.ru.com/production/mc-plm.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-plm+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1050</vendorCode>
+        <name>МС PLM 460-1 — Картридж 400 мл</name>
+        <description>МС PLM 460-1 – высокотемпературная низкозольная полимочевинная смазка для пресс-грануляторов. Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Минеральное; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1051" available="true">
+        <url>https://smazka.ru.com/production/mc-plm.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-plm+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1051</vendorCode>
+        <name>МС PLM 460-1 — Ведро 18 кг</name>
+        <description>МС PLM 460-1 – высокотемпературная низкозольная полимочевинная смазка для пресс-грануляторов. Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Минеральное; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1052" available="true">
+        <url>https://smazka.ru.com/production/mc-plm.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-plm+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1052</vendorCode>
+        <name>МС PLM 460-1 — Бочка 170 кг</name>
+        <description>МС PLM 460-1 – высокотемпературная низкозольная полимочевинная смазка для пресс-грануляторов. Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Минеральное; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1176" available="true">
+        <url>https://smazka.ru.com/production/mc-plm1-2synth.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/460ep-1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1176</vendorCode>
+        <name>МС PLM 460-1/2 synth — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1274" available="true">
+        <url>https://smazka.ru.com/production/mc-plm1-2synth.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/460ep-1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1274</vendorCode>
+        <name>МС PLM 460-1/2 synth — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1178" available="true">
+        <url>https://smazka.ru.com/production/mc-plm-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/460ep-1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1178</vendorCode>
+        <name>МС PLM 460-2 — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Минеральное; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1177" available="true">
+        <url>https://smazka.ru.com/production/mc-plm-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/460ep-1.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1177</vendorCode>
+        <name>МС PLM 460-2 — Бочка 170 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Минеральное; Тип загустителя: Полимочевинный; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1056" available="true">
+        <url>https://smazka.ru.com/production/smp100-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm100-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1056</vendorCode>
+        <name>МС SPM 100-2 — Картридж 400 мл</name>
+        <description>МС SPM 100-2 - синтетическая смазка для скоростных подшипников качения и скольжения, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 90 - 110 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1057" available="true">
+        <url>https://smazka.ru.com/production/smp100-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm100-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1057</vendorCode>
+        <name>МС SPM 100-2 — Ведро 16 кг</name>
+        <description>МС SPM 100-2 - синтетическая смазка для скоростных подшипников качения и скольжения, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 90 - 110 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 16 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1058" available="true">
+        <url>https://smazka.ru.com/production/smp100-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm100-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1058</vendorCode>
+        <name>МС SPM 100-2 — Бочка 160 кг</name>
+        <description>МС SPM 100-2 - синтетическая смазка для скоростных подшипников качения и скольжения, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 90 - 110 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Бочка 160 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1099" available="true">
+        <url>https://smazka.ru.com/production/smp100-2p.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm100-2p.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1099</vendorCode>
+        <name>МС SPM 100-2P — Ведро 16 кг</name>
+        <description>МС SPM 100-2Р - синтетическая смазка для нагруженных подшипников промышленного оборудования и узлов, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 90 - 110 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 16 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1097" available="true">
+        <url>https://smazka.ru.com/production/spm150-1p-moly.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4217-ex+3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1097</vendorCode>
+        <name>МС SPM 150-1Р MOLY 5% — Картридж 400 мл</name>
+        <description>МС SPM 150-1Р MOLY 5% - синтетическая смазка для применения в нагруженном промышленном оборудовании и добывающей технике. Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 140 - 160 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1100" available="true">
+        <url>https://smazka.ru.com/production/spm150-1p-moly.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4217-ex+3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1100</vendorCode>
+        <name>МС SPM 150-1Р MOLY 5% — Ведро 18 кг</name>
+        <description>МС SPM 150-1Р MOLY 5% - синтетическая смазка для применения в нагруженном промышленном оборудовании и добывающей технике. Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 140 - 160 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1173" available="true">
+        <url>https://smazka.ru.com/production/spm150-1p-moly.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4217-ex+3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1173</vendorCode>
+        <name>МС SPM 150-1Р MOLY 5% — Бочка 180 кг</name>
+        <description>МС SPM 150-1Р MOLY 5% - синтетическая смазка для применения в нагруженном промышленном оборудовании и добывающей технике. Характеристики: Класс консистенции: NLGI 1; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 140 - 160 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 120°С. Фасовка: Бочка 180 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1063" available="true">
+        <url>https://smazka.ru.com/production/smp220-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm220-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1063</vendorCode>
+        <name>МС SPM 220-2 — Картридж 400 мл</name>
+        <description>МС SPM 220-2 - синтетическая смазка для подшипников качения и скольжения, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Подшипники скольжения и качения; Вязкость базового масла: 200 - 240 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1064" available="true">
+        <url>https://smazka.ru.com/production/smp220-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm220-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1064</vendorCode>
+        <name>МС SPM 220-2 — Ведро 16 кг</name>
+        <description>МС SPM 220-2 - синтетическая смазка для подшипников качения и скольжения, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Подшипники скольжения и качения; Вязкость базового масла: 200 - 240 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Ведро 16 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1065" available="true">
+        <url>https://smazka.ru.com/production/smp220-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm220-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1065</vendorCode>
+        <name>МС SPM 220-2 — Бочка 170 кг</name>
+        <description>МС SPM 220-2 - синтетическая смазка для подшипников качения и скольжения, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Подшипники скольжения и качения; Вязкость базового масла: 200 - 240 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1069" available="true">
+        <url>https://smazka.ru.com/production/smp460-00.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm460-00.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1069</vendorCode>
+        <name>МС SPM 460-00 — Ведро 16 кг</name>
+        <description>МС SPM 460-00 - синтетическая смазка для нагруженного промышленного оборудования и узлов, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 00; Узлы применения: Редукторы, втулки траверс; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 180°С. Фасовка: Ведро 16 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1070" available="true">
+        <url>https://smazka.ru.com/production/smp460-00.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm460-00.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1070</vendorCode>
+        <name>МС SPM 460-00 — Бочка 170 кг</name>
+        <description>МС SPM 460-00 - синтетическая смазка для нагруженного промышленного оборудования и узлов, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 00; Узлы применения: Редукторы, втулки траверс; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1066" available="true">
+        <url>https://smazka.ru.com/production/smp460-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm460-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1066</vendorCode>
+        <name>МС SPM 460-2 — Картридж 400 мл</name>
+        <description>МС SPM 460-2 - синтетическая смазка для нагруженного промышленного оборудования и узлов, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 30 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1067" available="true">
+        <url>https://smazka.ru.com/production/smp460-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm460-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1067</vendorCode>
+        <name>МС SPM 460-2 — Ведро 16 кг</name>
+        <description>МС SPM 460-2 - синтетическая смазка для нагруженного промышленного оборудования и узлов, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 30 до плюс 180°С. Фасовка: Ведро 16 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1068" available="true">
+        <url>https://smazka.ru.com/production/smp460-2.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm460-2.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1068</vendorCode>
+        <name>МС SPM 460-2 — Бочка 170 кг</name>
+        <description>МС SPM 460-2 - синтетическая смазка для нагруженного промышленного оборудования и узлов, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 440 - 480 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 30 до плюс 180°С. Фасовка: Бочка 170 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1061" available="true">
+        <url>https://smazka.ru.com/production/smp1500.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm1500+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1061</vendorCode>
+        <name>МС SPM 1500-1/2 — Ведро 18 кг</name>
+        <description>МС SPM 1500-1/2 - синтетическая смазка для нагруженного промышленного оборудования и узлов, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 1500 - 1600 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 160°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1062" available="true">
+        <url>https://smazka.ru.com/production/smp1500.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/spm1500+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1062</vendorCode>
+        <name>МС SPM 1500-1/2 — Бочка 160 кг</name>
+        <description>МС SPM 1500-1/2 - синтетическая смазка для нагруженного промышленного оборудования и узлов, тебующих увеличенных интервалов обслуживания. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: Нагруженные подшипники качения и скольжения; Вязкость базового масла: 1500 - 1600 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 160°С. Фасовка: Бочка 160 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1075" available="true">
+        <url>https://smazka.ru.com/production/mc-eco.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-eco+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1075</vendorCode>
+        <name>МС ECO — Картридж 400 мл</name>
+        <description>МС ECO - EP-2 биоразлагаемая пластичная смазка для различных видов техники, работающей в прямом контакте с грунтом и водоемами. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Подшипники скольжения и качения; Вязкость базового масла: 45 - 75 сСт; Тип базовых масел: Растительное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 20 до плюс 120°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1076" available="true">
+        <url>https://smazka.ru.com/production/mc-eco.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-eco+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1076</vendorCode>
+        <name>МС ECO — Ведро 16 кг</name>
+        <description>МС ECO - EP-2 биоразлагаемая пластичная смазка для различных видов техники, работающей в прямом контакте с грунтом и водоемами. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Подшипники скольжения и качения; Вязкость базового масла: 45 - 75 сСт; Тип базовых масел: Растительное; Тип загустителя: Литиево-кальциевый; Рабочие температуры: от минус 20 до плюс 120°С. Фасовка: Ведро 16 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="2201" available="true">
+        <url>https://smazka.ru.com/production/mc-sport.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-sport+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>2201</vendorCode>
+        <name>МС СПОРТ — Банка 400 г</name>
+        <description>МС СПОРТ - силиконовая смазка, обладает высокими герметизирующими водоотталкивающими свойствами, может применяться для герметизации датчиков АВS грузовых транспортных средств. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: РТИ, датчики, разъемы; Вязкость базового масла: 150 - 170 сСт; Тип базовых масел: Силиконовое; Тип загустителя: Неорганический; Рабочие температуры: от минус 50 до плюс 230°С. Фасовка: Банка 400 г. Цена: По запросу.</description>
+      </offer>
+      <offer id="2202" available="true">
+        <url>https://smazka.ru.com/production/mc-sport.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-sport+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>2202</vendorCode>
+        <name>МС СПОРТ — Банка 900 г</name>
+        <description>МС СПОРТ - силиконовая смазка, обладает высокими герметизирующими водоотталкивающими свойствами, может применяться для герметизации датчиков АВS грузовых транспортных средств. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: РТИ, датчики, разъемы; Вязкость базового масла: 150 - 170 сСт; Тип базовых масел: Силиконовое; Тип загустителя: Неорганический; Рабочие температуры: от минус 50 до плюс 230°С. Фасовка: Банка 900 г. Цена: По запросу.</description>
+      </offer>
+      <offer id="2206" available="true">
+        <url>https://smazka.ru.com/production/mc-sport.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-sport+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>2206</vendorCode>
+        <name>МС СПОРТ — Ведро 9 кг</name>
+        <description>МС СПОРТ - силиконовая смазка, обладает высокими герметизирующими водоотталкивающими свойствами, может применяться для герметизации датчиков АВS грузовых транспортных средств. Характеристики: Класс консистенции: NLGI 1/2; Узлы применения: РТИ, датчики, разъемы; Вязкость базового масла: 150 - 170 сСт; Тип базовых масел: Силиконовое; Тип загустителя: Неорганический; Рабочие температуры: от минус 50 до плюс 230°С. Фасовка: Ведро 9 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="2304" available="true">
+        <url>https://smazka.ru.com/production/silicot-plus.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/silicot+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>2304</vendorCode>
+        <name>МС SILICOT PLUS — Туба 100 мл</name>
+        <description>МС SILICOT PLUS - высокотемпературная смазка-герметик на силиконовой основе с паро- и водоотталкивающими, защитно-консервационными, диэлектрическими и герметизирующими свойствами. Характеристики: Класс консистенции: -; Узлы применения: РТИ, датчики, разъемы; Вязкость базового масла: -; Тип базовых масел: Силиконовое; Тип загустителя: Неорганический; Рабочие температуры: от минус 50 до плюс 230°С. Фасовка: Туба 100 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1804" available="true">
+        <url>https://smazka.ru.com/production/mc-shrus-x5.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mcshrusx5.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1804</vendorCode>
+        <name>МС ШРУС — Туба 200 мл</name>
+        <description>МС ШРУС - смазка для шариковых шарниров равных угловых скоростей - противозадирная металлоплакирующая (восстанавливающая поверхности трения). Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Шариковые ШРУС; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиевый / литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Туба 200 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1806" available="true">
+        <url>https://smazka.ru.com/production/mc-shrus-x5.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mcshrusx5.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1806</vendorCode>
+        <name>МС ШРУС — Ведро 9 кг</name>
+        <description>МС ШРУС - смазка для шариковых шарниров равных угловых скоростей - противозадирная металлоплакирующая (восстанавливающая поверхности трения). Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Шариковые ШРУС; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиевый / литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Ведро 9 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1810" available="true">
+        <url>https://smazka.ru.com/production/mc-shrus-x5.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mcshrusx5.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1810</vendorCode>
+        <name>МС ШРУС — Ведро 18 кг</name>
+        <description>МС ШРУС - смазка для шариковых шарниров равных угловых скоростей - противозадирная металлоплакирующая (восстанавливающая поверхности трения). Характеристики: Класс консистенции: NLGI 2/3; Узлы применения: Шариковые ШРУС; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиевый / литиево-кальциевый; Рабочие температуры: от минус 40 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1807" available="true">
+        <url>https://smazka.ru.com/production/mc-shrus-t.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mcshrus.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1807</vendorCode>
+        <name>МС ШРУС ТРИПОИДНЫЙ — Стик-пакет 90 мл</name>
+        <description>МС ШРУС ТРИПОИДНЫЙ - смазка для триподных шарниров равных угловых скоростей, а так же для подшипников качения и скольжения,где требуется смазка с консистенцией по NLGI 1. Характеристики: Класс консистенции: NLGI 1; Узлы применения: Трипоидные ШРУС; Вязкость базового масла: 140 - 180 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 160°С. Фасовка: Стик-пакет 90 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1817" available="true">
+        <url>https://smazka.ru.com/production/mc-shrus-t.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mcshrus.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1817</vendorCode>
+        <name>МС ШРУС ТРИПОИДНЫЙ — Туба 200 мл</name>
+        <description>МС ШРУС ТРИПОИДНЫЙ - смазка для триподных шарниров равных угловых скоростей, а так же для подшипников качения и скольжения,где требуется смазка с консистенцией по NLGI 1. Характеристики: Класс консистенции: NLGI 1; Узлы применения: Трипоидные ШРУС; Вязкость базового масла: 140 - 180 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 160°С. Фасовка: Туба 200 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1088" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1088</vendorCode>
+        <name>МС HDD (лето) — Ведро 4 кг (для ЦСС)</name>
+        <description>МС HDD (ЛЕТНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом до 15 кНм. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Ведро 4 кг (для ЦСС). Цена: По запросу.</description>
+      </offer>
+      <offer id="1072" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1072</vendorCode>
+        <name>МС HDD (лето) — Ведро 4,5 кг</name>
+        <description>МС HDD (ЛЕТНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом до 15 кНм. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Ведро 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1086" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1086</vendorCode>
+        <name>МС HDD (лето) — Ведро 9 кг</name>
+        <description>МС HDD (ЛЕТНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом до 15 кНм. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Ведро 9 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8007" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8007</vendorCode>
+        <name>МС HDD (зима) — Ведро 4 кг (для ЦСС)</name>
+        <description>МС HDD (ЗИМНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом до 15 кНм. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 25 до плюс 600°С. Фасовка: Ведро 4 кг (для ЦСС). Цена: По запросу.</description>
+      </offer>
+      <offer id="1071" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1071</vendorCode>
+        <name>МС HDD (зима) — Ведро 4,5 кг</name>
+        <description>МС HDD (ЗИМНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом до 15 кНм. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 25 до плюс 600°С. Фасовка: Ведро 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1085" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1085</vendorCode>
+        <name>МС HDD (зима) — Ведро 9 кг</name>
+        <description>МС HDD (ЗИМНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом до 15 кНм. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 25 до плюс 600°С. Фасовка: Ведро 9 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1092" available="true">
+        <url>https://smazka.ru.com/production/mchddultra.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1092</vendorCode>
+        <name>МС HDD ULTRA (лето) — Ведро 4 кг (для ЦСС)</name>
+        <description>МС HDD Ultra (ЛЕТНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом более 15 кНм. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Ведро 4 кг (для ЦСС). Цена: По запросу.</description>
+      </offer>
+      <offer id="1073" available="true">
+        <url>https://smazka.ru.com/production/mchddultra.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1073</vendorCode>
+        <name>МС HDD ULTRA (лето) — Ведро 4,5 кг</name>
+        <description>МС HDD Ultra (ЛЕТНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом более 15 кНм. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Ведро 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1087" available="true">
+        <url>https://smazka.ru.com/production/mchddultra.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1087</vendorCode>
+        <name>МС HDD ULTRA (лето) — Ведро 9 кг</name>
+        <description>МС HDD Ultra (ЛЕТНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом более 15 кНм. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Ведро 9 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8008" available="true">
+        <url>https://smazka.ru.com/production/mchddultra.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+3.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8008</vendorCode>
+        <name>МС HDD ULTRA (лето) — Ведро 18 кг</name>
+        <description>МС HDD Ultra (ЛЕТНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом более 15 кНм. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1092-2" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1092-2</vendorCode>
+        <name>МС HDD ULTRA (зима) — Ведро 4 кг (для ЦСС)</name>
+        <description>МС HDD Ultra (ЗИМНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом более 15 кНм. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 25 до плюс 600°С. Фасовка: Ведро 4 кг (для ЦСС). Цена: По запросу.</description>
+      </offer>
+      <offer id="1078" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1078</vendorCode>
+        <name>МС HDD ULTRA (зима) — Ведро 4,5 кг</name>
+        <description>МС HDD Ultra (ЗИМНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом более 15 кНм. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 25 до плюс 600°С. Фасовка: Ведро 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1079" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1079</vendorCode>
+        <name>МС HDD ULTRA (зима) — Ведро 9 кг</name>
+        <description>МС HDD Ultra (ЗИМНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом более 15 кНм. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 25 до плюс 600°С. Фасовка: Ведро 9 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8009" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8009</vendorCode>
+        <name>МС HDD ULTRA (зима) — Ведро 18 кг</name>
+        <description>МС HDD Ultra (ЗИМНЯЯ) – медно-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом более 15 кНм. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 25 до плюс 600°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8010" available="true">
+        <url>https://smazka.ru.com/production/mchdd_aluminium.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+4.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8010</vendorCode>
+        <name>МС HDD ALUMINIUM (лето) — Ведро 4,5 кг</name>
+        <description>МС HDD ALUMINIUM (ЛЕТНЯЯ) – алюминиево-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом до 15 кНм. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Ведро 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8011" available="true">
+        <url>https://smazka.ru.com/production/mchdd.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mchdd+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8011</vendorCode>
+        <name>МС HDD ALUMINIUM (зима) — Ведро 4,5 кг</name>
+        <description>МС HDD ALUMINIUM (ЗИМНЯЯ) – алюминиево-графитовая смазка для буровых штанг установок ГНБ с крутящим моментом до 15 кНм. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Резьбовые соединения буровых штанг; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 25 до плюс 600°С. Фасовка: Ведро 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1255" available="true">
+        <url>https://smazka.ru.com/production/mc-tele-w.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-tele-w.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1255</vendorCode>
+        <name>МС ДЛЯ СТРЕЛ ЗИМНЯЯ — Ведро 4,5 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 0; Узлы применения: Телескопические стрелы, поверхности скольжения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Ведро 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1256" available="true">
+        <url>https://smazka.ru.com/production/mc-tele-w.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-tele-w.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1256</vendorCode>
+        <name>МС ДЛЯ СТРЕЛ ЗИМНЯЯ — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 0; Узлы применения: Телескопические стрелы, поверхности скольжения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1250" available="true">
+        <url>https://smazka.ru.com/production/mc-tele-s.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-tele-s.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1250</vendorCode>
+        <name>МС ДЛЯ СТРЕЛ ЛЕТНЯЯ — Ведро 4,5 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Телескопические стрелы, поверхности скольжения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Ведро 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1251" available="true">
+        <url>https://smazka.ru.com/production/mc-tele-s.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-tele-s.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1251</vendorCode>
+        <name>МС ДЛЯ СТРЕЛ ЛЕТНЯЯ — Ведро 18 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Телескопические стрелы, поверхности скольжения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1257" available="true">
+        <url>https://smazka.ru.com/production/mc-tele-w-acls.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-tele-w-acls.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1257</vendorCode>
+        <name>МС ДЛЯ СТРЕЛ ЗИМНЯЯ АЦСС — Ведро 17 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 0; Узлы применения: Поверхности скольжения, системы АЦСС; Вязкость базового масла: 900 - 1100 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Кальциевый; Рабочие температуры: от минус 50 до плюс 60°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1252" available="true">
+        <url>https://smazka.ru.com/production/mc-tele-s-acls.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-tele-s-acls.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1252</vendorCode>
+        <name>МС ДЛЯ СТРЕЛ ЛЕТНЯЯ АЦСС — Ведро 17 кг</name>
+        <description>Характеристики: Класс консистенции: NLGI 1; Узлы применения: Поверхности скольжения, системы АЦСС; Вязкость базового масла: 3800 - 4200 сСт; Тип базовых масел: Минеральное; Тип загустителя: Литиевый; Рабочие температуры: от минус 10 до плюс 120°С. Фасовка: Ведро 17 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8536" available="true">
+        <url>https://smazka.ru.com/production/mc-ptfe+.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-ptfe+.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8536</vendorCode>
+        <name>Сухое покрытие с PTFE — Аэрозоль 400 мл</name>
+        <description>Сухое покрытие с PTFE - образует устойчивое сухое смазочное покрытие, которое значительно снижает трение и защищает детали скользящих механизмов, поверхностей и соединений. Характеристики: Класс консистенции: -; Узлы применения: Цепи, тросы, болты, шкивы, шарниры, направляющие скольжения; Вязкость базового масла: -; Тип базовых масел: -; Тип загустителя: -; Рабочие температуры: от минус 100 до плюс 250°С. Фасовка: Аэрозоль 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="8427" available="true">
+        <url>https://smazka.ru.com/production/mc-telescoper.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-telescoper1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8427</vendorCode>
+        <name>МС ТЕЛЕСКОПЕР — Банка 1 л</name>
+        <description>МС ТЕЛЕСКОПЕР - смазочно-консервационное покрытие для поверхностей скольжения телескопических стрел и выдвижных рычагов спецтехники. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Поверхности скольжения телесопических стрел; Вязкость базового масла: -; Тип базовых масел: -; Тип загустителя: -; Рабочие температуры: -. Фасовка: Банка 1 л. Цена: По запросу.</description>
+      </offer>
+      <offer id="8426" available="true">
+        <url>https://smazka.ru.com/production/mc-telescoper.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-telescoper1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8426</vendorCode>
+        <name>МС ТЕЛЕСКОПЕР — Ведро 5 л</name>
+        <description>МС ТЕЛЕСКОПЕР - смазочно-консервационное покрытие для поверхностей скольжения телескопических стрел и выдвижных рычагов спецтехники. Характеристики: Класс консистенции: NLGI 0; Узлы применения: Поверхности скольжения телесопических стрел; Вязкость базового масла: -; Тип базовых масел: -; Тип загустителя: -; Рабочие температуры: -. Фасовка: Ведро 5 л. Цена: По запросу.</description>
+      </offer>
+      <offer id="1082" available="true">
+        <url>https://smazka.ru.com/production/mc-trb.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-trb.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1082</vendorCode>
+        <name>Смазка для грузовых суппортов — Стик-пакет 50 г</name>
+        <description>Специализированная смазка МС для закрытых узлов тормозных систем грузового транспорта. Устойчива к длительному воздействию высоких температур (температура каплепадения более + 280 °C). Характеристики: Класс консистенции: NLGI 2; Узлы применения: Закрытые узлы грузовых суппортов; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 180°С. Фасовка: Стик-пакет 50 г. Цена: По запросу.</description>
+      </offer>
+      <offer id="1081" available="true">
+        <url>https://smazka.ru.com/production/mc-trb.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-trb.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1081</vendorCode>
+        <name>Смазка для грузовых суппортов — Туба 200 мл</name>
+        <description>Специализированная смазка МС для закрытых узлов тормозных систем грузового транспорта. Устойчива к длительному воздействию высоких температур (температура каплепадения более + 280 °C). Характеристики: Класс консистенции: NLGI 2; Узлы применения: Закрытые узлы грузовых суппортов; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 180°С. Фасовка: Туба 200 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1080" available="true">
+        <url>https://smazka.ru.com/production/mc-trb.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-trb.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1080</vendorCode>
+        <name>Смазка для грузовых суппортов — Картридж 400 мл</name>
+        <description>Специализированная смазка МС для закрытых узлов тормозных систем грузового транспорта. Устойчива к длительному воздействию высоких температур (температура каплепадения более + 280 °C). Характеристики: Класс консистенции: NLGI 2; Узлы применения: Закрытые узлы грузовых суппортов; Вязкость базового масла: 60 - 80 сСт; Тип базовых масел: Синтетическое; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 50 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1262" available="true">
+        <url>https://smazka.ru.com/production/mc-hsc.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc_hsc+1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1262</vendorCode>
+        <name>СМАЗКА МС для гидроножниц — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Компоненты шасси, навесное оборудование; Вязкость базового масла: 200-220; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 40 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1089" available="true">
+        <url>https://smazka.ru.com/production/mc-hammer.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-hammer.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1089</vendorCode>
+        <name>МС ДЛЯ ГИДРОМОЛОТОВ — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Хвостовик инструмента и направляющие втулки; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от миус 20 до плюс 1000°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1267" available="true">
+        <url>https://smazka.ru.com/production/mc-specialtool.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/specialtool.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1267</vendorCode>
+        <name>МС SPECIAL TOOL — Картридж 500 мл</name>
+        <description>Смазка МС Special Tool в специальном картридже для автоматического смазывания гидромолотов. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Хвостовик инструмента и направляющие втулки; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от миус 20 до плюс 1000°С. Фасовка: Картридж 500 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1090" available="true">
+        <url>https://smazka.ru.com/production/mc-roadbuild.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-roadbuild.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1090</vendorCode>
+        <name>Смазка для асфальтоукладчиков — Картридж 400 мл</name>
+        <description>Смазка МС для асфальтоукладчиков (старое название - МС ДСТ) - высокотемпературная смазка для асфальтоукладчиков Характеристики: Класс консистенции: NLGI 2; Узлы применения: Ролики, трамбующий брус, шнек; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1093" available="true">
+        <url>https://smazka.ru.com/production/mc-roadbuild.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-roadbuild.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1093</vendorCode>
+        <name>Смазка для асфальтоукладчиков — Ведро 4,5 кг</name>
+        <description>Смазка МС для асфальтоукладчиков (старое название - МС ДСТ) - высокотемпературная смазка для асфальтоукладчиков Характеристики: Класс консистенции: NLGI 2; Узлы применения: Ролики, трамбующий брус, шнек; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Ведро 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1091" available="true">
+        <url>https://smazka.ru.com/production/mc-roadbuild.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-roadbuild.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1091</vendorCode>
+        <name>Смазка для асфальтоукладчиков — Ведро 18 кг</name>
+        <description>Смазка МС для асфальтоукладчиков (старое название - МС ДСТ) - высокотемпературная смазка для асфальтоукладчиков Характеристики: Класс консистенции: NLGI 2; Узлы применения: Ролики, трамбующий брус, шнек; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Комплексный литиевый; Рабочие температуры: от минус 20 до плюс 180°С. Фасовка: Ведро 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="8027" available="true">
+        <url>https://smazka.ru.com/production/mc4217-2p-excavator.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc4217-2-ex.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8027</vendorCode>
+        <name>МС ДЛЯ ЭКСКАВАТОРОВ — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Нагруженные узлы, втулочно-пальциевые соединения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 20 до плюс 100°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="8037" available="true">
+        <url>https://smazka.ru.com/production/mc-aluminium.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-aluminium+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8037</vendorCode>
+        <name>Алюминиевая смазка МС — Туба 100 мл</name>
+        <description>Алюминиевая смазка МС - разделительная смазка. Защищает от прикипания. Облегчает монтаж и демонтаж узлов. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения, привалочные поверхности; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Туба 100 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="8039" available="true">
+        <url>https://smazka.ru.com/production/mc-aluminium.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-aluminium+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8039</vendorCode>
+        <name>Алюминиевая смазка МС — Банка 400 мл</name>
+        <description>Алюминиевая смазка МС - разделительная смазка. Защищает от прикипания. Облегчает монтаж и демонтаж узлов. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения, привалочные поверхности; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Банка 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="8038" available="true">
+        <url>https://smazka.ru.com/production/mc-aluminium.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-aluminium+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8038</vendorCode>
+        <name>Алюминиевая смазка МС — Аэрозоль 400 мл</name>
+        <description>Алюминиевая смазка МС - разделительная смазка. Защищает от прикипания. Облегчает монтаж и демонтаж узлов. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Резьбовые соединения, привалочные поверхности; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от 0 до плюс 600°С. Фасовка: Аэрозоль 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1260" available="true">
+        <url>https://smazka.ru.com/production/mc-snowmobile.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-snowmobile.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1260</vendorCode>
+        <name>МС ДЛЯ СНЕГОХОДОВ — Картридж 400 мл</name>
+        <description>Характеристики: Класс консистенции: NLGI 2; Узлы применения: Подшипники опорных катков, элементы подвески и механизмы управления; Вязкость базового масла: 15 - 25 сСт; Тип базовых масел: Полусинтетическое; Тип загустителя: Литиевый; Рабочие температуры: от 30 до плюс 120°С. Фасовка: Картридж 400 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="8517" available="true">
+        <url>https://smazka.ru.com/production/mc-wire-rope.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-wire-rope1.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8517</vendorCode>
+        <name>МС ДЛЯ СТАЛЬНЫХ КАНАТОВ — Аэрозоль 650 мл</name>
+        <description>Характеристики: Класс консистенции: -; Узлы применения: Стальные канаты, тросы, поверхности скольжения; Вязкость базового масла: -; Тип базовых масел: Минеральное; Тип загустителя: Полимерный; Рабочие температуры: от 30 до плюс 120°С. Фасовка: Аэрозоль 650 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="8514" available="true">
+        <url>https://smazka.ru.com/production/mc-anti-fretting.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-anti-fretting+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8514</vendorCode>
+        <name>АНТИФРЕТТИНГОВАЯ ПАСТА МС — Туба 30 г</name>
+        <description>Антифретиинговая паста МС - паста для предотвращения фреттинг-коррозии, которая возникает в зоне контакта деталей, подверженных переменным нагрузкам, вибрации и скольжению. Характеристики: Класс консистенции: NLGI 1; Узлы применения: Привалочные поверхности, обоймы подшипников, резьбовые соединения; Вязкость базового масла: -; Тип базовых масел: -; Тип загустителя: -; Рабочие температуры: от минус 40 до плюс 250°С. Фасовка: Туба 30 г. Цена: По запросу.</description>
+      </offer>
+      <offer id="8513" available="true">
+        <url>https://smazka.ru.com/production/mc-anti-fretting.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-anti-fretting+.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8513</vendorCode>
+        <name>АНТИФРЕТТИНГОВАЯ ПАСТА МС — Банка 400 г</name>
+        <description>Антифретиинговая паста МС - паста для предотвращения фреттинг-коррозии, которая возникает в зоне контакта деталей, подверженных переменным нагрузкам, вибрации и скольжению. Характеристики: Класс консистенции: NLGI 1; Узлы применения: Привалочные поверхности, обоймы подшипников, резьбовые соединения; Вязкость базового масла: -; Тип базовых масел: -; Тип загустителя: -; Рабочие температуры: от минус 40 до плюс 250°С. Фасовка: Банка 400 г. Цена: По запросу.</description>
+      </offer>
+      <offer id="8526" available="true">
+        <url>https://smazka.ru.com/production/welding-spray.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/welding-spray.png</picture>
+        <vendor>МС</vendor>
+        <vendorCode>8526</vendorCode>
+        <name>Антипригарный керамический спрей — Аэрозоль 210 мл</name>
+        <description>Керамический антипригарный спрей. Предназначен для сварочных горелок: сопел, токовых наконечников и вставок, а так же поверхностей свариваемых деталей и рабочего пространства. Характеристики: Класс консистенции: -; Узлы применения: Сварочное оборудование, сопла, токовые наконечники и вставки; Вязкость базового масла: -; Тип базовых масел: Минеральное; Тип загустителя: -; Рабочие температуры: от 40 до плюс 1400°С. Фасовка: Аэрозоль 210 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1205" available="true">
+        <url>https://smazka.ru.com/production/mc-spindel.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-spindel+.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1205</vendorCode>
+        <name>Смазка МС для подшипников шпинделей — Туба 200 мл</name>
+        <description>Смазка для подшипников шпинделей. Специализированная синтетическая смазка для скоростных подшипников. Подходит для применения в шпиндельных подшипниках станков, узлах текстильных и лесопильных машин, шарнирно-винтовых парах (ШВП) станков и др. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 15 - 25; Тип базовых масел: Синтетические ПАО / Эстеры; Тип загустителя: Полимочевинный; Рабочие температуры: от 50 до плюс 180°С. Фасовка: Туба 200 мл. Цена: По запросу.</description>
+      </offer>
+      <offer id="1206" available="true">
+        <url>https://smazka.ru.com/production/mc-spindel.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-spindel+.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1206</vendorCode>
+        <name>Смазка МС для подшипников шпинделей — Ведро 9 кг</name>
+        <description>Смазка для подшипников шпинделей. Специализированная синтетическая смазка для скоростных подшипников. Подходит для применения в шпиндельных подшипниках станков, узлах текстильных и лесопильных машин, шарнирно-винтовых парах (ШВП) станков и др. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Высокоскоростные подшипники качения и скольжения; Вязкость базового масла: 15 - 25; Тип базовых масел: Синтетические ПАО / Эстеры; Тип загустителя: Полимочевинный; Рабочие температуры: от 50 до плюс 180°С. Фасовка: Ведро 9 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1918" available="true">
+        <url>https://smazka.ru.com/production/mc-mgf.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/mc-mgf+.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>1918</vendorCode>
+        <name>СМАЗКА МС МЕДНАЯ С ГРАФИТОМ — Банка 400 г</name>
+        <description>СМАЗКА МС МЕДНАЯ С ГРАФИТОМ - для универсального применения в резьбовых соединениях оборудования и шасси транспортных средств. Облегчает демонтаж и монтаж узлов после длительного времени эксплуатации. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Телескопические стрелы, поверхности скольжения; Вязкость базового масла: 600 - 800 сСт; Тип базовых масел: Минеральное; Тип загустителя: Кальциевый; Рабочие температуры: от минус 20 до плюс 100°С. Фасовка: Банка 400 г. Цена: По запросу.</description>
+      </offer>
+      <offer id="2603" available="true">
+        <url>https://smazka.ru.com/production/mc-silicon-lx.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/silicon_lx.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>2603</vendorCode>
+        <name>МС SILICON LX — Туба 30 г</name>
+        <description>СМАЗКА МС SILICON LX - смазка на основе силиконового базового масла и литиевого загустителя с добавлением функциональных присадок. Предназначена для смазывания и герметизации узлов, снабженных полимерными уплотнительными материалами. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Пары трения резина-металл, пластик-металл или пластик-пластик; Вязкость базового масла: 160 - 200 сСт; Тип базовых масел: Силиконовое; Тип загустителя: Литиевый; Рабочие температуры: от минус 60 до плюс 160°С. Фасовка: Туба 30 г. Цена: По запросу.</description>
+      </offer>
+      <offer id="2604" available="true">
+        <url>https://smazka.ru.com/production/mc-silicon-lx.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/silicon_lx.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>2604</vendorCode>
+        <name>МС SILICON LX — Банка 400 г</name>
+        <description>СМАЗКА МС SILICON LX - смазка на основе силиконового базового масла и литиевого загустителя с добавлением функциональных присадок. Предназначена для смазывания и герметизации узлов, снабженных полимерными уплотнительными материалами. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Пары трения резина-металл, пластик-металл или пластик-пластик; Вязкость базового масла: 160 - 200 сСт; Тип базовых масел: Силиконовое; Тип загустителя: Литиевый; Рабочие температуры: от минус 60 до плюс 160°С. Фасовка: Банка 400 г. Цена: По запросу.</description>
+      </offer>
+      <offer id="2605" available="true">
+        <url>https://smazka.ru.com/production/mc-silicon-lx.html</url>
+        <categoryId>3</categoryId>
+        <picture>https://smazka.ru.com/images/silicon_lx.webp</picture>
+        <vendor>МС</vendor>
+        <vendorCode>2605</vendorCode>
+        <name>МС SILICON LX — Ведро 4,5 кг</name>
+        <description>СМАЗКА МС SILICON LX - смазка на основе силиконового базового масла и литиевого загустителя с добавлением функциональных присадок. Предназначена для смазывания и герметизации узлов, снабженных полимерными уплотнительными материалами. Характеристики: Класс консистенции: NLGI 2; Узлы применения: Пары трения резина-металл, пластик-металл или пластик-пластик; Вязкость базового масла: 160 - 200 сСт; Тип базовых масел: Силиконовое; Тип загустителя: Литиевый; Рабочие температуры: от минус 60 до плюс 160°С. Фасовка: Ведро 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1243" available="true">
+        <url>https://smazka.ru.com/production/labria-cp1.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-cp1.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1243</vendorCode>
+        <name>Лабрия СР-1 — Канистра 5 кг</name>
+        <description>Характеристики: Применение: Для механической обработки изделий из черных и цветных металлов, в т.ч. меди; Тип: Самоэмульгирующаяся; Тип базового масла: Синтетическое; pH 5% эмульсии в воде: 8,0 - 9,0; Плотность концентрата при 20°C, г/cм³, не более: 1.05. Фасовка: Канистра 5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1239" available="true">
+        <url>https://smazka.ru.com/production/labria-cp1.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-cp1.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1239</vendorCode>
+        <name>Лабрия СР-1 — Канистра 20 кг</name>
+        <description>Характеристики: Применение: Для механической обработки изделий из черных и цветных металлов, в т.ч. меди; Тип: Самоэмульгирующаяся; Тип базового масла: Синтетическое; pH 5% эмульсии в воде: 8,0 - 9,0; Плотность концентрата при 20°C, г/cм³, не более: 1.05. Фасовка: Канистра 20 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1238" available="true">
+        <url>https://smazka.ru.com/production/labria-cp1.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-cp1.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1238</vendorCode>
+        <name>Лабрия СР-1 — Бочка 190 кг</name>
+        <description>Характеристики: Применение: Для механической обработки изделий из черных и цветных металлов, в т.ч. меди; Тип: Самоэмульгирующаяся; Тип базового масла: Синтетическое; pH 5% эмульсии в воде: 8,0 - 9,0; Плотность концентрата при 20°C, г/cм³, не более: 1.05. Фасовка: Бочка 190 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1198" available="true">
+        <url>https://smazka.ru.com/production/labria-nk.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-nk.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1198</vendorCode>
+        <name>Лабрия NK — Канистра 5 кг</name>
+        <description>Характеристики: Применение: Для большинства процессов механической обработки черных и цветных металлов; Тип: Самоэмульгирующаяся; Тип базового масла: Полусинтетическое; pH 5% эмульсии в воде: 8,0 - 9,0; Плотность концентрата при 20°C, г/cм³, не более: 1.03. Фасовка: Канистра 5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1197" available="true">
+        <url>https://smazka.ru.com/production/labria-nk.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-nk.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1197</vendorCode>
+        <name>Лабрия NK — Канистра 20 кг</name>
+        <description>Характеристики: Применение: Для большинства процессов механической обработки черных и цветных металлов; Тип: Самоэмульгирующаяся; Тип базового масла: Полусинтетическое; pH 5% эмульсии в воде: 8,0 - 9,0; Плотность концентрата при 20°C, г/cм³, не более: 1.03. Фасовка: Канистра 20 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1199" available="true">
+        <url>https://smazka.ru.com/production/labria-nk.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-nk.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1199</vendorCode>
+        <name>Лабрия NK — Бочка 190 кг</name>
+        <description>Характеристики: Применение: Для большинства процессов механической обработки черных и цветных металлов; Тип: Самоэмульгирующаяся; Тип базового масла: Полусинтетическое; pH 5% эмульсии в воде: 8,0 - 9,0; Плотность концентрата при 20°C, г/cм³, не более: 1.03. Фасовка: Бочка 190 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1228" available="true">
+        <url>https://smazka.ru.com/production/labria-nk-new.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labriank+4.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1228</vendorCode>
+        <name>Лабрия NK new — Канистра 5 кг</name>
+        <description>Характеристики: Применение: Для механической обработки изделий из черных и цветных металлов, в т.ч. меди; Тип: Самоэмульгирующаяся; Тип базового масла: Полусинтетическое; pH 5% эмульсии в воде: 8,0 - 8,5; Плотность концентрата при 20°C, г/cм³, не более: 1.05. Фасовка: Канистра 5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1227" available="true">
+        <url>https://smazka.ru.com/production/labria-nk-new.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labriank+4.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1227</vendorCode>
+        <name>Лабрия NK new — Канистра 20 кг</name>
+        <description>Характеристики: Применение: Для механической обработки изделий из черных и цветных металлов, в т.ч. меди; Тип: Самоэмульгирующаяся; Тип базового масла: Полусинтетическое; pH 5% эмульсии в воде: 8,0 - 8,5; Плотность концентрата при 20°C, г/cм³, не более: 1.05. Фасовка: Канистра 20 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1226" available="true">
+        <url>https://smazka.ru.com/production/labria-nk-new.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labriank+4.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1226</vendorCode>
+        <name>Лабрия NK new — Бочка 190 кг</name>
+        <description>Характеристики: Применение: Для механической обработки изделий из черных и цветных металлов, в т.ч. меди; Тип: Самоэмульгирующаяся; Тип базового масла: Полусинтетическое; pH 5% эмульсии в воде: 8,0 - 8,5; Плотность концентрата при 20°C, г/cм³, не более: 1.05. Фасовка: Бочка 190 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1195" available="true">
+        <url>https://smazka.ru.com/production/labria-1s.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria1s.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1195</vendorCode>
+        <name>Лабрия 1S — Канистра 4,5 кг</name>
+        <description>Характеристики: Применение: Для большинства процессов механической обработки черных и цветных металлов; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 8,5 - 9,5; Плотность концентрата при 20°C, г/cм³, не более: 0.9. Фасовка: Канистра 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1194" available="true">
+        <url>https://smazka.ru.com/production/labria-1s.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria1s.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1194</vendorCode>
+        <name>Лабрия 1S — Канистра 18 кг</name>
+        <description>Характеристики: Применение: Для большинства процессов механической обработки черных и цветных металлов; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 8,5 - 9,5; Плотность концентрата при 20°C, г/cм³, не более: 0.9. Фасовка: Канистра 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1196" available="true">
+        <url>https://smazka.ru.com/production/labria-1s.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria1s.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1196</vendorCode>
+        <name>Лабрия 1S — Бочка 175 кг</name>
+        <description>Характеристики: Применение: Для большинства процессов механической обработки черных и цветных металлов; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 8,5 - 9,5; Плотность концентрата при 20°C, г/cм³, не более: 0.9. Фасовка: Бочка 175 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1200" available="true">
+        <url>https://smazka.ru.com/production/labria-3.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria2.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1200</vendorCode>
+        <name>Лабрия 3 — Канистра 18 кг</name>
+        <description>Характеристики: Применение: Для процесса непрерывного литья медной катанки; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 6,5 - 8,0; Плотность концентрата при 20°C, г/cм³, не более: 0.9. Фасовка: Канистра 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="2613" available="true">
+        <url>https://smazka.ru.com/production/labria-3.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria2.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>2613</vendorCode>
+        <name>Лабрия 3 — Бочка 175 кг</name>
+        <description>Характеристики: Применение: Для процесса непрерывного литья медной катанки; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 6,5 - 8,0; Плотность концентрата при 20°C, г/cм³, не более: 0.9. Фасовка: Бочка 175 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1234" available="true">
+        <url>https://smazka.ru.com/production/labria-3n.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-3n.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1234</vendorCode>
+        <name>Лабрия 3-N — Канистра 4,5 кг</name>
+        <description>Характеристики: Применение: Для механической обработки изделий из черных и цветных металлов, в т.ч. меди; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 8,0 - 8,5; Плотность концентрата при 20°C, г/cм³, не более: 0.95. Фасовка: Канистра 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1230" available="true">
+        <url>https://smazka.ru.com/production/labria-3n.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-3n.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1230</vendorCode>
+        <name>Лабрия 3-N — Канистра 18 кг</name>
+        <description>Характеристики: Применение: Для механической обработки изделий из черных и цветных металлов, в т.ч. меди; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 8,0 - 8,5; Плотность концентрата при 20°C, г/cм³, не более: 0.95. Фасовка: Канистра 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1229" available="true">
+        <url>https://smazka.ru.com/production/labria-3n.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-3n.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1229</vendorCode>
+        <name>Лабрия 3-N — Бочка 175 кг</name>
+        <description>Характеристики: Применение: Для механической обработки изделий из черных и цветных металлов, в т.ч. меди; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 8,0 - 8,5; Плотность концентрата при 20°C, г/cм³, не более: 0.95. Фасовка: Бочка 175 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1237" available="true">
+        <url>https://smazka.ru.com/production/labria-wd3.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria2+1.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1237</vendorCode>
+        <name>Лабрия WD-3 — Канистра 4,5 кг</name>
+        <description>Характеристики: Применение: Длядля волочения проволоки из меди и ее сплавов.; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 8,0 - 8,5; Плотность концентрата при 20°C, г/cм³, не более: 0.95. Фасовка: Канистра 4,5 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1236" available="true">
+        <url>https://smazka.ru.com/production/labria-wd3.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria2+1.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1236</vendorCode>
+        <name>Лабрия WD-3 — Канистра 18 кг</name>
+        <description>Характеристики: Применение: Длядля волочения проволоки из меди и ее сплавов.; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 8,0 - 8,5; Плотность концентрата при 20°C, г/cм³, не более: 0.95. Фасовка: Канистра 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1235" available="true">
+        <url>https://smazka.ru.com/production/labria-wd3.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria2+1.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1235</vendorCode>
+        <name>Лабрия WD-3 — Бочка 175 кг</name>
+        <description>Характеристики: Применение: Длядля волочения проволоки из меди и ее сплавов.; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: 8,0 - 8,5; Плотность концентрата при 20°C, г/cм³, не более: 0.95. Фасовка: Бочка 175 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1247" available="true">
+        <url>https://smazka.ru.com/production/labria-v.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-v.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1247</vendorCode>
+        <name>Лабрия V — Канистра 18 кг</name>
+        <description>Характеристики: Применение: Для волочения медной, стальной, алюминиевой и композиционной проволоки; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: -; Плотность концентрата при 20°C, г/cм³, не более: 0.9. Фасовка: Канистра 18 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1246" available="true">
+        <url>https://smazka.ru.com/production/labria-v.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/labria-v.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1246</vendorCode>
+        <name>Лабрия V — Бочка 175 кг</name>
+        <description>Характеристики: Применение: Для волочения медной, стальной, алюминиевой и композиционной проволоки; Тип: Самоэмульгирующаяся; Тип базового масла: Минеральное; pH 5% эмульсии в воде: -; Плотность концентрата при 20°C, г/cм³, не более: 0.9. Фасовка: Бочка 175 кг. Цена: По запросу.</description>
+      </offer>
+      <offer id="1208" available="true">
+        <url>https://smazka.ru.com/production/labria-gel-d-0.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/mc4213-3.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1208</vendorCode>
+        <name>ЛАБРИЯ GEL D-0 — Ведро 2,5 л</name>
+        <description>Характеристики: Применение: Для операций гибки труб на дорновых трубогибах; Тип: Смазочный гель; Тип базового масла: -; pH 5% эмульсии в воде: -; Плотность концентрата при 20°C, г/cм³, не более: -. Фасовка: Ведро 2,5 л. Цена: По запросу.</description>
+      </offer>
+      <offer id="1270" available="true">
+        <url>https://smazka.ru.com/production/labria-gel-d-0.html</url>
+        <categoryId>5</categoryId>
+        <picture>https://smazka.ru.com/images/mc4213-3.png</picture>
+        <vendor>Лабрия</vendor>
+        <vendorCode>1270</vendorCode>
+        <name>ЛАБРИЯ GEL D-0 — Ведро 20 л</name>
+        <description>Характеристики: Применение: Для операций гибки труб на дорновых трубогибах; Тип: Смазочный гель; Тип базового масла: -; pH 5% эмульсии в воде: -; Плотность концентрата при 20°C, г/cм³, не более: -. Фасовка: Ведро 20 л. Цена: По запросу.</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
