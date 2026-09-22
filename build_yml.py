@@ -234,24 +234,15 @@ def build_sheet(ws, sheet_name: str) -> tuple[str, dict]:
         seen[raw_id] = seen.get(raw_id, 0) + 1
         offer_id = raw_id if seen[raw_id] == 1 else f"{raw_id}-{seen[raw_id]}"
 
+        # Порядок как у рабочего фида prosps: карточка B24U = name + url + picture
+        # + vendor + vendorCode. <param> в эту карточку не входит — фото остаётся ссылкой.
         offer = ET.SubElement(
             offers,
             "offer",
             {"id": offer_id, "available": as_available(cell(row, index, "available"))},
         )
+        add(offer, "name", as_text(name))
         add(offer, "url", as_text(url))
-
-        price = as_number(cell(row, index, "price"))
-        old_price = as_number(cell(row, index, "old_price"))
-        if price is None:
-            stats["without_price"] += 1
-        else:
-            add(offer, "price", price)
-            if old_price is not None and float(old_price) > float(price):
-                add(offer, "oldprice", old_price)
-            add(offer, "currencyId", "RUB")
-
-        add(offer, "categoryId", categories.ensure(as_text(cell(row, index, "category")) if cell(row, index, "category") else None))
 
         pics = pictures(cell(row, index, "image"))
         for pic in pics:
@@ -261,37 +252,50 @@ def build_sheet(ws, sheet_name: str) -> tuple[str, dict]:
         else:
             stats["without_picture"] += 1
 
+        add(offer, "currencyId", "RUB")
+        add(
+            offer,
+            "categoryId",
+            categories.ensure(
+                as_text(cell(row, index, "category")) if cell(row, index, "category") else None
+            ),
+        )
         brand = cell(row, index, "brand") or cell(row, index, "vendor")
-        add(offer, "vendor", as_text(brand) if brand is not None else None)
-        add(offer, "vendorCode", vendor_code(row, index))
-        add(offer, "name", as_text(name))
+        add(offer, "vendor", as_text(brand) if brand is not None else shop_name)
+        add(offer, "vendorCode", vendor_code(row, index) or offer_id)
+
+        price = as_number(cell(row, index, "price"))
+        old_price = as_number(cell(row, index, "old_price"))
+        if price is None:
+            stats["without_price"] += 1
+        else:
+            add(offer, "price", price)
+            if old_price is not None and float(old_price) > float(price):
+                add(offer, "oldprice", old_price)
+
+        stock_number = as_number(cell(row, index, "stock"))
+        add(offer, "quantity", stock_number or "1")
 
         description = cell(row, index, "description")
         desc_text = re.sub(r"\s+", " ", as_text(description)) if description is not None else ""
+        extras: list[str] = []
         if price is None:
             raw_price = cell(row, index, "price")
             if isinstance(raw_price, str) and raw_price.strip():
-                note = f"Цена: {raw_price.strip()}."
-                desc_text = f"{desc_text} {note}".strip() if desc_text else note
-        add(offer, "description", desc_text or None)
-
-        stock = cell(row, index, "stock")
-        stock_number = as_number(stock)
-        if stock_number is not None:
-            add(offer, "quantity", stock_number)
-
+                extras.append(f"Цена: {raw_price.strip()}")
         for key, label in PARAM_LABELS.items():
-            if key in SKIP_COLUMNS or key not in index:
+            if key in SKIP_COLUMNS or key not in index or key == "stock":
                 continue
             value = cell(row, index, key)
             if value is None or isinstance(value, (datetime, date)):
                 continue
-            if key == "stock":
-                continue
             text = as_text(value)
-            if text:
-                node = ET.SubElement(offer, "param", {"name": label})
-                node.text = text
+            if text and text not in desc_text:
+                extras.append(f"{label}: {text}")
+        if extras:
+            tail = ". ".join(extras)
+            desc_text = f"{desc_text} {tail}".strip() if desc_text else tail
+        add(offer, "description", desc_text or None)
 
         stats["offers"] += 1
 
