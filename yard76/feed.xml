@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-22T05:12:35+05:00">
+<yml_catalog date="2026-09-22T14:14:34+03:00">
   <shop>
     <name>Yard76</name>
     <company>Yard76</company>
@@ -22,103 +22,93 @@
       <category id="11" parentId="10">Howo</category>
       <category id="12">6585.1104384-10 Топливопровод (пр-во ЯМЗ)</category>
       <category id="13">ЯМЗ-238, 7511, 656, 658</category>
-      <category id="14">Г1702.3771 (Г1702) Генератор 28В 50А (аналог Г288Е, пр-во ЯРД)</category>
-      <category id="15">CNG семейство (5340, 536)</category>
-      <category id="16">ЗЧ тормозной системы</category>
-      <category id="17">Запасные части КПП и сцепления</category>
-      <category id="18">ЯМЗ-530</category>
-      <category id="19">3112.3771010-10 Генератор 28В, 90А для ЧСДМ, на дв. ЯМЗ-238НД3-3 (457.3710546)</category>
-      <category id="20">ЯМЗ-236, 7601</category>
-      <category id="21">Трансмиссия, карданные валы</category>
-      <category id="22">Прочее</category>
-      <category id="23">5340.1004020 Палец поршневой (сейчас идет 53443.1004020)</category>
-      <category id="24">13.3839 Датчик сигнализатора засоренности воздушного фильтра</category>
-      <category id="25">Прочие запчасти ММЗ</category>
-      <category id="26">Домкраты</category>
-      <category id="27">Прочие</category>
-      <category id="28">Топливные трубопроводы ММЗ</category>
-      <category id="29">658.1306053-01 Патрубок коробки термостата (снят с произв.)</category>
-      <category id="30">АЗПИ</category>
-      <category id="31">Коленвал и маховик ММЗ</category>
-      <category id="32">ЛР64221А-8101060 (ПРАМО) Радиатор отопителя</category>
-      <category id="33">650.1003012 Головка цилиндра (ЯМЗ) (5010550544)</category>
-      <category id="34">ЯМЗ-850, 840</category>
-      <category id="35">Электровентиляторы отопителя</category>
-      <category id="36">Маслянный насос, фильтра грубой и тонкой очистки масла(ФГОМ, ФТОМ) ММЗ</category>
-      <category id="37">845.3701010 Генератор 28В, 155А (AC172TRA 1277A682, идёт на 845 и 850 двигатели)</category>
-      <category id="38">432009-1203182 Труба выпускная глушителя (пр-во АЗ УРАЛ)</category>
-      <category id="39">Блок цилиндров ММЗ</category>
-      <category id="40">Водяной насос</category>
-      <category id="41" parentId="40">Водяные трубы</category>
-      <category id="42" parentId="41">патрубки ММЗ</category>
-      <category id="43">Головка цилиндров (ГБЦ) ММЗ</category>
-      <category id="44">Маслопроводы турбокомпрессора ММЗ</category>
-      <category id="45">Турбокомпрессор ММЗ</category>
-      <category id="46">Запасные части CUMMINS-FOTON</category>
-      <category id="47">4320ЯХ-1104059 Рукав 10Х17.5-1.47 L=2800 (пр-во АЗ УРАЛ)</category>
-      <category id="48">650.3407150-03 ГУР для МАЗ 5440А9 (25л</category>
-      <category id="49" parentId="48">мин,100Bar) вместо 650.3407150-01</category>
-      <category id="50">78053135</category>
-      <category id="51" parentId="50">780.50323 Манжета 2.2-110Х135-1 (пр-во АЗ УРАЛ)</category>
-      <category id="52">Газопровод</category>
-      <category id="53" parentId="52">выпускной коллектор ММЗ</category>
-      <category id="54">Сильфоны</category>
-      <category id="55">6370-3800101 Панель приборов (пр-во АЗ УРАЛ)</category>
-      <category id="56">0100-120 кВт</category>
-      <category id="57">142.1701048 Вал промежуточный</category>
-      <category id="58">Снятые и востановленные запчасти</category>
-      <category id="59">Фильтра очистки топлива(ФГОТ, ФТОТ) ММЗ</category>
-      <category id="60">Цилиндро-поршневая группа (ЦПГ) и шатуны</category>
-      <category id="61">313858-П Заглушка</category>
-      <category id="62">4320-1013111 Рукав 16х25 L=850 (пр-во АЗ УРАЛ)</category>
-      <category id="63">КЗПМ</category>
-      <category id="64">ЯМЗ-650</category>
-      <category id="65">Клапана и толкатели</category>
-      <category id="66">Клапана и толкатели ММЗ</category>
-      <category id="67">У4322-2912410 Гайка упакованная (20 шт) (пр-во АЗ УРАЛ)</category>
-      <category id="68">4320NT-5001060 Опора кабины (пр-во АЗ УРАЛ)</category>
-      <category id="69">4320Д9-1108280 Трос управления подачей топлива (пр-во АЗ УРАЛ)</category>
-      <category id="70">ДСФ-45 Датчик сигнализатора засоренности воздушного фильтра (пр-во Экран)</category>
-      <category id="71">Основные запчасти для двигателей</category>
-      <category id="72">Распредвал ММЗ</category>
-      <category id="73">4320Я2-3724020-11 Пучок проводов (пр-во АЗ УРАЛ)</category>
-      <category id="74">WeiChai</category>
-      <category id="75">АИ-3501036 Пружина колодок стяжная (13Х301, пр-во АО АЗ УРАЛ)</category>
-      <category id="76">Прочиее ЗЧ</category>
-      <category id="77">Цилиндро-поршневая группа (ЦПГ) и шатуны ММЗ</category>
-      <category id="78">0200-220 кВт</category>
-      <category id="79">12-ступенчатая</category>
-      <category id="80">536.1003270-01 Прокладка крышки клапанной (ЯМЗ-536, пр-во Автодизель)</category>
-      <category id="81">6367-3506396-01 Шланг тормозов L 620 (пр-во АЗ УРАЛ)</category>
-      <category id="82">740-1008050 Прокладка в сборе (пр-во АЗ УРАЛ)</category>
-      <category id="83">ПЖД30А-1015006-01 Подогреватель предпусковой жидкостный (пр-во АЗ УРАЛ)</category>
-      <category id="84">06.56341.4254 О-образное уплотнительное кольцо (253х5, пр-во Shaanxi</category>
-      <category id="85" parentId="84">Shacman)</category>
-      <category id="86">256834-П Заклепка 10х16 (пр-во АЗ УРАЛ)</category>
-      <category id="87">355В-3724032 Скоба (пр-во АЗ УРАЛ)</category>
-      <category id="88">4320Х-3711121-10 Ободок фары (пр-во АЗ УРАЛ)</category>
-      <category id="89">5323-1104069 Рукав 12Х20-1.6 L-210 (пр-во АЗ УРАЛ)</category>
-      <category id="90">532301-3800101 Панель приборов (пр-во АЗ УРАЛ)</category>
-      <category id="91">Впускные коллектора, отводящие патрубки ММЗ</category>
-      <category id="92">3255П2-8101726-10 Патрубок отводящий отопителя (пр-во АЗ УРАЛ)</category>
-      <category id="93">375-3724070 Провод (пр-во АЗ УРАЛ)</category>
-      <category id="94">4320-8403270-01 Панель фары (пр-во АЗ УРАЛ)</category>
-      <category id="95">532301-2304010 Кулак поворотный правый (пр-во АЗ УРАЛ)</category>
-      <category id="96">93.5205900 Щетка L-600 мм (пр-во АЗ УРАЛ)</category>
-      <category id="97">КГЦ947.3-100-3522 Гидроцилиндр (пр-во АЗ УРАЛ)</category>
-      <category id="98">Масляный картер</category>
-      <category id="99" parentId="98">поддон ММЗ</category>
-      <category id="100">Фильтра очистки топлива(ФГОТ, ФТОТ)</category>
-      <category id="101">0008-12 кВт</category>
-      <category id="102">0150-180 кВт</category>
-      <category id="103">4320-1302040 Подушка подвески радиатора (пр-во АЗ УРАЛ)</category>
-      <category id="104">4320-5325151 Накладка панели с кронштейном левая в сборе (пр-во АЗ УРАЛ)</category>
-      <category id="105">4320Я-1203487 Фланец труб приемных дв.ЯМЗ с лыской (ф69х110х3, пр-во АЗ УРАЛ)</category>
-      <category id="106">5557-2912101 Лист задней рессоры Й1 (пр-во АЗ УРАЛ)</category>
-      <category id="107">Головка цилиндров (ГБЦ)</category>
+      <category id="14">CNG семейство (5340, 536)</category>
+      <category id="15">ЗЧ тормозной системы</category>
+      <category id="16">Запасные части КПП и сцепления</category>
+      <category id="17">ЯМЗ-530</category>
+      <category id="18">3112.3771010-10 Генератор 28В, 90А для ЧСДМ, на дв. ЯМЗ-238НД3-3 (457.3710546)</category>
+      <category id="19">ЯМЗ-236, 7601</category>
+      <category id="20">Трансмиссия, карданные валы</category>
+      <category id="21">Прочее</category>
+      <category id="22">13.3839 Датчик сигнализатора засоренности воздушного фильтра</category>
+      <category id="23">Прочие запчасти ММЗ</category>
+      <category id="24">Домкраты</category>
+      <category id="25">Прочие</category>
+      <category id="26">Топливные трубопроводы ММЗ</category>
+      <category id="27">658.1306053-01 Патрубок коробки термостата (снят с произв.)</category>
+      <category id="28">АЗПИ</category>
+      <category id="29">Коленвал и маховик ММЗ</category>
+      <category id="30">ЛР64221А-8101060 (ПРАМО) Радиатор отопителя</category>
+      <category id="31">650.1003012 Головка цилиндра (ЯМЗ) (5010550544)</category>
+      <category id="32">ЯМЗ-850, 840</category>
+      <category id="33">Электровентиляторы отопителя</category>
+      <category id="34">Маслянный насос, фильтра грубой и тонкой очистки масла(ФГОМ, ФТОМ) ММЗ</category>
+      <category id="35">845.3701010 Генератор 28В, 155А (AC172TRA 1277A682, идёт на 845 и 850 двигатели)</category>
+      <category id="36">432009-1203182 Труба выпускная глушителя (пр-во АЗ УРАЛ)</category>
+      <category id="37">Блок цилиндров ММЗ</category>
+      <category id="38">Водяной насос</category>
+      <category id="39" parentId="38">Водяные трубы</category>
+      <category id="40" parentId="39">патрубки ММЗ</category>
+      <category id="41">Головка цилиндров (ГБЦ) ММЗ</category>
+      <category id="42">Запасные части CUMMINS-FOTON</category>
+      <category id="43">4320ЯХ-1104059 Рукав 10Х17.5-1.47 L=2800 (пр-во АЗ УРАЛ)</category>
+      <category id="44">650.3407150-03 ГУР для МАЗ 5440А9 (25л</category>
+      <category id="45" parentId="44">мин,100Bar) вместо 650.3407150-01</category>
+      <category id="46">78053135</category>
+      <category id="47" parentId="46">780.50323 Манжета 2.2-110Х135-1 (пр-во АЗ УРАЛ)</category>
+      <category id="48">Газопровод</category>
+      <category id="49" parentId="48">выпускной коллектор ММЗ</category>
+      <category id="50">Сильфоны</category>
+      <category id="51">6370-3800101 Панель приборов (пр-во АЗ УРАЛ)</category>
+      <category id="52">142.1701048 Вал промежуточный</category>
+      <category id="53">Цилиндро-поршневая группа (ЦПГ) и шатуны</category>
+      <category id="54">313858-П Заглушка</category>
+      <category id="55">4320-1013111 Рукав 16х25 L=850 (пр-во АЗ УРАЛ)</category>
+      <category id="56">КЗПМ</category>
+      <category id="57">Клапана и толкатели</category>
+      <category id="58">Клапана и толкатели ММЗ</category>
+      <category id="59">У4322-2912410 Гайка упакованная (20 шт) (пр-во АЗ УРАЛ)</category>
+      <category id="60">4320NT-5001060 Опора кабины (пр-во АЗ УРАЛ)</category>
+      <category id="61">4320Д9-1108280 Трос управления подачей топлива (пр-во АЗ УРАЛ)</category>
+      <category id="62">ДСФ-45 Датчик сигнализатора засоренности воздушного фильтра (пр-во Экран)</category>
+      <category id="63">Основные запчасти для двигателей</category>
+      <category id="64">Распредвал ММЗ</category>
+      <category id="65">4320Я2-3724020-11 Пучок проводов (пр-во АЗ УРАЛ)</category>
+      <category id="66">WeiChai</category>
+      <category id="67">АИ-3501036 Пружина колодок стяжная (13Х301, пр-во АО АЗ УРАЛ)</category>
+      <category id="68">Прочиее ЗЧ</category>
+      <category id="69">0200-220 кВт</category>
+      <category id="70">12-ступенчатая</category>
+      <category id="71">536.1003270-01 Прокладка крышки клапанной (ЯМЗ-536, пр-во Автодизель)</category>
+      <category id="72">6367-3506396-01 Шланг тормозов L 620 (пр-во АЗ УРАЛ)</category>
+      <category id="73">740-1008050 Прокладка в сборе (пр-во АЗ УРАЛ)</category>
+      <category id="74">ПЖД30А-1015006-01 Подогреватель предпусковой жидкостный (пр-во АЗ УРАЛ)</category>
+      <category id="75">06.56341.4254 О-образное уплотнительное кольцо (253х5, пр-во Shaanxi</category>
+      <category id="76" parentId="75">Shacman)</category>
+      <category id="77">256834-П Заклепка 10х16 (пр-во АЗ УРАЛ)</category>
+      <category id="78">355В-3724032 Скоба (пр-во АЗ УРАЛ)</category>
+      <category id="79">4320Х-3711121-10 Ободок фары (пр-во АЗ УРАЛ)</category>
+      <category id="80">5323-1104069 Рукав 12Х20-1.6 L-210 (пр-во АЗ УРАЛ)</category>
+      <category id="81">532301-3800101 Панель приборов (пр-во АЗ УРАЛ)</category>
+      <category id="82">Впускные коллектора, отводящие патрубки ММЗ</category>
+      <category id="83">3255П2-8101726-10 Патрубок отводящий отопителя (пр-во АЗ УРАЛ)</category>
+      <category id="84">375-3724070 Провод (пр-во АЗ УРАЛ)</category>
+      <category id="85">4320-8403270-01 Панель фары (пр-во АЗ УРАЛ)</category>
+      <category id="86">532301-2304010 Кулак поворотный правый (пр-во АЗ УРАЛ)</category>
+      <category id="87">93.5205900 Щетка L-600 мм (пр-во АЗ УРАЛ)</category>
+      <category id="88">КГЦ947.3-100-3522 Гидроцилиндр (пр-во АЗ УРАЛ)</category>
+      <category id="89">Масляный картер</category>
+      <category id="90" parentId="89">поддон ММЗ</category>
+      <category id="91">Фильтра очистки топлива(ФГОТ, ФТОТ)</category>
+      <category id="92">0150-180 кВт</category>
+      <category id="93">4320-1302040 Подушка подвески радиатора (пр-во АЗ УРАЛ)</category>
+      <category id="94">4320-5325151 Накладка панели с кронштейном левая в сборе (пр-во АЗ УРАЛ)</category>
+      <category id="95">4320Я-1203487 Фланец труб приемных дв.ЯМЗ с лыской (ф69х110х3, пр-во АЗ УРАЛ)</category>
+      <category id="96">5557-2912101 Лист задней рессоры Й1 (пр-во АЗ УРАЛ)</category>
+      <category id="97">Головка цилиндров (ГБЦ)</category>
     </categories>
     <offers>
-      <offer id="236-1115001" available="true">
+      <offer id="236-1115001" available="false">
         <name>236-1115001 Р/к впускного трубопровода</name>
         <url>https://yard76.ru/catalog/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy/vpusknye-kollektora-otvodyashchie-patrubki/v-obraznoe-semeystvo_6/236-1115001-r-k-vpusknogo-truboprovoda-/</url>
         <currencyId>RUB</currencyId>
@@ -126,10 +116,9 @@
         <vendor>Yard76</vendor>
         <vendorCode>236-1115001</vendorCode>
         <price>109.73</price>
-        <quantity>1</quantity>
         <description>236 - 1115001 Р/к впускного трубопровода</description>
       </offer>
-      <offer id="5336.1115010" available="true">
+      <offer id="5336.1115010" available="false">
         <name>5336.1115010 Трос газа останова двигателя (МАЗ)</name>
         <url>https://yard76.ru/catalog/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy/vpusknye-kollektora-otvodyashchie-patrubki/530-semeystvo_6/5336-1115010-tros-gaza-ostanova-dvigatelya-maz/</url>
         <currencyId>RUB</currencyId>
@@ -137,10 +126,9 @@
         <vendor>Yard76</vendor>
         <vendorCode>5336.1115010</vendorCode>
         <price>1032.41</price>
-        <quantity>1</quantity>
         <description>5336 . 1115010 Трос газа останова двигателя (МАЗ)</description>
       </offer>
-      <offer id="101-2403023" available="true">
+      <offer id="101-2403023" available="false">
         <name>101-2403023 Стяжка (МАЗ)</name>
         <url>https://yard76.ru/catalog/maz/101-2403023-styazhka-maz/</url>
         <currencyId>RUB</currencyId>
@@ -148,22 +136,21 @@
         <vendor>Yard76</vendor>
         <vendorCode>101-2403023</vendorCode>
         <price>117.32</price>
-        <quantity>1</quantity>
         <description>101 - 2403023 Стяжка (МАЗ)</description>
       </offer>
-      <offer id="1002360959" available="true">
+      <offer id="1002360959" available="false">
         <name>1002360959 выпускной коллектор Wechai</name>
         <url>https://yard76.ru/catalog/weichai/prochie-zapchasti_1/1002360959-vypusknoy-kollektor-wechai/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/8c5/840_840_1b317f14b8d9572252d4d61796be32f30/3hrxtdyk40zso8e7jczibitow6o90z26.jpeg</picture>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>1002360959</vendorCode>
         <price>35962.5</price>
-        <quantity>1</quantity>
         <description>1002360959 выпускной коллектор Wechai Коллектор выпускной 1002360959 Weichai WP4.1NQ190E50, автомобиль МАЗ-437121, МАЗ-438121, МАЗ-458121, МАЗ-4571211</description>
       </offer>
       <offer id="238Ф-1115132" available="true">
-        <name>238Ф-1115132 Прокладка коллектора</name>
+        <name>238Ф-1115132 Прокладка (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/238f-1115132-prokladka-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -173,50 +160,49 @@
         <quantity>60</quantity>
         <description>238Ф - 1115132 Прокладка (пр-во АЗ УРАЛ) 238Ф - 1115132 Прокладка Производитель: Уралаз</description>
       </offer>
-      <offer id="202v091007840" available="true">
+      <offer id="202v091007840" available="false">
         <name>202v091007840 Турбокомпрессор (Sitrak, HOWO) BORG WARNER</name>
         <url>https://yard76.ru/catalog/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy/turbokompressor/prochie-dvigateli/202v091007840-turbokompressor-sitrak-howo/</url>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
-        <vendor>НПО "Турботехника" Применяемость: двигатель</vendor>
+        <vendor>НПО "Турботехника"</vendor>
         <vendorCode>202v091007840</vendorCode>
         <price>52800</price>
-        <quantity>1</quantity>
         <description>202v091007840 Турбокомпрессор (Sitrak, HOWO) BORG WARNER Турбокомпрессор 202v091007840 /202v091007841 Производитель: НПО "Турботехника" Применяемость: двигатель ...</description>
       </offer>
-      <offer id="100-3519110" available="true">
+      <offer id="100-3519110" available="false">
         <name>100-3519110 (ПРАМО) Тормозная камера тип 20 (шпилька 12мм)</name>
         <url>https://yard76.ru/catalog/prochie-zapchasti-yamz/pramo-prochee/100-3519110-pramo-tormoznaya-kamera-tip-20-shpilka-12mm/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/b8b/300_300_1b317f14b8d9572252d4d61796be32f30/euzreuv0ik40zxwq1avvb7etumx2is1t.jpeg</picture>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>100-3519110</vendorCode>
         <price>1024.1</price>
-        <quantity>1</quantity>
         <description>100 - 3519110 (ПРАМО) Тормозная камера тип 20 (шпилька 12мм)</description>
       </offer>
-      <offer id="236-1029260" available="true">
-        <name>----//----</name>
+      <offer id="236-1029260" available="false">
+        <name>236-1029260 Полумуфта привода ТНВД (под тексталитовую шайбу)</name>
         <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/prochie-zapchasti-dvigatelya/v-obraznoe-semeystvo_29/236-1029260-polumufta-privoda-tnvd-pod-tekstalitovuyu-shaybu/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/d9f/417_300_1b317f14b8d9572252d4d61796be32f30/4i2zslub3no21v48oelvjshwcc4mjw3h.jpeg</picture>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>236-1029260</vendorCode>
         <price>7035</price>
-        <quantity>1</quantity>
         <description>Покупайте 236-1029260 Полумуфта привода ТНВД (под тексталитовую шайбу) для двигателей ЯМЗ от официального дилера в Ярославле. В наличии и под заказ, низкие цены.</description>
       </offer>
-      <offer id="11.675.400" available="true">
+      <offer id="11.675.400" available="false">
         <name>11.675.400 (ELTRA) Крышка привода</name>
         <url>https://yard76.ru/catalog/elektrooborudovanie/prochie-zapchasti-elektrooborudovaniya/11-675-400-eltra-kryshka-privoda/</url>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>11.675.400</vendorCode>
-        <quantity>1</quantity>
+        <price>2183.5</price>
         <description>11 . 675 . 400 (ELTRA) Крышка привода</description>
       </offer>
-      <offer id="1000100X2" available="true">
+      <offer id="1000100X2" available="false">
         <name>1000100X2 Комплект прокладок двигателя BAW 1044</name>
         <url>https://yard76.ru/catalog/sitrak-howo/1000100x2-komplekt-prokladok-dvigatelya-baw-1044/</url>
         <currencyId>RUB</currencyId>
@@ -224,21 +210,20 @@
         <vendor>Yard76</vendor>
         <vendorCode>1000100X2</vendorCode>
         <price>1603.35</price>
-        <quantity>1</quantity>
         <description>1000100X2 Комплект прокладок двигателя BAW 1044</description>
       </offer>
-      <offer id="6585.1104384-10" available="true">
-        <name>----//----</name>
+      <offer id="6585.1104384-10" available="false">
+        <name>6585.1104384-10 Топливопровод (пр-во ЯМЗ)</name>
         <url>https://yard76.ru/catalog/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy/toplivnye-truboprovody/v-obraznoe-semeystvo_13/6585-1104384-10-toplivoprovod/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/4f1/562_300_1b317f14b8d9572252d4d61796be32f30/xsru7t0wkesxgyknvpbchkzhqnczo5qi.jpeg</picture>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>6585.1104384-10</vendorCode>
         <price>2519.67</price>
-        <quantity>1</quantity>
         <description>Покупайте 6585.1104384-10 Топливопровод (пр-во ЯМЗ) для двигателей ЯМЗ от официального дилера в Ярославле. В наличии и под заказ, низкие цены.</description>
       </offer>
-      <offer id="236М2-1000020" available="true">
+      <offer id="236М2-1000020" available="false">
         <name>236М2-1000020 Двигатель С КП И СЦ. 4 КОМПЛ.</name>
         <url>https://yard76.ru/catalog/dvigateli-yamz/yamz-238-7511-656-658/236m2-1000020-dvig-s-kp-i-sts-4-kompl/</url>
         <currencyId>RUB</currencyId>
@@ -246,959 +231,823 @@
         <vendor>ПАО «Автодизель»(ЯМЗ)</vendor>
         <vendorCode>236М2-1000020</vendorCode>
         <price>921551.4</price>
-        <quantity>1</quantity>
         <description>236М2 - 1000020 Двигатель С КП И СЦ. 4 КОМПЛ. ДВИГАТЕЛЬ С КП И СЦ. 4 КОМПЛ. 236М2 - 1000020 Производитель: ПАО «Автодизель»(ЯМЗ)</description>
-      </offer>
-      <offer id="1702.3771(Я)" available="true">
-        <name>----//----</name>
-        <url>https://yard76.ru/catalog/elektrooborudovanie/prochie-zapchasti-elektrooborudovaniya/1702-3771-051-01-shkiv-generator-/</url>
-        <currencyId>RUB</currencyId>
-        <categoryId>14</categoryId>
-        <vendor>Yard76</vendor>
-        <vendorCode>1702.3771(Я)</vendorCode>
-        <price>6400</price>
-        <quantity>27</quantity>
-        <description>Покупайте 1702.3771.051-01 (eltra) шкив генератора в нашем каталоге. Низкие цены и удобная доставка по всей России</description>
       </offer>
       <offer id="53404.1115037" available="true">
         <name>53404.1115037 Дроссельная заслонка (0280 750 149)</name>
         <url>https://yard76.ru/catalog/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy/vpusknye-kollektora-otvodyashchie-patrubki/cng-semeystvo-5340-536_1/53404-1115037-drosselnaya-zasloka/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/105/328_300_1b317f14b8d9572252d4d61796be32f30/v2c66yofrf4g57hzy6ufropvl4fagpzo.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>15</categoryId>
+        <categoryId>14</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>53404.1115037</vendorCode>
         <price>16323.36</price>
         <quantity>2</quantity>
         <description>53404 . 1115037 Дроссельная заслонка (0280 750 149) Дроссельная заслонка ЯМЗ- 53404 Производитель - ПАО «Автодизель»(ЯМЗ) Применяемость - Двигатели ЯМЗ- 53404</description>
       </offer>
-      <offer id="100-3513110/5336-3513110" available="true">
+      <offer id="100-3513110/5336-3513110" available="false">
         <name>100-3513110/5336-3513110 (ПРАМО) Кран слива конденсата (латунь) для зил,для КамскийАЗ,маз</name>
         <url>https://yard76.ru/catalog/prochie-zapchasti-yamz/nakladki-tormoznye/100-3513110-5336-3513110-pramo-kran-sliva-kondensata-latun-dlya-zil-dlya-kamaz-maz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>16</categoryId>
+        <categoryId>15</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>100-3513110/5336-3513110</vendorCode>
         <price>86.9</price>
-        <quantity>1</quantity>
         <description>100 - 3513110 / 5336 - 3513110 (ПРАМО) Кран слива конденсата (латунь) для зил,для КамскийАЗ,маз</description>
       </offer>
-      <offer id="0041KS" available="true">
-        <name>0041KS Датчик включения нейтрального положения МАЗ (нового образца)</name>
+      <offer id="0041KS" available="false">
+        <name>0041KS-5 Датчик включения нейтрального положения МАЗ (нового образца)</name>
         <url>https://yard76.ru/catalog/prochie-zapchasti-yamz/prochie-zapchasti/0041ks-5-datchik-vklyucheniya-neytralnogo-polozheniya-maz-novogo-obraztsa/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/67a/748_300_1b317f14b8d9572252d4d61796be32f30/qglma6e7w2ia10n11v33b1hxfukd2ipj.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
+        <categoryId>16</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>0041KS</vendorCode>
         <price>728.28</price>
-        <quantity>1</quantity>
         <description>0041KS -5 Датчик включения нейтрального положения МАЗ (нового образца)</description>
       </offer>
-      <offer id="53402.1000186" available="true">
+      <offer id="53402.1000186" available="false">
         <name>53402.1000186 Двигатель ЯМЗ</name>
         <url>https://yard76.ru/catalog/dvigateli-yamz/yamz-530/53402-1000186-dvigatel-yamz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>18</categoryId>
-        <vendor>ПАО «Автодизель»(ЯМЗ) Описание: 4-цилиндровый дизельный двигатель семейства ЯМЗ-530</vendor>
+        <categoryId>17</categoryId>
+        <vendor>ПАО «Автодизель»(ЯМЗ)</vendor>
         <vendorCode>53402.1000186</vendorCode>
         <price>595029.75</price>
-        <quantity>1</quantity>
         <description>53402 . 1000186 Двигатель ЯМЗ Двигатель ЯМЗ 53402 . 1000186 Производитель: ПАО «Автодизель»(ЯМЗ) Описание: 4-цилиндровый дизельный двигатель семейства ЯМЗ-530,...</description>
       </offer>
-      <offer id="3112.3771010-10" available="true">
-        <name>----//----</name>
+      <offer id="3112.3771010-10" available="false">
+        <name>3112.3771010-10 Генератор 28В, 90А для ЧСДМ, на дв. ЯМЗ-238НД3-3 (457.3710546)</name>
         <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/vodomaslyanyy-radiator-teploobmennik-yamz/v-obraznoe-semeystvo_21/3112-3771010-10-generator-28v-90a-dlya-chsdm-na-dv-yamz-238nd3-3-457-3710546/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>18</categoryId>
         <vendor>Прамо-Электро</vendor>
         <vendorCode>3112.3771010-10</vendorCode>
         <price>11650</price>
-        <quantity>1</quantity>
         <description>Покупайте 3112.3771010-10 Генератор 28В, 90А для ЧСДМ, на дв. ЯМЗ-238НД3-3 (457.3710546) для двигателей ЯМЗ от официального дилера в Ярославле. В наличии и под заказ, низкие цены.</description>
       </offer>
-      <offer id="236Б-1000153" available="true">
+      <offer id="236Б-1000153" available="false">
         <name>236Б-1000153 ДВИГ.Б/КП СО СЦ. 7 КОМПЛ.</name>
         <url>https://yard76.ru/catalog/dvigateli-yamz/yamz-236-7601/236b-1000153-dvig-b-kp-so-sts-7-kompl/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>20</categoryId>
+        <categoryId>19</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>236Б-1000153</vendorCode>
         <price>947398.32</price>
-        <quantity>1</quantity>
         <description>236Б - 1000153 ДВИГ.Б/КП СО СЦ. 7 КОМПЛ. 236Б - 1000153 ДВИГ.Б/КП СО СЦ. 7 КОМПЛ. Показатели ЯМЗ- 236Б -7 Диаметр и ход поршня, мм 130 х 140 Рабочий объем двигателя, л 11,15 ...</description>
       </offer>
-      <offer id="03517.05.99" available="true">
+      <offer id="03517.05.99" available="false">
         <name>03517.05.99 (ПРАМО) Опора вала карданного для ГАЗ-3302 Бизнес, ГАЗель Next в сборе (d=35мм)</name>
         <url>https://yard76.ru/catalog/prochie-zapchasti-yamz/transmissiya-kardannye-valy/03517-05-99-pramo-opora-vala-kardannogo-dlya-gaz-3302-biznes-gazel-next-v-sbore-d-35mm/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/c69/454_300_1b317f14b8d9572252d4d61796be32f30/voa9v3ry7f1wpyn1r4pusdkz2jrcwf5a.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>21</categoryId>
+        <categoryId>20</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>03517.05.99</vendorCode>
         <price>1289.2</price>
-        <quantity>1</quantity>
         <description>03517 . 05 . 99 (ПРАМО) Опора вала карданного для ГАЗ-3302 Бизнес, ГАЗель Next в сборе (d=35мм)</description>
       </offer>
-      <offer id="2108-1006040" available="true">
+      <offer id="2108-1006040" available="false">
         <name>2108-1006040 (ПРАМО) Ремень ГРМ</name>
         <url>https://yard76.ru/catalog/prochie-zapchasti-yamz/remni/prochee/2108-1006040-pramo-remen-grm/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/e63/588_300_1b317f14b8d9572252d4d61796be32f30/pd9821mbd67a3qywubw4vtsio6ti7ypo.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>22</categoryId>
+        <categoryId>21</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>2108-1006040</vendorCode>
         <price>180.4</price>
-        <quantity>1</quantity>
         <description>2108 - 1006040 (ПРАМО) Ремень ГРМ</description>
       </offer>
-      <offer id="5340.1004020" available="true">
-        <name>----//----</name>
-        <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/tsilindro-porshnevaya-gruppa-tspg-i-shatuny/530-semeystvo_25/53443-1004012-20-porshen-v-sbore-vzamen-53443-1004012-10/</url>
-        <currencyId>RUB</currencyId>
-        <categoryId>23</categoryId>
-        <vendor>Yard76</vendor>
-        <vendorCode>5340.1004020</vendorCode>
-        <price>395</price>
-        <quantity>1</quantity>
-        <description>Покупайте 53443.1004012-20 Поршень в сборе (взамен 53443.1004012-10) для двигателей ЯМЗ от официального дилера в Ярославле. В наличии и под заказ, низкие цены.</description>
-      </offer>
-      <offer id="13.3839" available="true">
-        <name>----//----</name>
+      <offer id="13.3839" available="false">
+        <name>13.3839 Датчик сигнализатора засоренности воздушного фильтра</name>
         <url>https://yard76.ru/catalog/elektrooborudovanie/datchiki/v-obraznoe-semeystvo_42/13-3839-datchik-signalizatora-zasorennosti-vozdushnogo-filtra/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/1ec/300_300_1b317f14b8d9572252d4d61796be32f30/snbh5htd61df8e2xtqfpu20iizukajd9.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>24</categoryId>
+        <categoryId>22</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>13.3839</vendorCode>
         <price>1026.74</price>
-        <quantity>1</quantity>
         <description>Покупайте 13.3839 Датчик сигнализатора засоренности воздушного фильтра для двигателей ЯМЗ от официального дилера в Ярославле. В наличии и под заказ, низкие цены.</description>
       </offer>
-      <offer id="240-1109015-А-08" available="true">
+      <offer id="240-1109015-А-08" available="false">
         <name>240-1109015-А-08 Воздухоочиститель МТЗ Д-243 в сборе ММЗ</name>
         <url>https://yard76.ru/catalog/mmz-minskiy-motornyy-zavod/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy_2/prochie-zapchasti-1-mmz/240-1109015-a-08-vozdukhoochistitel-mtz-d-243-v-sbore-mmz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>25</categoryId>
+        <categoryId>23</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1109015-А-08</vendorCode>
         <price>6320</price>
-        <quantity>1</quantity>
         <description>240 - 1109015 - А - 08 Воздухоочиститель МТЗ Д-243 в сборе ММЗ</description>
       </offer>
-      <offer id="EBJ0201" available="true">
+      <offer id="EBJ0201" available="false">
         <name>EBJ0201 (ПРАМО) Подставка опорная под автомобиль 2т, 285-435 мм (комплект 2шт)</name>
         <url>https://yard76.ru/catalog/prochie-zapchasti-yamz/domkraty/ebj0201-pramo-podstavka-opornaya-pod-avtomobil-2t-285-435-mm-komplekt-2sht/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>26</categoryId>
+        <categoryId>24</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>EBJ0201</vendorCode>
         <price>1450.9</price>
-        <quantity>1</quantity>
         <description>EBJ0201 (ПРАМО) Подставка опорная под автомобиль 2т, 285-435 мм (комплект 2шт)</description>
       </offer>
-      <offer id="1118.1306010" available="true">
+      <offer id="1118.1306010" available="false">
         <name>1118.1306010 (ПРАМО бывш. СтАТО) Термостат</name>
         <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/zapchasti-sistemy-okhlazhdeniya/termostaty-i-sistema-baypasa/prochie_1/1118-1306010-pramo-byvsh-stato-termostat/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/31f/320_300_1b317f14b8d9572252d4d61796be32f30/1nv5gunr81qtpzmv75w2ccmwrkapu7hj.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>27</categoryId>
+        <categoryId>25</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>1118.1306010</vendorCode>
         <price>598.4</price>
-        <quantity>1</quantity>
         <description>1118 . 1306010 (ПРАМО бывш. СтАТО) Термостат</description>
       </offer>
-      <offer id="240-1104300" available="true">
-        <name>240-1104300 Трубка ЗИЛ-5301,МТЗ прямая ММЗ</name>
+      <offer id="240-1104300" available="false">
+        <name>240-1104300-Б Трубка</name>
         <url>https://yard76.ru/catalog/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy/toplivnye-truboprovody/v-obraznoe-semeystvo_13/240-1104300-b-trubka-/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/851/698_300_1b317f14b8d9572252d4d61796be32f30/0fb919uo071lktnusxthkje62z3tt86u.png</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>28</categoryId>
+        <categoryId>26</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1104300</vendorCode>
         <price>647</price>
-        <quantity>1</quantity>
         <description>240 - 1104300 -Б Трубка</description>
       </offer>
-      <offer id="658.1306053-01" available="true">
-        <name>----//----</name>
+      <offer id="658.1306053-01" available="false">
+        <name>658.1306053-01 Патрубок коробки термостата (снят с произв.)</name>
         <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/zapchasti-sistemy-okhlazhdeniya/termostaty-i-sistema-baypasa/v-obraznoe-semeystvo_5/658-1306053-01-patrubok-korobki-termostata/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/afa/225_300_1b317f14b8d9572252d4d61796be32f30/n5yifg0cuhq1wk48rnmspzvc747v7s7v.png</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>29</categoryId>
+        <categoryId>27</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>658.1306053-01</vendorCode>
         <price>217.74</price>
-        <quantity>1</quantity>
         <description>Покупайте 658.1306053-01 патрубок коробки термостата (снят с произв.) в нашем каталоге. Низкие цены и удобная доставка по всей России</description>
       </offer>
-      <offer id="0181.1112110" available="true">
-        <name>0181.1112110 Распылитель(АЗПИ)</name>
+      <offer id="0181.1112110" available="false">
+        <name>Распылитель 0181.1112110</name>
         <url>https://yard76.ru/catalog/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy/raspylitel/v-obraznoe-semeystvo_12/raspylitel-0181-1112110/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>30</categoryId>
+        <categoryId>28</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>0181.1112110</vendorCode>
         <price>315</price>
-        <quantity>1</quantity>
         <description>Распылитель 0181 . 1112110</description>
       </offer>
-      <offer id="240-1005030-Б" available="true">
-        <name>240-1005030-Б Шестерня Д-245 ЕВРО-3,ЕВРО-4 распределения коленвала ММЗ</name>
+      <offer id="240-1005030-Б" available="false">
+        <name>240-1005030-Б2 Шестерня распределительная</name>
         <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/kolenval-i-makhovik/v-obraznoe-semeystvo_25/240-1005030-b2-shesternya-raspredelitelnaya/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/f73/386_300_1b317f14b8d9572252d4d61796be32f30/f4luscktrqqp3399dtovkk8mkngicy22.png</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>31</categoryId>
+        <categoryId>29</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1005030-Б</vendorCode>
         <price>4759.56</price>
-        <quantity>1</quantity>
         <description>240 - 1005030 -Б2 Шестерня распределительная Шестерня коленвала ЯМЗ- 240 Производитель – ПАО «Автодизель»(ЯМЗ) Применяемость – двигатели ЯМЗ- 240 Характеристики: ...</description>
       </offer>
       <offer id="ЛР64221А-8101060" available="true">
-        <name>----//----</name>
+        <name>ЛР64221А-8101060 (ПРАМО) Радиатор отопителя</name>
         <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/zapchasti-sistemy-okhlazhdeniya/prochie-zapchasti-sistemy-okhlazhdeniya/lr64221a-8101060-pramo-radiator-otopitelya/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/abd/84_62_1b317f14b8d9572252d4d61796be32f30/cu2wt0qe4r6itj8otkwnvtwszpijoon9.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>32</categoryId>
+        <categoryId>30</categoryId>
         <vendor>ПРАМО</vendor>
         <vendorCode>ЛР64221А-8101060</vendorCode>
         <price>2400</price>
         <quantity>1</quantity>
         <description>Покупайте лр64221а-8101060 (прамо) радиатор отопителя в нашем каталоге. Низкие цены и удобная доставка по всей России</description>
       </offer>
-      <offer id="650.1003012" available="true">
-        <name>----//----</name>
+      <offer id="650.1003012" available="false">
+        <name>650.1003012 Головка цилиндра без клапанов (КИТАЙ АНАЛОГ)</name>
         <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/golovka-tsilindrov-gbts/650-semeystvo_19/650-1003012-golovka-tsilindra-bez-klapanov-kitay-analog/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/af6/479_300_1b317f14b8d9572252d4d61796be32f30/y5bcwrko830o9i6r2q80k7xngn8gjdm0.png</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>33</categoryId>
+        <categoryId>31</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>650.1003012</vendorCode>
         <price>322276.18</price>
-        <quantity>1</quantity>
         <description>Покупайте 650.1003012 Головка цилиндра без клапанов (КИТАЙ АНАЛОГ) для двигателей ЯМЗ от официального дилера в Ярославле. В наличии и под заказ, низкие цены.</description>
       </offer>
-      <offer id="8401.1000175-09" available="true">
-        <name>8401.1000175-09 ДВИГ.Б/КП СЦ 09 К.</name>
+      <offer id="8401.1000175-09" available="false">
+        <name>Э8401.1000175-09 ДВИГ.Б/КП СЦ 09 К. (зам. на 8401.1000175-09)</name>
         <url>https://yard76.ru/catalog/dvigateli-yamz/yamz-850-840/e8401-1000175-09-dvig-b-kp-sts-09-k/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/713/522_300_1b317f14b8d9572252d4d61796be32f30/ltii78spcf16wnlbwz2y0srwd0q5j5uk.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>34</categoryId>
+        <categoryId>32</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>8401.1000175-09</vendorCode>
         <price>4034897.46</price>
-        <quantity>1</quantity>
         <description>Э8401. 1000175 - 09 ДВИГ.Б/КП СЦ 09 К. (зам. на 8401 . 1000175 - 09 )</description>
       </offer>
-      <offer id="009-A70-74D" available="true">
-        <name>009-A70-74D (ПРАМО) Электровентилятор отопителя без кожуха (шар. подшип), 12V 10A</name>
+      <offer id="009-A70-74D" available="false">
+        <name>009-A70-74D-1 (ПРАМО) Электровентилятор отопителя с кожухом, для ГАЗель Бизнес</name>
         <url>https://yard76.ru/catalog/prochie-zapchasti-yamz/elektroventilyatory-otopitelya/009-a70-74d-1-pramo-elektroventilyator-otopitelya-s-kozhukhom-dlya-gazel-biznes/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/5ff/300_300_1b317f14b8d9572252d4d61796be32f30/csgieqeie5obwzv5qawyhxs1j3lajg19.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>35</categoryId>
+        <categoryId>33</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>009-A70-74D</vendorCode>
         <price>1126.4</price>
-        <quantity>1</quantity>
         <description>009 - A70 - 74D -1 (ПРАМО) Электровентилятор отопителя с кожухом, для ГАЗель Бизнес Электровентилятор отопителя с кожухом для ГАЗель Бизнес Производитель: ...</description>
       </offer>
-      <offer id="240-1015597-А" available="true">
+      <offer id="240-1015597-А" available="false">
         <name>240-1015597-А Патрубок ПД-10 головки цилиндров ММЗ</name>
         <url>https://yard76.ru/catalog/mmz-minskiy-motornyy-zavod/osnovnye-zapchasti-dlya-dvigateley_2/maslyannyy-nasos-filtra-gruboy-i-tonkoy-ochistki-masla-fgom-ftom-mmz/240-1015597-a-patrubok-pd-10-golovki-tsilindrov-mmz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>36</categoryId>
+        <categoryId>34</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1015597-А</vendorCode>
         <price>699</price>
-        <quantity>1</quantity>
         <description>240 - 1015597 - А П а трубок ПД-10 головки цилиндров ММЗ</description>
       </offer>
       <offer id="845.3701010" available="true">
-        <name>----//----</name>
+        <name>845.3701010 Генератор 28В, 155А (AC172TRA 1277A682, идёт на 845 и 850 двигатели)</name>
         <url>https://yard76.ru/catalog/elektrooborudovanie/generator/v-obraznoe-semeystvo_41/845-3701010-generator/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/982/538_300_1b317f14b8d9572252d4d61796be32f30/0ok8luo215m4jx52fhl68y3c3y2wccea.png</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>37</categoryId>
-        <vendor>PRESTOLITE ELECTRIC Характеристики: 28В</vendor>
+        <categoryId>35</categoryId>
+        <vendor>PRESTOLITE ELECTRIC</vendor>
         <vendorCode>845.3701010</vendorCode>
         <price>59973.61</price>
         <quantity>1</quantity>
         <description>Покупайте 845.3701010 Генератор 28В, 155А (AC172TRA 1277A682, идёт на 845 и 850 двигатели) для двигателей ЯМЗ от официального дилера в Ярославле. В наличии и под заказ, низкие цены.</description>
       </offer>
-      <offer id="432009-1203182" available="true">
-        <name>----//----</name>
+      <offer id="432009-1203182" available="false">
+        <name>432009-1203182 Труба выпускная глушителя (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/432009-1203182-truba-vypusknaya-glushitelya-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>38</categoryId>
+        <categoryId>36</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>432009-1203182</vendorCode>
         <price>14900</price>
-        <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 432009-1203182 Труба выпускная глушителя (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="240-1002001-Б2" available="true">
-        <name>240-1002001-Б2 Блок цилиндров Д-240,243 ММЗ</name>
+      <offer id="240-1002001-Б2" available="false">
+        <name>240-1002001-Б2 Блок цилиндров Д-240, 243 ММЗ</name>
         <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/tsilindro-porshnevaya-gruppa-tspg-i-shatuny/v-obraznoe-semeystvo_32/240-1002001-b2-blok-tsilindrov-d-240-243-mmz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>39</categoryId>
+        <categoryId>37</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1002001-Б2</vendorCode>
         <price>89100</price>
-        <quantity>1</quantity>
         <description>240 - 1002001 - Б2 Блок цилиндров Д- 240 , 243 ММЗ</description>
       </offer>
-      <offer id="240-1307010-А1" available="true">
+      <offer id="240-1307010-А1" available="false">
         <name>240-1307010-А1 Насос водяной ММЗ (БЗА)</name>
         <url>https://yard76.ru/catalog/mmz-minskiy-motornyy-zavod/zapchasti-sistemy-okhlazhdeniya_2/vodyanoy-nasos-vodyanye-truby-patrubki-mmz/240-1307010-a1-m-nasos-vodyanoy-bza/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/6be/378_300_1b317f14b8d9572252d4d61796be32f30/821l0bbn169blfix29g8ug2m2rwjasim.png</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>42</categoryId>
-        <vendor>Борисовский завод агрегатов (БЗА) Применяемость по двигателям: Д-243</vendor>
+        <categoryId>40</categoryId>
+        <vendor>Борисовский завод агрегатов (БЗА)</vendor>
         <vendorCode>240-1307010-А1</vendorCode>
         <price>17631.87</price>
-        <quantity>1</quantity>
         <description>240 - 1307010 - А1 Насос водяной ММЗ (БЗА) Производитель: Борисовский завод агрегатов (БЗА) Применяемость по двигателям: Д-243,242, 244, 245.5 Применяемость по технике: ...</description>
       </offer>
-      <offer id="240-1002047" available="true">
-        <name>240-1002047 Болт ЗИЛ-5301 головки блока длинный ММЗ</name>
+      <offer id="240-1002047" available="false">
+        <name>240-1002047-01-Б Болт ЗИЛ-5301 головки блока усиленный короткий импорт ММЗ</name>
         <url>https://yard76.ru/catalog/mmz-minskiy-motornyy-zavod/osnovnye-zapchasti-dlya-dvigateley_2/golovka-tsilindrov-gbts-mmz/240-1002047-01-b-bolt-zil-5301-golovki-bloka-usilennyy-korotkiy-import-mmz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>43</categoryId>
+        <categoryId>41</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1002047</vendorCode>
         <price>214.5</price>
-        <quantity>1</quantity>
         <description>240 - 1002047 -01-Б Болт ЗИЛ-5301 головки блока усиленный короткий импорт ММЗ</description>
       </offer>
-      <offer id="245-1118010-В" available="true">
-        <name>245-1118010-В Трубка ГАЗ-3309 масляная подводящая Евро-2 ММЗ</name>
-        <url>https://yard76.ru/catalog/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy/turbokompressor/530-semeystvo_10/53443-1118010-30-turbokompressor-paz-vector-50-09-16-02/</url>
-        <currencyId>RUB</currencyId>
-        <categoryId>44</categoryId>
-        <vendor>НПО "Турботехника" Применяемость - Двигатели ЯМЗ 53443-30 ДШВ - 0</vendor>
-        <vendorCode>245-1118010-В</vendorCode>
-        <quantity>1</quantity>
-        <description>53443. 1118010 -30 Турбокомпрессор (ПАЗ VECTOR 50.09.16-02) Турбокомпрессор ЯМЗ-53443-30 Производитель: НПО "Турботехника" Применяемость - Двигатели ЯМЗ 53443-30 ДШВ - 0.27 Х 0. 245 Х 0.27 м</description>
-      </offer>
-      <offer id="6-00.01" available="true">
-        <name>ТКР 6-00.01 ММЗ (БЗА)</name>
-        <url>https://yard76.ru/catalog/azpi/k-81-005-00-00-08-01-remkomplekt-maz-ural-dv-yamz-650-6501-6502-650cdi11-azpi/</url>
-        <currencyId>RUB</currencyId>
-        <categoryId>45</categoryId>
-        <vendor>АЗПИ Система автомобиля:</vendor>
-        <vendorCode>6-00.01</vendorCode>
-        <price>20900</price>
-        <quantity>1</quantity>
-        <description>К-81-005- 00 - 00 -08. 01 Ремкомплект МАЗ,УРАЛ дв.ЯМЗ-650,6501,6502,650CDi11 форсунки 0445120142 BOSCH,А-04-025- 00 - 00 - 00 АЗПИ Артикул: К-81-005- 00 - 00 -08. 01 Производитель: АЗПИ Система автомобиля: ...</description>
-      </offer>
-      <offer id="5254599" available="true">
+      <offer id="5254599" available="false">
         <name>5254599 РОЛИК ПРОМЕЖУТОЧНЫЙ НИЖНИЙ (Газель Бизнес ISF 2,8) CUMMINS</name>
         <url>https://yard76.ru/catalog/zapasnye-chasti-cummins-foton/5254599-rolik-promezhutochnyy-nizhniy-gazel-biznes-isf-2-8-cummins/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>46</categoryId>
+        <categoryId>42</categoryId>
         <vendor>FOTON</vendor>
         <vendorCode>5254599</vendorCode>
         <price>682.5</price>
-        <quantity>1</quantity>
         <description>5254599 РОЛИК ПРОМЕЖУТОЧНЫЙ НИЖНИЙ (Газель Бизнес ISF 2,8) CUMMINS Ролик ГАЗ-3302 Бизнес дв.CUMMINS ISF 2.8 промежуточный ремня нижний FOTON Производитель: FOTON</description>
       </offer>
       <offer id="4320ЯХ-1104059" available="true">
-        <name>----//----</name>
+        <name>4320ЯХ-1104059 Рукав 10Х17.5-1.47 L=2800 (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/4320yakh-1104059-rukav-10kh17-5-1-47-l-2800-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>47</categoryId>
+        <categoryId>43</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4320ЯХ-1104059</vendorCode>
         <price>395</price>
         <quantity>71</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 4320ЯХ-1104059 Рукав 10Х17.5-1.47 L=2800 (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="650.3407150-03" available="true">
-        <name>----//----</name>
+      <offer id="650.3407150-03" available="false">
+        <name>650.3407150-01 ГУР для МАЗ 5440А9 (25л/мин,100Bar) зам. на 650.3407150-03</name>
         <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/privod-gironasosov-gur/650-semeystvo_24/650-3407150-01-gur-dlya-maz-5440a9-25l-min-100bar-/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/62a/334_300_1b317f14b8d9572252d4d61796be32f30/8pu3giioz4yp3f2soxw3m0bg7xy3otbl.png</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>49</categoryId>
-        <vendor>ОАО "Гидропривод" Применяемость: ЯМЗ / ЯМЗ- 650</vendor>
+        <categoryId>45</categoryId>
+        <vendor>ОАО "Гидропривод"</vendor>
         <vendorCode>650.3407150-03</vendorCode>
         <price>14555.88</price>
-        <quantity>1</quantity>
         <description>Покупайте 650.3407150-01 ГУР для МАЗ 5440А9 (25л/мин,100Bar) зам. на 650.3407150-03 для двигателей ЯМЗ от официального дилера в Ярославле. В наличии и под заказ, низкие цены.</description>
       </offer>
       <offer id="78053135/780.50323" available="true">
-        <name>----//----</name>
+        <name>78053135/780.50323 Манжета 2.2-110Х135-1 (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/78053135-780-50323-manzheta-2-2-110kh135-1-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>51</categoryId>
+        <categoryId>47</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>78053135/780.50323</vendorCode>
         <price>150</price>
         <quantity>48</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 78053135/780.50323 Манжета 2.2-110Х135-1 (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="240-1008015-А1" available="true">
+      <offer id="240-1008015-А1" available="false">
         <name>240-1008015-А1 Коллектор Д-243,МТЗ выпускной с переходником в сборе MMЗ</name>
         <url>https://yard76.ru/catalog/mmz-minskiy-motornyy-zavod/osnovnye-zapchasti-dlya-dvigateley_2/gazoprovod-vypusknoy-kollektor-mmz/240-1008015-a1-kollektor-d-243-mtz-vypusknoy-s-perekhodnikom-v-sbore-mmz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>53</categoryId>
+        <categoryId>49</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1008015-А1</vendorCode>
         <price>7720</price>
-        <quantity>1</quantity>
         <description>240 - 1008015 - А1 Коллектор Д-243,МТЗ выпускной с переходником в сборе MMЗ</description>
       </offer>
-      <offer id="236БЕ-1008088" available="true">
-        <name>236БЕ-1008088 Сильфон</name>
+      <offer id="236БЕ-1008088" available="false">
+        <name>236БЕ-1008088 Сильфон (пр-во ЯРД)</name>
         <url>https://yard76.ru/catalog/silfony/236be-1008088-silfon-kitay/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/ff4/533_300_1b317f14b8d9572252d4d61796be32f30/gpg1wpccud48cebboulj2qfc3rgjnqma.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>54</categoryId>
+        <categoryId>50</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>236БЕ-1008088</vendorCode>
         <price>3898.88</price>
-        <quantity>1</quantity>
         <description>236БЕ - 1008088 Сильфон (пр-во ЯРД) 236БЕ - 1008088 Сильфон Производитель - ЯРД Применяемость - двигатели ЯМЗ-236 ДШВ - 0,14 x 0,15 x 0,1 м</description>
       </offer>
       <offer id="6370-3800101" available="true">
-        <name>----//----</name>
+        <name>6370-3800101 Панель приборов (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/6370-3800101-panel-priborov-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>55</categoryId>
+        <categoryId>51</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>6370-3800101</vendorCode>
         <price>4200</price>
         <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
-      </offer>
-      <offer id="АД-100.0010002-13" available="true">
-        <name>АД-100.0010002-13 Электроагрегат дизельный (UCI27E /Stamford) без радиатора ож, масла</name>
-        <url>https://yard76.ru/catalog/dizelnye-generatory/0200-220-kvt/ad-200-0010002-13-ucd127k-stamford-cummins-inc-elektroagregat-dizelnyy/</url>
-        <currencyId>RUB</currencyId>
-        <categoryId>56</categoryId>
-        <vendor>Yard76</vendor>
-        <vendorCode>АД-100.0010002-13</vendorCode>
-        <price>823680</price>
-        <quantity>1</quantity>
-        <description>АД -200.00 100 02- 13 (UCD127K / Stamford (Cummins Inc.) Электроагрегат дизельный</description>
+        <description>Покупайте 6370-3800101 Панель приборов (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="142.1701048" available="true">
-        <name>----//----</name>
+        <name>142.1701048 Вал промежуточный</name>
         <url>https://yard76.ru/catalog/ural/142-1701048-val-promezhutochnyy/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>57</categoryId>
+        <categoryId>52</categoryId>
         <vendor>КамАЗ</vendor>
         <vendorCode>142.1701048</vendorCode>
         <price>7300</price>
         <quantity>2</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 142.1701048 Вал промежуточный от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="5340.1003010-10 (Я)" available="true">
-        <name>5340.1003010-10 Головка блока цилиндров (востановленная)</name>
-        <url>https://yard76.ru/catalog/prochie-zapchasti-yamz/snyatye-i-vostanovlennye-zapchasti-/5340-1003010-10-golovka-bloka-tsilindrov-vostanovlennaya/</url>
-        <currencyId>RUB</currencyId>
-        <categoryId>58</categoryId>
-        <vendor>Yard76</vendor>
-        <vendorCode>5340.1003010-10 (Я)</vendorCode>
-        <price>80000</price>
-        <quantity>1</quantity>
-        <description>5340 . 1003010 - 10 Головка блока цилиндров (востановленная)</description>
-      </offer>
-      <offer id="240-1105010" available="true">
-        <name>240-1105010 Фильтр топливный МТЗ,Д-120,Д-144,Т-25 грубой очистки (металл) ММЗ</name>
-        <url>https://yard76.ru/catalog/prochie-zapchasti-yamz/prochie-zapchasti/9-3-628-filtr-toplivnyy-v-sbore-so-stakanom-kryshkoy/</url>
-        <currencyId>RUB</currencyId>
-        <categoryId>59</categoryId>
-        <vendor>Yard76</vendor>
-        <vendorCode>240-1105010</vendorCode>
-        <price>3027</price>
-        <quantity>1</quantity>
-        <description>... 4326, 44108, 53215, 53605, 54115, 5460, 55111, 6460, 65111, 65115, 65116, 65117, 6520, 6522, 65225, 6540 (740.30-260 740.31- 240 , 740.50-360, 740.51-260, 740.51-320) - до 150 кВт / PCM-530 Aкрос 410 420 Вектор / НефАЗ 5299 / DOOSAN ... ... PL270 PL PL2707x / Sinotruck 13050733 / Fleetguard FS19907 / Сlarcor WBF219B1 / Hengst H304WK / Bosch F026402039 / ФТ 030. 1105010 / 030- 1105010 / NF3502K / НФ 270-Т / 350201100 / GB-6118 / EKO-03.35</description>
-      </offer>
-      <offer id="1001397838" available="true">
+      <offer id="1001397838" available="false">
         <name>1001397838（610800010015+610800010017） Вкладыш коренной нижний</name>
         <url>https://yard76.ru/catalog/weichai/osnovnye-zapchasti-dlya-dvigateley_1/tsilindro-porshnevaya-gruppa-tspg-i-shatuny_1/1001397838-610800010015-610800010017-vkladysh-korennoy-nizhniy/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>60</categoryId>
+        <categoryId>53</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>1001397838</vendorCode>
-        <quantity>1</quantity>
+        <price>4136.6</price>
         <description>1001397838 （610800010015+610800010017） Вкладыш коренной нижний Вкладыш коренной WeiChai 1001397838 Производитель - WeiChai Применяемость - Двигатели WP7.270E51 модели DHP07Q0308,...</description>
       </offer>
-      <offer id="313858-П" available="true">
-        <name>----//----</name>
+      <offer id="313858-П" available="false">
+        <name>313858-П Заглушка</name>
         <url>https://yard76.ru/catalog/prochie-zapchasti-yamz/metizy/650-semeystvo_31/313858-p-zaglushka/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/a82/285_300_1b317f14b8d9572252d4d61796be32f30/dtriv6fclfjqaqd26rmfzx5x50cgzkid.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>61</categoryId>
+        <categoryId>54</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>313858-П</vendorCode>
         <price>44.04</price>
-        <quantity>1</quantity>
         <description>Покупайте 313858-П Заглушка для двигателей ЯМЗ от официального дилера в Ярославле. В наличии и под заказ, низкие цены.</description>
       </offer>
       <offer id="4320-1013111" available="true">
-        <name>----//----</name>
+        <name>4320-1013111 Рукав 16х25 L=850 (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/4320-1013111-rukav-16kh25-l-850-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>62</categoryId>
+        <categoryId>55</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4320-1013111</vendorCode>
         <price>170</price>
         <quantity>41</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 4320-1013111 Рукав 16х25 L=850 (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="245-1003018-Б6" available="true">
+      <offer id="245-1003018-Б6" available="false">
         <name>245-1003018-Б6 Седло клапана Д-243, Д-245 впускного (заготовка)</name>
         <url>https://yard76.ru/catalog/kzpm/245-1003018-b6-sedlo-klapana-d-243-d-245-vpusknogo-zagotovka/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>63</categoryId>
-        <vendor>КЗПМ Применяемость: ММЗ</vendor>
+        <categoryId>56</categoryId>
+        <vendor>КЗПМ</vendor>
         <vendorCode>245-1003018-Б6</vendorCode>
         <price>362</price>
-        <quantity>1</quantity>
         <description>245 - 1003018 - Б6 Седло клапана Д-243, Д- 245 впускного (заготовка) 245 - 1003018 - Б6 Седло клапана Д-243, Д- 245 впускного (заготовка) Производитель: КЗПМ Применяемость: ММЗ ...</description>
       </offer>
-      <offer id="650.1000186" available="true">
-        <name>650.1000186 Двигатель (ЕВРО-3)</name>
-        <url>https://yard76.ru/news/remont-i-obsluzhivanie-tnvd-yamz-sovety-i-rekomendatsii/</url>
-        <currencyId>RUB</currencyId>
-        <categoryId>64</categoryId>
-        <vendor>Yard76</vendor>
-        <vendorCode>650.1000186</vendorCode>
-        <price>3156826.86</price>
-        <quantity>1</quantity>
-        <description>..., и когда нужен ремонт. 1. Основные неисправности ТНВД ЯМЗ и их симптомы Типичные проблемы насоса ЯМЗ (например, моделей ЯМЗ-238 , ЯМЗ-536 (53633. 1000186 -03) , ЯМЗ- 650 ): Затрудненный пуск двигателя – износ плунжерных пар, утечки топлива. Неравномерная работа дизеля – загрязнение или заклинивание регулятора ...</description>
-      </offer>
-      <offer id="1000495066" available="true">
+      <offer id="1000495066" available="false">
         <name>1000495066 Штанга толкателя</name>
         <url>https://yard76.ru/catalog/weichai/osnovnye-zapchasti-dlya-dvigateley_1/klapana-i-tolkateli_1/1000495066-shtanga-tolkatelya/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/954/840_840_1b317f14b8d9572252d4d61796be32f30/2f9fuwds9lrv3c15ge3p8gv2yecgjthg.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>65</categoryId>
+        <categoryId>57</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>1000495066</vendorCode>
         <price>444.6</price>
-        <quantity>1</quantity>
         <description>1000495066 Штанга толкателя Штанга WeiChai 100495066 Производитель - WeiChai Применяемость - Двигатели WP12.430E50 модели DHP12Q0941, DHP12Q1621, DHP12Q1808, DHP12Q2234, DHP12Q2390, DHP12Q2656 ...</description>
       </offer>
-      <offer id="240-1007015-Б9" available="true">
+      <offer id="240-1007015-Б9" available="false">
         <name>240-1007015-Б9 Клапан выпускной ЗИЛ-5301,МТЗ,Д-260 (малый) ММЗ</name>
         <url>https://yard76.ru/catalog/mmz-minskiy-motornyy-zavod/osnovnye-zapchasti-dlya-dvigateley_2/klapana-i-tolkateli-mmz/240-1007015-b9-klapan-vypusknoy-zil-5301-mtz-d-260-malyy-mmz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>66</categoryId>
+        <categoryId>58</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1007015-Б9</vendorCode>
         <price>485</price>
-        <quantity>1</quantity>
         <description>240 - 1007015 - Б9 Клапан выпускной ЗИЛ-5301,МТЗ,Д-260 (малый) ММЗ</description>
       </offer>
       <offer id="4322-2912410" available="true">
-        <name>----//----</name>
+        <name>У4322-2912410 Гайка упакованная (20 шт) (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/u4322-2912410-gayka-upakovannaya-20-sht-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>67</categoryId>
+        <categoryId>59</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4322-2912410</vendorCode>
         <price>45</price>
         <quantity>28</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте У4322-2912410 Гайка упакованная (20 шт) (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="4320NT-5001060" available="true">
-        <name>----//----</name>
+        <name>4320NT-5001060 Опора кабины (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/4320nt-5001060-opora-kabiny-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>68</categoryId>
+        <categoryId>60</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4320NT-5001060</vendorCode>
         <price>18200</price>
         <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 4320NT-5001060 Опора кабины (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="4320Д9-1108280" available="true">
-        <name>----//----</name>
+        <name>4320Д9-1108280 Трос управления подачей топлива (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/4320d9-1108280-tros-upravleniya-podachey-topliva-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>69</categoryId>
+        <categoryId>61</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4320Д9-1108280</vendorCode>
         <price>1500</price>
         <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 4320Д9-1108280 Трос управления подачей топлива (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="ДСФ-45" available="true">
-        <name>----//----</name>
+        <name>ДСФ-45 Датчик сигнализатора засоренности воздушного фильтра (пр-во Экран)</name>
         <url>https://yard76.ru/catalog/ural/dsf-45-datchik-signalizatora-zasorennosti-vozdushnogo-filtra-pr-vo-ekran/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>70</categoryId>
+        <categoryId>62</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>ДСФ-45</vendorCode>
         <price>570</price>
         <quantity>6</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте ДСФ-45 Датчик сигнализатора засоренности воздушного фильтра (пр-во Экран) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="1000183437" available="true">
+      <offer id="1000183437" available="false">
         <name>1000183437 Упорное полукольцо верхнее Weichai</name>
         <url>https://yard76.ru/catalog/weichai/osnovnye-zapchasti-dlya-dvigateley_1/1000183437-upornoe-polukoltso-verkhnee-weichai-/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>71</categoryId>
+        <categoryId>63</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>1000183437</vendorCode>
         <price>372.41</price>
-        <quantity>1</quantity>
         <description>1000183437 Упорное полукольцо верхнее Weichai Обозначение / артикул / каталожный номер: 1000183437 Тип: сталь Вид: сменный Применяемость: Двигатели ...</description>
       </offer>
-      <offer id="240-1006214-А1" available="true">
+      <offer id="240-1006214-А1" available="false">
         <name>240-1006214-А1 Шестерня ЗИЛ-5301 распредвала z=40 ММЗ</name>
         <url>https://yard76.ru/catalog/mmz-minskiy-motornyy-zavod/osnovnye-zapchasti-dlya-dvigateley_2/raspredval-mmz/240-1006214-a1-shesternya-zil-5301-raspredvala-z-40-mmz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>64</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1006214-А1</vendorCode>
         <price>5105</price>
-        <quantity>1</quantity>
         <description>240 - 1006214 - А1 Шестерня ЗИЛ-5301 распредвала z=40 ММЗ</description>
       </offer>
       <offer id="4320Я2-3724020-11" available="true">
-        <name>----//----</name>
+        <name>4320Я2-3724020-11 Пучок проводов (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/4320ya2-3724020-11-puchok-provodov-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>73</categoryId>
+        <categoryId>65</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4320Я2-3724020-11</vendorCode>
         <price>5000</price>
         <quantity>2</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 4320Я2-3724020-11 Пучок проводов (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="1000101611" available="true">
+      <offer id="1000101611" available="false">
         <name>1000101611 Weichai Топливные трубки ОРИГИНАЛ Shacman X3000</name>
         <url>https://yard76.ru/catalog/weichai/1000101611-weichai-toplivnye-trubki-original-shacman-x3000/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>74</categoryId>
-        <vendor>WEICHAI Вес</vendor>
+        <categoryId>66</categoryId>
+        <vendor>WEICHAI</vendor>
         <vendorCode>1000101611</vendorCode>
-        <quantity>1</quantity>
+        <price>3525.9</price>
         <description>1000101611 Weichai Топливные трубки ОРИГИНАЛ Shacman X3000 Артикул: 1000101611 Производитель: WEICHAI Вес, кг.: 0.18 Длина, мм.: 40 Ширина, мм.: 100 Высота, мм.: 220</description>
       </offer>
-      <offer id="АИ-3501036" available="true">
-        <name>----//----</name>
+      <offer id="АИ-3501036" available="false">
+        <name>АИ-3501036 Пружина колодок стяжная (13Х301, пр-во АО АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/ai-3501036-pruzhina-kolodok-styazhnaya-13kh301-pr-vo-ao-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
+        <categoryId>67</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>АИ-3501036</vendorCode>
         <price>550</price>
-        <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте АИ-3501036 Пружина колодок стяжная (13Х301, пр-во АО АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="14.1701092" available="true">
+      <offer id="14.1701092" available="false">
         <name>14.1701092 Ось КАМский АЗ блока шестерен</name>
         <url>https://yard76.ru/catalog/dvigatel-cummins-kamskiy-az/prochiee-zch/14-1701092-os-kamaz-bloka-shesteren/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>68</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>14.1701092</vendorCode>
         <price>1961.19</price>
-        <quantity>1</quantity>
         <description>14 . 1701092 Ось КАМский АЗ блока шестерен Ось КАМский АЗ блока шестерен Ширина, м: 0.032 Высота, м: 0.032 Длина, м: 0.215 Вес, кг: 1.25</description>
       </offer>
-      <offer id="240-1004022" available="true">
-        <name>240-1004022 Кольцо ЗИЛ-5301,Д-243,Д-245 стопорное пальца поршневого d=38мм ММЗ</name>
-        <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/tsilindro-porshnevaya-gruppa-tspg-i-shatuny/v-obraznoe-semeystvo_32/236-1004022-b-koltso-stopornoe/</url>
-        <currencyId>RUB</currencyId>
-        <categoryId>77</categoryId>
-        <vendor>Yard76</vendor>
-        <vendorCode>240-1004022</vendorCode>
-        <price>61.93</price>
-        <quantity>1</quantity>
-        <description>236- 1004022 -Б Кольцо стопорное Кольцо стопорное поршневого пальца ЯМЗ-236,ЯМЗ-238,ЯМЗ- 240 Производитель – ПАО «Автодизель» (ЯМЗ) Применяемость – Двигатели ЯМЗ-236, ЯМЗ-238, ЯМЗ- 240 , ЯМЗ-236М2, ЯМЗ-238М2 ДШВ - 0.05 Х 0.05 Х 0.001 м</description>
-      </offer>
-      <offer id="АД-200.0010002-13" available="true">
+      <offer id="АД-200.0010002-13" available="false">
         <name>АД-200.0010002-13 (UCD127K / Stamford (Cummins Inc.)) Электроагрегат дизельный</name>
         <url>https://yard76.ru/catalog/dizelnye-generatory/0200-220-kvt/ad-200-0010002-13-ucd127k-stamford-cummins-inc-elektroagregat-dizelnyy/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>78</categoryId>
+        <categoryId>69</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>АД-200.0010002-13</vendorCode>
         <price>1002540</price>
-        <quantity>1</quantity>
         <description>АД - 200 . 0010002 - 13 (UCD127K / Stamford (Cummins Inc.) Электроагрегат дизельный</description>
       </offer>
       <offer id="12JS200T-1707030" available="true">
         <name>12JS200T-1707030 Шестерня ведущая демультипликатора КПП 12JS200TА, Shaanxi Fast Gear</name>
         <url>https://yard76.ru/catalog/korobki-peredach-fast-maz-shaanxi-fast-gear/12-stupenchataya/12js200t-1707030-shesternya-vedushchaya-demultiplikatora-kpp-12js200ta-shaanxi-fast-gear/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/f44/415_300_1b317f14b8d9572252d4d61796be32f30/hv5vakqcr2ubslpx8w4kkma69k4fkeea.png</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>79</categoryId>
+        <categoryId>70</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>12JS200T-1707030</vendorCode>
         <price>5197.92</price>
         <quantity>1</quantity>
         <description>12JS200T - 1707030 Шестерня ведущая демультипликатора КПП 12JS200TА, Shaanxi Fast Gear Коробка переключения передач 12JS200TA-G2193 Производитель - Производитель - ООО «ФАСТ-МАЗ» ...</description>
       </offer>
-      <offer id="536.1003270-01" available="true">
-        <name>----//----</name>
+      <offer id="536.1003270-01" available="false">
+        <name>536.1003270-01 Прокладка крышки клапанной (для двигателей ЯМЗ-536, пр-во Автодизель)</name>
         <url>https://yard76.ru/catalog/osnovnye-zapchasti-dlya-dvigateley/blok-tsilindrov/530-semeystvo_13/536-1003270-01-prokladka-kryshki-klapannoy-yamz-536-pr-vo-avtodizel/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>80</categoryId>
+        <categoryId>71</categoryId>
         <vendor>Автодизель</vendor>
         <vendorCode>536.1003270-01</vendorCode>
         <price>2341</price>
-        <quantity>1</quantity>
         <description>Покупайте 536.1003270-01 Прокладка крышки клапанной (ЯМЗ-536, пр-во Автодизель) для двигателей ЯМЗ от официального дилера в Ярославле. В наличии и под заказ, низкие цены.</description>
       </offer>
       <offer id="6367-3506396-01" available="true">
-        <name>----//----</name>
+        <name>6367-3506396-01 Шланг тормозов L 620 (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/6367-3506396-01-shlang-tormozov-l-620-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>81</categoryId>
+        <categoryId>72</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>6367-3506396-01</vendorCode>
         <price>500</price>
         <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 6367-3506396-01 Шланг тормозов L 620 (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="740-1008050" available="true">
-        <name>----//----</name>
+      <offer id="740-1008050" available="false">
+        <name>740-1008050 Прокладка в сборе (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/740-1008050-prokladka-v-sbore-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>82</categoryId>
+        <categoryId>73</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>740-1008050</vendorCode>
         <price>37</price>
-        <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 740-1008050 Прокладка в сборе (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="ПЖД30А-1015006-01" available="true">
-        <name>----//----</name>
+      <offer id="ПЖД30А-1015006-01" available="false">
+        <name>ПЖД30А-1015006-01 Подогреватель предпусковой жидкостный (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/pzhd30a-1015006-01-podogrevatel-predpuskovoy-zhidkostnyy-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>83</categoryId>
+        <categoryId>74</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>ПЖД30А-1015006-01</vendorCode>
         <price>31000</price>
-        <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте ПЖД30А-1015006-01 Подогреватель предпусковой жидкостный (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="06.56341.4254" available="true">
-        <name>----//----</name>
+      <offer id="06.56341.4254" available="false">
+        <name>06.56341.4254 О-образное уплотнительное кольцо (253х5, пр-во Shaanxi/Shacman)</name>
         <url>https://yard76.ru/catalog/ural/06-56341-4254-o-obraznoe-uplotnitelnoe-koltso-253kh5-pr-vo-shaanxi-shacman/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>85</categoryId>
+        <categoryId>76</categoryId>
         <vendor>Shaanxi/Shacman</vendor>
         <vendorCode>06.56341.4254</vendorCode>
         <price>20</price>
-        <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 06.56341.4254 О-образное уплотнительное кольцо (253х5, пр-во Shaanxi/Shacman) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="256834-П" available="true">
-        <name>----//----</name>
+        <name>256834-П Заклепка 10х16 (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/256834-p-zaklepka-10kh16-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>86</categoryId>
+        <categoryId>77</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>256834-П</vendorCode>
         <price>8</price>
         <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 256834-П Заклепка 10х16 (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="355В-3724032" available="true">
-        <name>----//----</name>
+        <name>355В-3724032 Скоба (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/355v-3724032-skoba-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>87</categoryId>
+        <categoryId>78</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>355В-3724032</vendorCode>
         <price>208.01</price>
         <quantity>40</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 355В-3724032 Скоба (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="4320Х-3711121-10" available="true">
-        <name>----//----</name>
+        <name>4320Х-3711121-10 Ободок фары (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/4320kh-3711121-10-obodok-fary-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>88</categoryId>
+        <categoryId>79</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4320Х-3711121-10</vendorCode>
         <price>260</price>
         <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 4320Х-3711121-10 Ободок фары (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="5323-1104069" available="true">
-        <name>----//----</name>
+        <name>5323-1104069 Рукав 12Х20-1.6 L-210 (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/5323-1104069-rukav-12kh20-1-6-l-210-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>89</categoryId>
+        <categoryId>80</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>5323-1104069</vendorCode>
         <price>55</price>
         <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 5323-1104069 Рукав 12Х20-1.6 L-210 (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="532301-3800101" available="true">
-        <name>----//----</name>
+        <name>532301-3800101 Панель приборов (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/532301-3800101-panel-priborov-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>90</categoryId>
+        <categoryId>81</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>532301-3800101</vendorCode>
         <price>3400</price>
         <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 532301-3800101 Панель приборов (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="240-1003033" available="true">
+      <offer id="240-1003033" available="false">
         <name>240-1003033 Коллектор МТЗ впускной ММЗ</name>
         <url>https://yard76.ru/catalog/mmz-minskiy-motornyy-zavod/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy_2/vpusknye-kollektora-otvodyashchie-patrubki-mmz/240-1003033-kollektor-mtz-vpusknoy-mmz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>91</categoryId>
+        <categoryId>82</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1003033</vendorCode>
         <price>4464</price>
-        <quantity>1</quantity>
         <description>240 - 1003033 Коллектор МТЗ впускной ММЗ</description>
       </offer>
       <offer id="3255П2-8101726-10" available="true">
-        <name>----//----</name>
+        <name>3255П2-8101726-10 Патрубок отводящий отопителя (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/3255p2-8101726-10-patrubok-otvodyashchiy-otopitelya-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>92</categoryId>
+        <categoryId>83</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>3255П2-8101726-10</vendorCode>
         <price>1050</price>
         <quantity>10</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 3255П2-8101726-10 Патрубок отводящий отопителя (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="375-3724070" available="true">
-        <name>----//----</name>
+        <name>375-3724070 Провод (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/375-3724070-provod-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>93</categoryId>
+        <categoryId>84</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>375-3724070</vendorCode>
         <price>260</price>
         <quantity>24</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 375-3724070 Провод (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="4320-8403270-01" available="true">
-        <name>----//----</name>
+      <offer id="4320-8403270-01" available="false">
+        <name>4320-8403270-01 Панель фары (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/4320-8403270-01-panel-fary-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>94</categoryId>
+        <categoryId>85</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4320-8403270-01</vendorCode>
         <price>3000</price>
-        <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 4320-8403270-01 Панель фары (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="532301-2304010" available="true">
-        <name>----//----</name>
+      <offer id="532301-2304010" available="false">
+        <name>532301-2304010 Кулак поворотный правый (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/532301-2304010-kulak-povorotnyy-pravyy-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>95</categoryId>
+        <categoryId>86</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>532301-2304010</vendorCode>
         <price>99790</price>
-        <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 532301-2304010 Кулак поворотный правый (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="93.5205900" available="true">
-        <name>----//----</name>
+        <name>93.5205900 Щетка L-600 мм (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/93-5205900-shchetka-l-600-mm-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>96</categoryId>
+        <categoryId>87</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>93.5205900</vendorCode>
         <price>600</price>
         <quantity>3</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 93.5205900 Щетка L-600 мм (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="КГЦ947.3-100-3522" available="true">
-        <name>----//----</name>
+        <name>КГЦ947.3-100-3522 Гидроцилиндр (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/kgts947-3-100-3522-gidrotsilindr-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>97</categoryId>
+        <categoryId>88</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>КГЦ947.3-100-3522</vendorCode>
         <price>46900</price>
         <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте КГЦ947.3-100-3522 Гидроцилиндр (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="240-1401015-А2" available="true">
+      <offer id="240-1401015-А2" available="false">
         <name>240-1401015-А2 Картер МТЗ,Д-240,243 масляный ММЗ</name>
         <url>https://yard76.ru/catalog/mmz-minskiy-motornyy-zavod/osnovnye-zapchasti-dlya-dvigateley_2/maslyanyy-karter-poddon-mmz/240-1401015-a2-karter-mtz-d-240-243-maslyanyy-mmz/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>99</categoryId>
+        <categoryId>90</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>240-1401015-А2</vendorCode>
         <price>27500</price>
-        <quantity>1</quantity>
         <description>240 - 1401015 - А2 Картер МТЗ,Д- 240 ,243 масляный ММЗ</description>
       </offer>
-      <offer id="1000424916" available="true">
+      <offer id="1000424916" available="false">
         <name>1000424916 Фильтр топливный SHACMAN SHAANXI грубой очистки OE</name>
         <url>https://yard76.ru/catalog/weichai/zapchasti-sistemy-pitaniya-i-toplivnoy-sistemy_1/filtra-ochistki-topliva-fgot-ftot_1/1000424916-filtr-toplivnyy/</url>
+        <picture>https://yard76.ru/upload/resize_cache/iblock/664/281_300_1b317f14b8d9572252d4d61796be32f30/599w1kmvd1horne7hr99yvzndsijrwen.jpeg</picture>
         <currencyId>RUB</currencyId>
-        <categoryId>100</categoryId>
+        <categoryId>91</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>1000424916</vendorCode>
-        <quantity>1</quantity>
+        <price>2935.4</price>
         <description>1000424916 Фильтр топливный SHACMAN SHAANXI грубой очистки OE Фильтр топливный WeiChai 1000424916 Производитель - WeiChai Применяемость - Двигатели WP7.300E51 ...</description>
       </offer>
-      <offer id="ADP10С-Т400-1РГ" available="true">
-        <name>ADP10С-Т400-1РГ</name>
-        <url>https://yard76.ru/news/dizelnyy-generator-dlya-chastnogo-doma-kak-vybrat/</url>
-        <currencyId>RUB</currencyId>
-        <categoryId>101</categoryId>
-        <vendor>Yard76</vendor>
-        <vendorCode>ADP10С-Т400-1РГ</vendorCode>
-        <price>640525.42</price>
-        <quantity>1</quantity>
-        <description>... отсутствии электрической сети, или большой стоимости ее прокладывания. Учитывая приведенные аргументы, с помощью дизельной электростанцией ( ADP10С - Т400 - 1РГ ) проблемы электропитания в доме закроются полностью. Когда понадобится генератор на бензине При низкой цене, он недорогой в ремонте ...</description>
-      </offer>
-      <offer id="АД-150.0010002-13" available="true">
+      <offer id="АД-150.0010002-13" available="false">
         <name>АД-150.0010002-13 Электроагрегат дизельный (UCI27H /Stamford (Cummins Inc.))</name>
         <url>https://yard76.ru/catalog/dizelnye-generatory/0150-180-kvt/ad-150-0010002-13-elektroagregat-dizelnyy-uci27h-stamford-cummins-inc-/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>102</categoryId>
+        <categoryId>92</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>АД-150.0010002-13</vendorCode>
         <price>725371.5</price>
-        <quantity>1</quantity>
         <description>АД - 150 . 0010002 - 13 Электроагрегат дизельный (UCI27H /Stamford (Cummins Inc.)</description>
       </offer>
       <offer id="4320-1302040" available="true">
-        <name>----//----</name>
+        <name>4320-1302040 Подушка подвески радиатора (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/4320-1302040-podushka-podveski-radiatora-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>103</categoryId>
+        <categoryId>93</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4320-1302040</vendorCode>
         <price>35</price>
         <quantity>148</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 4320-1302040 Подушка подвески радиатора (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
       <offer id="4320-5325151" available="true">
-        <name>----//----</name>
+        <name>4320-5325151 Накладка панели с кронштейном левая в сборе (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/4320-5325151-nakladka-paneli-s-kronshteynom-levaya-v-sbore-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>104</categoryId>
+        <categoryId>94</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4320-5325151</vendorCode>
         <price>1380</price>
         <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 4320-5325151 Накладка панели с кронштейном левая в сборе (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="4320Я-1203487" available="true">
-        <name>----//----</name>
+      <offer id="4320Я-1203487" available="false">
+        <name>4320Я-1203487 Фланец труб приемных дв.ЯМЗ с лыской (ф69х110х3, пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/4320ya-1203487-flanets-trub-priemnykh-dv-yamz-s-lyskoy-f69kh110kh3-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>105</categoryId>
+        <categoryId>95</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>4320Я-1203487</vendorCode>
         <price>205</price>
-        <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 4320Я-1203487 Фланец труб приемных дв.ЯМЗ с лыской (ф69х110х3, пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="5557-2912101" available="true">
-        <name>----//----</name>
+      <offer id="5557-2912101" available="false">
+        <name>5557-2912101 Лист задней рессоры Й1 (пр-во АЗ УРАЛ)</name>
         <url>https://yard76.ru/catalog/ural/5557-2912101-list-zadney-ressory-y1-pr-vo-az-ural/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>106</categoryId>
+        <categoryId>96</categoryId>
         <vendor>Уралаз</vendor>
         <vendorCode>5557-2912101</vendorCode>
         <price>2750</price>
-        <quantity>1</quantity>
-        <description>Покупайте #NAME# от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
+        <description>Покупайте 5557-2912101 Лист задней рессоры Й1 (пр-во АЗ УРАЛ) от официального дилера в Ярославле: цена, характеристики, доставка по РФ</description>
       </offer>
-      <offer id="610800040023" available="true">
+      <offer id="610800040023" available="false">
         <name>610800040023 прокладка головки цилиндра</name>
         <url>https://yard76.ru/catalog/weichai/osnovnye-zapchasti-dlya-dvigateley_1/golovka-tsilindrov-gbts_1/610800040023-prokladka-golovki-tsilindra/</url>
         <currencyId>RUB</currencyId>
-        <categoryId>107</categoryId>
+        <categoryId>97</categoryId>
         <vendor>Yard76</vendor>
         <vendorCode>610800040023</vendorCode>
-        <quantity>1</quantity>
+        <price>5536.7</price>
         <description>610800040023 прокладка головки цилиндра Прокладка ГБЦ WеiChai 610800040023 Производитель - WeiChai Применяемость - Двигатели WP7.270E51 модели DHP07Q0308, DHP07Q0519. Размеры ...</description>
       </offer>
     </offers>
