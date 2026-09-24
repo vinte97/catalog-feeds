@@ -7,9 +7,12 @@ and writes two reproducible artifacts next to this file:
 * ``offers.jsonl`` – raw, normalized product records;
 * ``feed.xml`` – Yandex Market YML ready for B24U import.
 
-No price, stock, article, or availability is inferred: TerraFrigo's public
-product pages do not expose those fields consistently. Product images are
-read only from the main product gallery, never from related-content blocks.
+Public product pages do not expose a retail price. B24U's import filter
+rejects offers with no <price> (FEED_ALL_FILTERED / «Нет цены»), so the feed
+writes <price>0</price> as a placeholder and appends «Цена: по запросу» to
+description — never invent a real amount. Cards also get available,
+vendorCode, and quantity like prosps/smazki. Images come only from the main
+gallery.
 """
 
 from __future__ import annotations
@@ -223,8 +226,13 @@ def build_yml(records: list[dict[str, object]], destination: Path) -> None:
 
     offers = ET.SubElement(shop, "offers")
     for record in records:
-        offer = ET.SubElement(offers, "offer", {"id": str(record["id"])})
-        # B24U requires this order. Do not add <param>: use description instead.
+        # Card order for B24U photos. No <param>.
+        # Price 0 = placeholder: public site has no retail price; real amount is
+        # «по запросу». Omitting <price> makes B24U drop every offer
+        # (FEED_ALL_FILTERED / Нет цены).
+        offer = ET.SubElement(
+            offers, "offer", {"id": str(record["id"]), "available": "true"}
+        )
         append_text(offer, "name", record["name"])
         append_text(offer, "url", record["url"])
         for picture in record["pictures"]:
@@ -232,8 +240,13 @@ def build_yml(records: list[dict[str, object]], destination: Path) -> None:
         append_text(offer, "currencyId", "RUB")
         append_text(offer, "categoryId", category_ids[str(record["category"])])
         append_text(offer, "vendor", record["vendor"])
-        if record["description"]:
-            append_text(offer, "description", record["description"])
+        append_text(offer, "vendorCode", record["id"])
+        append_text(offer, "price", "0")
+        append_text(offer, "quantity", "1")
+        description = clean_text(str(record.get("description") or ""))
+        if "цена:" not in description.lower():
+            description = f"{description} Цена: по запросу".strip()
+        append_text(offer, "description", description)
 
     ET.indent(root, space="  ")
     destination.write_bytes(b'<?xml version="1.0" encoding="utf-8"?>\n' + ET.tostring(root, encoding="utf-8"))
