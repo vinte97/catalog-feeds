@@ -218,11 +218,11 @@ def build_yml(records: list[dict[str, object]], destination: Path) -> None:
     currencies = ET.SubElement(shop, "currencies")
     ET.SubElement(currencies, "currency", {"id": "RUB", "rate": "1"})
 
-    category_names = list(dict.fromkeys(str(item["category"]) for item in records))
-    category_ids = {name: str(index) for index, name in enumerate(category_names, start=1)}
+    # One categoryId on purpose. The live trial indexer (cutover, until the
+    # 2026-09 demo_feed_selection fix is deployed) keeps a single category and
+    # would drop the other two sections. The real section stays in the description.
     categories = ET.SubElement(shop, "categories")
-    for category_name in category_names:
-        append_text(categories, "category", category_name).set("id", category_ids[category_name])
+    append_text(categories, "category", "Каталог TerraFrigo").set("id", "1")
 
     offers = ET.SubElement(shop, "offers")
     for record in records:
@@ -238,12 +238,15 @@ def build_yml(records: list[dict[str, object]], destination: Path) -> None:
         for picture in record["pictures"]:
             append_text(offer, "picture", picture)
         append_text(offer, "currencyId", "RUB")
-        append_text(offer, "categoryId", category_ids[str(record["category"])])
+        append_text(offer, "categoryId", "1")
         append_text(offer, "vendor", record["vendor"])
         append_text(offer, "vendorCode", record["id"])
         append_text(offer, "price", "0")
         append_text(offer, "quantity", "1")
         description = clean_text(str(record.get("description") or ""))
+        section = clean_text(str(record.get("category") or ""))
+        if section and not description.startswith("Раздел:"):
+            description = f"Раздел: {section}. {description}".strip()
         if "цена:" not in description.lower():
             description = f"{description} Цена: по запросу".strip()
         append_text(offer, "description", description)
